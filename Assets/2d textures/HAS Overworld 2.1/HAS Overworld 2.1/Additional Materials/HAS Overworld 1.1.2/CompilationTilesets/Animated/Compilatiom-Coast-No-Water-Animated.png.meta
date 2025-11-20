@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: c7504d3a50a911d4286e6d7f79c482d8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7190783013968822791
+    second: Compilatiom-Coast-No-Water-Animated_0
+  - first:
+      213: 6976031592783887708
+    second: Compilatiom-Coast-No-Water-Animated_1
+  - first:
+      213: 7135591904671148383
+    second: Compilatiom-Coast-No-Water-Animated_2
+  - first:
+      213: 3531598738593670496
+    second: Compilatiom-Coast-No-Water-Animated_3
+  - first:
+      213: -5718095726098963586
+    second: Compilatiom-Coast-No-Water-Animated_4
+  - first:
+      213: -9126224277571091013
+    second: Compilatiom-Coast-No-Water-Animated_5
+  - first:
+      213: 1409517773437010398
+    second: Compilatiom-Coast-No-Water-Animated_6
+  - first:
+      213: -3204883542205115455
+    second: Compilatiom-Coast-No-Water-Animated_7
+  - first:
+      213: -5207262389332860029
+    second: Compilatiom-Coast-No-Water-Animated_8
+  - first:
+      213: 6375554776954874389
+    second: Compilatiom-Coast-No-Water-Animated_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Compilatiom-Coast-No-Water-Animated_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 319
+        width: 114
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fdb97b72f4353c90800000000000000
+      internalID: -7190783013968822791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilatiom-Coast-No-Water-Animated_1
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 319
+        width: 114
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d39c5e5c7dfc060800000000000000
+      internalID: 6976031592783887708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilatiom-Coast-No-Water-Animated_2
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 319
+        width: 114
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59a3140807b60360800000000000000
+      internalID: 7135591904671148383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilatiom-Coast-No-Water-Animated_3
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 319
+        width: 114
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 065e71f6752c20130800000000000000
+      internalID: 3531598738593670496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilatiom-Coast-No-Water-Animated_4
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 319
+        width: 114
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e73213e9b3e35a0b0800000000000000
+      internalID: -5718095726098963586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilatiom-Coast-No-Water-Animated_5
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 319
+        width: 113
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb544d25f53295180800000000000000
+      internalID: -9126224277571091013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilatiom-Coast-No-Water-Animated_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 196
+        width: 768
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed1005e62fc9f8310800000000000000
+      internalID: 1409517773437010398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilatiom-Coast-No-Water-Animated_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 68
+        width: 768
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c35e580667f583d0800000000000000
+      internalID: -3204883542205115455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilatiom-Coast-No-Water-Animated_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 35
+        width: 768
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 383209732761cb7b0800000000000000
+      internalID: -5207262389332860029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilatiom-Coast-No-Water-Animated_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 768
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51aa07e5a458a7850800000000000000
+      internalID: 6375554776954874389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Compilatiom-Coast-No-Water-Animated_0: -7190783013968822791
+      Compilatiom-Coast-No-Water-Animated_1: 6976031592783887708
+      Compilatiom-Coast-No-Water-Animated_2: 7135591904671148383
+      Compilatiom-Coast-No-Water-Animated_3: 3531598738593670496
+      Compilatiom-Coast-No-Water-Animated_4: -5718095726098963586
+      Compilatiom-Coast-No-Water-Animated_5: -9126224277571091013
+      Compilatiom-Coast-No-Water-Animated_6: 1409517773437010398
+      Compilatiom-Coast-No-Water-Animated_7: -3204883542205115455
+      Compilatiom-Coast-No-Water-Animated_8: -5207262389332860029
+      Compilatiom-Coast-No-Water-Animated_9: 6375554776954874389
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

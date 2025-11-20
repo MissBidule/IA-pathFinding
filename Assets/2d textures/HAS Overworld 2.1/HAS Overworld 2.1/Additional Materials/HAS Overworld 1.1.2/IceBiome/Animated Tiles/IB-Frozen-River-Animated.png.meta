@@ -1,0 +1,1495 @@
+fileFormatVersion: 2
+guid: 2aec57efa739d9d40897bb2a793f1d91
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2191686692685416319
+    second: IB-Frozen-River-Animated_0
+  - first:
+      213: -6677682945846395603
+    second: IB-Frozen-River-Animated_1
+  - first:
+      213: -5018429100097695427
+    second: IB-Frozen-River-Animated_2
+  - first:
+      213: -7259209376132330787
+    second: IB-Frozen-River-Animated_3
+  - first:
+      213: -6275210877546773713
+    second: IB-Frozen-River-Animated_4
+  - first:
+      213: 1154472291338708524
+    second: IB-Frozen-River-Animated_5
+  - first:
+      213: 2301638422716656116
+    second: IB-Frozen-River-Animated_6
+  - first:
+      213: 9061708163152877623
+    second: IB-Frozen-River-Animated_7
+  - first:
+      213: 5688671618412839004
+    second: IB-Frozen-River-Animated_8
+  - first:
+      213: -7704966228783952661
+    second: IB-Frozen-River-Animated_9
+  - first:
+      213: 4205822351024557127
+    second: IB-Frozen-River-Animated_10
+  - first:
+      213: -1816554570345838521
+    second: IB-Frozen-River-Animated_11
+  - first:
+      213: 4100201943449425335
+    second: IB-Frozen-River-Animated_12
+  - first:
+      213: -5130116635367925838
+    second: IB-Frozen-River-Animated_13
+  - first:
+      213: 2193854603583607219
+    second: IB-Frozen-River-Animated_14
+  - first:
+      213: 1583348657477093416
+    second: IB-Frozen-River-Animated_15
+  - first:
+      213: -8671159197773879392
+    second: IB-Frozen-River-Animated_16
+  - first:
+      213: -6055185160380861578
+    second: IB-Frozen-River-Animated_17
+  - first:
+      213: 8815721079231592833
+    second: IB-Frozen-River-Animated_18
+  - first:
+      213: 5779211845123234731
+    second: IB-Frozen-River-Animated_19
+  - first:
+      213: -8917194295644589372
+    second: IB-Frozen-River-Animated_20
+  - first:
+      213: -7049747373554824301
+    second: IB-Frozen-River-Animated_21
+  - first:
+      213: 2170654133603222861
+    second: IB-Frozen-River-Animated_22
+  - first:
+      213: -2818366718850476974
+    second: IB-Frozen-River-Animated_23
+  - first:
+      213: 3044476677797455882
+    second: IB-Frozen-River-Animated_24
+  - first:
+      213: 5422894390707691045
+    second: IB-Frozen-River-Animated_25
+  - first:
+      213: 2726495366271076650
+    second: IB-Frozen-River-Animated_26
+  - first:
+      213: 2983388355163098439
+    second: IB-Frozen-River-Animated_27
+  - first:
+      213: -3864788312328172540
+    second: IB-Frozen-River-Animated_28
+  - first:
+      213: -8493503771507565117
+    second: IB-Frozen-River-Animated_29
+  - first:
+      213: -1545241182804883119
+    second: IB-Frozen-River-Animated_30
+  - first:
+      213: -3894871086311873486
+    second: IB-Frozen-River-Animated_31
+  - first:
+      213: -4900752956273814637
+    second: IB-Frozen-River-Animated_32
+  - first:
+      213: 5842716882058979601
+    second: IB-Frozen-River-Animated_33
+  - first:
+      213: -4743095193321671999
+    second: IB-Frozen-River-Animated_34
+  - first:
+      213: 515162361319390697
+    second: IB-Frozen-River-Animated_35
+  - first:
+      213: 7118353429057091749
+    second: IB-Frozen-River-Animated_36
+  - first:
+      213: 887711352822066410
+    second: IB-Frozen-River-Animated_37
+  - first:
+      213: -1825088614995420930
+    second: IB-Frozen-River-Animated_38
+  - first:
+      213: 1325447541644074901
+    second: IB-Frozen-River-Animated_39
+  - first:
+      213: -8625668929216269503
+    second: IB-Frozen-River-Animated_40
+  - first:
+      213: -7190672919280523324
+    second: IB-Frozen-River-Animated_41
+  - first:
+      213: -4324469692760279060
+    second: IB-Frozen-River-Animated_42
+  - first:
+      213: -7416928426018578805
+    second: IB-Frozen-River-Animated_43
+  - first:
+      213: 4975939174340958867
+    second: IB-Frozen-River-Animated_44
+  - first:
+      213: -820422508162437818
+    second: IB-Frozen-River-Animated_45
+  - first:
+      213: 4921380943457511644
+    second: IB-Frozen-River-Animated_46
+  - first:
+      213: 9016172651746804712
+    second: IB-Frozen-River-Animated_47
+  - first:
+      213: 3498138399033642331
+    second: IB-Frozen-River-Animated_48
+  - first:
+      213: 5431653417819616852
+    second: IB-Frozen-River-Animated_49
+  - first:
+      213: 3691051971942654180
+    second: IB-Frozen-River-Animated_50
+  - first:
+      213: -3803696768729449948
+    second: IB-Frozen-River-Animated_51
+  - first:
+      213: -7618032091672435068
+    second: IB-Frozen-River-Animated_52
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IB-Frozen-River-Animated_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 434
+        width: 128
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 188f887a0909591e0800000000000000
+      internalID: -2191686692685416319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Frozen-River-Animated_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 402
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d342a9dba1453a0800000000000000
+      internalID: -6677682945846395603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Frozen-River-Animated_2
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 402
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d31913e7255fa5ab0800000000000000
+      internalID: -5018429100097695427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Frozen-River-Animated_3
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 402
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda8279888b124b90800000000000000
+      internalID: -7259209376132330787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Frozen-River-Animated_4
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 402
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f23482154f8f9e8a0800000000000000
+      internalID: -6275210877546773713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Frozen-River-Animated_5
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 402
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26664cae62850010800000000000000
+      internalID: 1154472291338708524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Frozen-River-Animated_6
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 402
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f9aa6b63ff01ff10800000000000000
+      internalID: 2301638422716656116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Frozen-River-Animated_7
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 402
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7381cfa3097a1cd70800000000000000
+      internalID: 9061708163152877623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Frozen-River-Animated_8
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 402
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c50085372b832fe40800000000000000
+      internalID: 5688671618412839004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Frozen-River-Animated_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 383
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec83fe9906721590800000000000000
+      internalID: -7704966228783952661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Frozen-River-Animated_10
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 383
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c873515251e5a30800000000000000
+      internalID: 4205822351024557127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Frozen-River-Animated_11
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 383
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7488c672e3d4ac6e0800000000000000
+      internalID: -1816554570345838521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Frozen-River-Animated_12
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 383
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b55baa91f7d6e830800000000000000
+      internalID: 4100201943449425335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Frozen-River-Animated_13
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 383
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b79294c91a2ec8b0800000000000000
+      internalID: -5130116635367925838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Frozen-River-Animated_14
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 383
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1d47f6323227e10800000000000000
+      internalID: 2193854603583607219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Frozen-River-Animated_15
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 383
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 828838c073f29f510800000000000000
+      internalID: 1583348657477093416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Frozen-River-Animated_16
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 383
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a7a3d1c6aad9a780800000000000000
+      internalID: -8671159197773879392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Frozen-River-Animated_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 354
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673384aad29a7fba0800000000000000
+      internalID: -6055185160380861578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Frozen-River-Animated_18
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 354
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 189b5862d9bb75a70800000000000000
+      internalID: 8815721079231592833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Frozen-River-Animated_19
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 354
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: babdc46bd82e33050800000000000000
+      internalID: 5779211845123234731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Frozen-River-Animated_20
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 354
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2f6fe8803cf3480800000000000000
+      internalID: -8917194295644589372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Frozen-River-Animated_21
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 354
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b850b6d144a2e90800000000000000
+      internalID: -7049747373554824301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Frozen-River-Animated_22
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 354
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4547a31f66bf1e10800000000000000
+      internalID: 2170654133603222861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Frozen-River-Animated_23
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 354
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 254522cc66623e8d0800000000000000
+      internalID: -2818366718850476974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Frozen-River-Animated_24
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 354
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a08241b7867204a20800000000000000
+      internalID: 3044476677797455882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Frozen-River-Animated_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 322
+        width: 128
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e179477bdf14b40800000000000000
+      internalID: 5422894390707691045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Frozen-River-Animated_26
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 335
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29065c071576d520800000000000000
+      internalID: 2726495366271076650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Frozen-River-Animated_27
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 335
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d888007ef176920800000000000000
+      internalID: 2983388355163098439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Frozen-River-Animated_28
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 335
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c0997a1838d5ac0800000000000000
+      internalID: -3864788312328172540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Frozen-River-Animated_29
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 335
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cdd9d00253012a80800000000000000
+      internalID: -8493503771507565117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Frozen-River-Animated_30
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 335
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1594c9ec4533e8ae0800000000000000
+      internalID: -1545241182804883119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Frozen-River-Animated_31
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 335
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 234e0760263a2f9c0800000000000000
+      internalID: -3894871086311873486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Frozen-River-Animated_32
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 335
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3939a5dc6270dfbb0800000000000000
+      internalID: -4900752956273814637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Frozen-River-Animated_33
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 335
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 119ad465c00851150800000000000000
+      internalID: 5842716882058979601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Frozen-River-Animated_34
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 290
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c2f23a3d042d2eb0800000000000000
+      internalID: -4743095193321671999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Frozen-River-Animated_35
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 290
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9edf71c2079362700800000000000000
+      internalID: 515162361319390697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Frozen-River-Animated_36
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 290
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a8b1a4aab879c260800000000000000
+      internalID: 7118353429057091749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Frozen-River-Animated_37
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 290
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec6a08a5c8c15c00800000000000000
+      internalID: 887711352822066410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Frozen-River-Animated_38
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 290
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef8969b039bfba6e0800000000000000
+      internalID: -1825088614995420930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Frozen-River-Animated_39
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 290
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f1c10448fe46210800000000000000
+      internalID: 1325447541644074901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Frozen-River-Animated_40
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 290
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 143b0f34fc77b4880800000000000000
+      internalID: -8625668929216269503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Frozen-River-Animated_41
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 290
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c76346e319953c90800000000000000
+      internalID: -7190672919280523324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Frozen-River-Animated_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 258
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce7b419f9b56cf3c0800000000000000
+      internalID: -4324469692760279060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Frozen-River-Animated_43
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 258
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e5aa2a4e6c11990800000000000000
+      internalID: -7416928426018578805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Frozen-River-Animated_44
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 258
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a1b8eb0561e0540800000000000000
+      internalID: 4975939174340958867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Frozen-River-Animated_45
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 258
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d2e3b53164d94f0800000000000000
+      internalID: -820422508162437818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Frozen-River-Animated_46
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 258
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd8692bb4e14c4440800000000000000
+      internalID: 4921380943457511644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Frozen-River-Animated_47
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 258
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e3c5fcc141ef1d70800000000000000
+      internalID: 9016172651746804712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Frozen-River-Animated_48
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 258
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5dcd890752eb8030800000000000000
+      internalID: 3498138399033642331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Frozen-River-Animated_49
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 258
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 456bc20610c116b40800000000000000
+      internalID: 5431653417819616852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Frozen-River-Animated_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 194
+        width: 128
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e0a5236630493330800000000000000
+      internalID: 3691051971942654180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Frozen-River-Animated_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 130
+        width: 128
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a749211fd863bc0800000000000000
+      internalID: -3803696768729449948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Frozen-River-Animated_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486a658bc20574690800000000000000
+      internalID: -7618032091672435068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      IB-Frozen-River-Animated_0: -2191686692685416319
+      IB-Frozen-River-Animated_1: -6677682945846395603
+      IB-Frozen-River-Animated_10: 4205822351024557127
+      IB-Frozen-River-Animated_11: -1816554570345838521
+      IB-Frozen-River-Animated_12: 4100201943449425335
+      IB-Frozen-River-Animated_13: -5130116635367925838
+      IB-Frozen-River-Animated_14: 2193854603583607219
+      IB-Frozen-River-Animated_15: 1583348657477093416
+      IB-Frozen-River-Animated_16: -8671159197773879392
+      IB-Frozen-River-Animated_17: -6055185160380861578
+      IB-Frozen-River-Animated_18: 8815721079231592833
+      IB-Frozen-River-Animated_19: 5779211845123234731
+      IB-Frozen-River-Animated_2: -5018429100097695427
+      IB-Frozen-River-Animated_20: -8917194295644589372
+      IB-Frozen-River-Animated_21: -7049747373554824301
+      IB-Frozen-River-Animated_22: 2170654133603222861
+      IB-Frozen-River-Animated_23: -2818366718850476974
+      IB-Frozen-River-Animated_24: 3044476677797455882
+      IB-Frozen-River-Animated_25: 5422894390707691045
+      IB-Frozen-River-Animated_26: 2726495366271076650
+      IB-Frozen-River-Animated_27: 2983388355163098439
+      IB-Frozen-River-Animated_28: -3864788312328172540
+      IB-Frozen-River-Animated_29: -8493503771507565117
+      IB-Frozen-River-Animated_3: -7259209376132330787
+      IB-Frozen-River-Animated_30: -1545241182804883119
+      IB-Frozen-River-Animated_31: -3894871086311873486
+      IB-Frozen-River-Animated_32: -4900752956273814637
+      IB-Frozen-River-Animated_33: 5842716882058979601
+      IB-Frozen-River-Animated_34: -4743095193321671999
+      IB-Frozen-River-Animated_35: 515162361319390697
+      IB-Frozen-River-Animated_36: 7118353429057091749
+      IB-Frozen-River-Animated_37: 887711352822066410
+      IB-Frozen-River-Animated_38: -1825088614995420930
+      IB-Frozen-River-Animated_39: 1325447541644074901
+      IB-Frozen-River-Animated_4: -6275210877546773713
+      IB-Frozen-River-Animated_40: -8625668929216269503
+      IB-Frozen-River-Animated_41: -7190672919280523324
+      IB-Frozen-River-Animated_42: -4324469692760279060
+      IB-Frozen-River-Animated_43: -7416928426018578805
+      IB-Frozen-River-Animated_44: 4975939174340958867
+      IB-Frozen-River-Animated_45: -820422508162437818
+      IB-Frozen-River-Animated_46: 4921380943457511644
+      IB-Frozen-River-Animated_47: 9016172651746804712
+      IB-Frozen-River-Animated_48: 3498138399033642331
+      IB-Frozen-River-Animated_49: 5431653417819616852
+      IB-Frozen-River-Animated_5: 1154472291338708524
+      IB-Frozen-River-Animated_50: 3691051971942654180
+      IB-Frozen-River-Animated_51: -3803696768729449948
+      IB-Frozen-River-Animated_52: -7618032091672435068
+      IB-Frozen-River-Animated_6: 2301638422716656116
+      IB-Frozen-River-Animated_7: 9061708163152877623
+      IB-Frozen-River-Animated_8: 5688671618412839004
+      IB-Frozen-River-Animated_9: -7704966228783952661
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

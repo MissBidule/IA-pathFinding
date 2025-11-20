@@ -1,0 +1,1495 @@
+fileFormatVersion: 2
+guid: d800e1f5d6a11d649aebb91e6cabc4ce
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6143524595376833667
+    second: Universal-River-Animated_0
+  - first:
+      213: 8216541633060173026
+    second: Universal-River-Animated_1
+  - first:
+      213: 5158218858658470463
+    second: Universal-River-Animated_2
+  - first:
+      213: -8081220280399550918
+    second: Universal-River-Animated_3
+  - first:
+      213: -8319618100965430815
+    second: Universal-River-Animated_4
+  - first:
+      213: -6965519012350931877
+    second: Universal-River-Animated_5
+  - first:
+      213: 2299597795087482826
+    second: Universal-River-Animated_6
+  - first:
+      213: -741235043134878018
+    second: Universal-River-Animated_7
+  - first:
+      213: 4344975475702768043
+    second: Universal-River-Animated_8
+  - first:
+      213: -6700740162191013275
+    second: Universal-River-Animated_9
+  - first:
+      213: 5029196169280685514
+    second: Universal-River-Animated_10
+  - first:
+      213: 5163948728605527119
+    second: Universal-River-Animated_11
+  - first:
+      213: 648231259672177586
+    second: Universal-River-Animated_12
+  - first:
+      213: -4710152846486755530
+    second: Universal-River-Animated_13
+  - first:
+      213: -1778552703125854058
+    second: Universal-River-Animated_14
+  - first:
+      213: 7520136286849346187
+    second: Universal-River-Animated_15
+  - first:
+      213: 7726675278686294412
+    second: Universal-River-Animated_16
+  - first:
+      213: -8896386923375569765
+    second: Universal-River-Animated_17
+  - first:
+      213: -5653912294171738609
+    second: Universal-River-Animated_18
+  - first:
+      213: 1889747473268168069
+    second: Universal-River-Animated_19
+  - first:
+      213: 929762839366831352
+    second: Universal-River-Animated_20
+  - first:
+      213: -1476090928702544030
+    second: Universal-River-Animated_21
+  - first:
+      213: 1568045536105643649
+    second: Universal-River-Animated_22
+  - first:
+      213: 414589319434543106
+    second: Universal-River-Animated_23
+  - first:
+      213: 5708651940090221551
+    second: Universal-River-Animated_24
+  - first:
+      213: -1272262866816439627
+    second: Universal-River-Animated_25
+  - first:
+      213: 3976518494639349312
+    second: Universal-River-Animated_26
+  - first:
+      213: 1160853762218883890
+    second: Universal-River-Animated_27
+  - first:
+      213: -5117247334638133062
+    second: Universal-River-Animated_28
+  - first:
+      213: -7848210248987172342
+    second: Universal-River-Animated_29
+  - first:
+      213: -8089740212965270930
+    second: Universal-River-Animated_30
+  - first:
+      213: -963697833585913357
+    second: Universal-River-Animated_31
+  - first:
+      213: -6694224397112381458
+    second: Universal-River-Animated_32
+  - first:
+      213: 1701220345440789329
+    second: Universal-River-Animated_33
+  - first:
+      213: 384434561899570588
+    second: Universal-River-Animated_34
+  - first:
+      213: 120137101312751672
+    second: Universal-River-Animated_35
+  - first:
+      213: 2820165432956560572
+    second: Universal-River-Animated_36
+  - first:
+      213: 5839128522415670986
+    second: Universal-River-Animated_37
+  - first:
+      213: 7910722585133853173
+    second: Universal-River-Animated_38
+  - first:
+      213: -5550525340113797248
+    second: Universal-River-Animated_39
+  - first:
+      213: 5690384849448557595
+    second: Universal-River-Animated_40
+  - first:
+      213: 233790870490964333
+    second: Universal-River-Animated_41
+  - first:
+      213: -8517086305165090225
+    second: Universal-River-Animated_42
+  - first:
+      213: -4985728508885723303
+    second: Universal-River-Animated_43
+  - first:
+      213: -5825709017625997827
+    second: Universal-River-Animated_44
+  - first:
+      213: -2855407882955976326
+    second: Universal-River-Animated_45
+  - first:
+      213: -4496274170031761831
+    second: Universal-River-Animated_46
+  - first:
+      213: 3860977019534124507
+    second: Universal-River-Animated_47
+  - first:
+      213: 6686954752730708083
+    second: Universal-River-Animated_48
+  - first:
+      213: -512194031715847123
+    second: Universal-River-Animated_49
+  - first:
+      213: 2936379737842352006
+    second: Universal-River-Animated_50
+  - first:
+      213: 8297059160397840502
+    second: Universal-River-Animated_51
+  - first:
+      213: -7723758355875077875
+    second: Universal-River-Animated_52
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Universal-River-Animated_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 434
+        width: 128
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b30b72ee0ddbaa0800000000000000
+      internalID: -6143524595376833667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Universal-River-Animated_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 402
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e472c80515070270800000000000000
+      internalID: 8216541633060173026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Universal-River-Animated_2
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 402
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a1f08f8bca59740800000000000000
+      internalID: 5158218858658470463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Universal-River-Animated_3
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 402
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a362a1b98fcb9df80800000000000000
+      internalID: -8081220280399550918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Universal-River-Animated_4
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 402
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e9ab099a67ca8c80800000000000000
+      internalID: -8319618100965430815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Universal-River-Animated_5
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 402
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5cc798fc51855f90800000000000000
+      internalID: -6965519012350931877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Universal-River-Animated_6
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 402
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acff576c200d9ef10800000000000000
+      internalID: 2299597795087482826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Universal-River-Animated_7
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 402
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebecfdec7aa96b5f0800000000000000
+      internalID: -741235043134878018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Universal-River-Animated_8
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 402
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba12c0bac247c4c30800000000000000
+      internalID: 4344975475702768043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Universal-River-Animated_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 383
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a496413503203a0800000000000000
+      internalID: -6700740162191013275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Universal-River-Animated_10
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 383
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac50bb7254b4bc540800000000000000
+      internalID: 5029196169280685514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Universal-River-Animated_11
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 383
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4cccd642080aa740800000000000000
+      internalID: 5163948728605527119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Universal-River-Animated_12
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 383
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb601d65eafef800800000000000000
+      internalID: 648231259672177586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Universal-River-Animated_13
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 383
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 637ac5b01fc22aeb0800000000000000
+      internalID: -4710152846486755530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Universal-River-Animated_14
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 383
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6986fdb5dbf4157e0800000000000000
+      internalID: -1778552703125854058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Universal-River-Animated_15
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 383
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a2e280c14ec5860800000000000000
+      internalID: 7520136286849346187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Universal-River-Animated_16
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 383
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8193e07a3aaa3b60800000000000000
+      internalID: 7726675278686294412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Universal-River-Animated_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 354
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b94d4cf6a3fa98480800000000000000
+      internalID: -8896386923375569765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Universal-River-Animated_18
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 354
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0efda269b44981b0800000000000000
+      internalID: -5653912294171738609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Universal-River-Animated_19
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 354
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 585575b805bb93a10800000000000000
+      internalID: 1889747473268168069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Universal-River-Animated_20
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 354
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc81d5506e27ec00800000000000000
+      internalID: 929762839366831352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Universal-River-Animated_21
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 354
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 267228afe1fd38be0800000000000000
+      internalID: -1476090928702544030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Universal-River-Animated_22
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 354
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18eb6337b11d2c510800000000000000
+      internalID: 1568045536105643649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Universal-River-Animated_23
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 354
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20021981acae0c500800000000000000
+      internalID: 414589319434543106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Universal-River-Animated_24
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 354
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe31c6b91b4393f40800000000000000
+      internalID: 5708651940090221551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Universal-River-Animated_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 322
+        width: 128
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba6c72d9a3085ee0800000000000000
+      internalID: -1272262866816439627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Universal-River-Animated_26
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 335
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04edfbb908e6f2730800000000000000
+      internalID: 3976518494639349312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Universal-River-Animated_27
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 335
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b7b35a85e2c1010800000000000000
+      internalID: 1160853762218883890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Universal-River-Animated_28
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 335
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0641759a2ebf8b0800000000000000
+      internalID: -5117247334638133062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Universal-River-Animated_29
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 335
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a022a823c5e851390800000000000000
+      internalID: -7848210248987172342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Universal-River-Animated_30
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 335
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a130933287bbf80800000000000000
+      internalID: -8089740212965270930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Universal-River-Animated_31
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 335
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f15c4e1de140a2f0800000000000000
+      internalID: -963697833585913357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Universal-River-Animated_32
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 335
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eefec5bd0665913a0800000000000000
+      internalID: -6694224397112381458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Universal-River-Animated_33
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 335
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1536aa604e2fb9710800000000000000
+      internalID: 1701220345440789329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Universal-River-Animated_34
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 290
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95286d7239c55500800000000000000
+      internalID: 384434561899570588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Universal-River-Animated_35
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 290
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8387710ae00daa100800000000000000
+      internalID: 120137101312751672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Universal-River-Animated_36
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 290
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb42637f48d332720800000000000000
+      internalID: 2820165432956560572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Universal-River-Animated_37
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 290
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac600704470c80150800000000000000
+      internalID: 5839128522415670986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Universal-River-Animated_38
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 290
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f92093474888cd60800000000000000
+      internalID: 7910722585133853173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Universal-River-Animated_39
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 290
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f76b17c9298f2b0800000000000000
+      internalID: -5550525340113797248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Universal-River-Animated_40
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 290
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c55a22fde48fe40800000000000000
+      internalID: 5690384849448557595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Universal-River-Animated_41
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 290
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d61e75bde879e3300800000000000000
+      internalID: 233790870490964333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Universal-River-Animated_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 258
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f426a43812b3dc980800000000000000
+      internalID: -8517086305165090225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Universal-River-Animated_43
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 258
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 957145136522fcab0800000000000000
+      internalID: -4985728508885723303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Universal-River-Animated_44
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 258
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfdcc9fa38ce62fa0800000000000000
+      internalID: -5825709017625997827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Universal-River-Animated_45
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 258
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a711f87b8ad8f58d0800000000000000
+      internalID: -2855407882955976326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Universal-River-Animated_46
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 258
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9561e72f6760a91c0800000000000000
+      internalID: -4496274170031761831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Universal-River-Animated_47
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 258
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd527479422f49530800000000000000
+      internalID: 3860977019534124507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Universal-River-Animated_48
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 258
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 378bf992be5dccc50800000000000000
+      internalID: 6686954752730708083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Universal-River-Animated_49
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 258
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d24708bed3254e8f0800000000000000
+      internalID: -512194031715847123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Universal-River-Animated_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 194
+        width: 128
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f7fbf50dd10c820800000000000000
+      internalID: 2936379737842352006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Universal-River-Animated_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 130
+        width: 128
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6700aefb853152370800000000000000
+      internalID: 8297059160397840502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Universal-River-Animated_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d016c1392b2bfc490800000000000000
+      internalID: -7723758355875077875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Universal-River-Animated_0: -6143524595376833667
+      Universal-River-Animated_1: 8216541633060173026
+      Universal-River-Animated_10: 5029196169280685514
+      Universal-River-Animated_11: 5163948728605527119
+      Universal-River-Animated_12: 648231259672177586
+      Universal-River-Animated_13: -4710152846486755530
+      Universal-River-Animated_14: -1778552703125854058
+      Universal-River-Animated_15: 7520136286849346187
+      Universal-River-Animated_16: 7726675278686294412
+      Universal-River-Animated_17: -8896386923375569765
+      Universal-River-Animated_18: -5653912294171738609
+      Universal-River-Animated_19: 1889747473268168069
+      Universal-River-Animated_2: 5158218858658470463
+      Universal-River-Animated_20: 929762839366831352
+      Universal-River-Animated_21: -1476090928702544030
+      Universal-River-Animated_22: 1568045536105643649
+      Universal-River-Animated_23: 414589319434543106
+      Universal-River-Animated_24: 5708651940090221551
+      Universal-River-Animated_25: -1272262866816439627
+      Universal-River-Animated_26: 3976518494639349312
+      Universal-River-Animated_27: 1160853762218883890
+      Universal-River-Animated_28: -5117247334638133062
+      Universal-River-Animated_29: -7848210248987172342
+      Universal-River-Animated_3: -8081220280399550918
+      Universal-River-Animated_30: -8089740212965270930
+      Universal-River-Animated_31: -963697833585913357
+      Universal-River-Animated_32: -6694224397112381458
+      Universal-River-Animated_33: 1701220345440789329
+      Universal-River-Animated_34: 384434561899570588
+      Universal-River-Animated_35: 120137101312751672
+      Universal-River-Animated_36: 2820165432956560572
+      Universal-River-Animated_37: 5839128522415670986
+      Universal-River-Animated_38: 7910722585133853173
+      Universal-River-Animated_39: -5550525340113797248
+      Universal-River-Animated_4: -8319618100965430815
+      Universal-River-Animated_40: 5690384849448557595
+      Universal-River-Animated_41: 233790870490964333
+      Universal-River-Animated_42: -8517086305165090225
+      Universal-River-Animated_43: -4985728508885723303
+      Universal-River-Animated_44: -5825709017625997827
+      Universal-River-Animated_45: -2855407882955976326
+      Universal-River-Animated_46: -4496274170031761831
+      Universal-River-Animated_47: 3860977019534124507
+      Universal-River-Animated_48: 6686954752730708083
+      Universal-River-Animated_49: -512194031715847123
+      Universal-River-Animated_5: -6965519012350931877
+      Universal-River-Animated_50: 2936379737842352006
+      Universal-River-Animated_51: 8297059160397840502
+      Universal-River-Animated_52: -7723758355875077875
+      Universal-River-Animated_6: 2299597795087482826
+      Universal-River-Animated_7: -741235043134878018
+      Universal-River-Animated_8: 4344975475702768043
+      Universal-River-Animated_9: -6700740162191013275
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

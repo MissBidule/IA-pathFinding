@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 8e3315d0edead0c40a38f7836ffd65b4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1700914688058443148
+    second: sprite_sheet_gremlin_0_16x16_0
+  - first:
+      213: -1433287254784247885
+    second: sprite_sheet_gremlin_0_16x16_1
+  - first:
+      213: 5179649600471927285
+    second: sprite_sheet_gremlin_0_16x16_2
+  - first:
+      213: 7770597001711954062
+    second: sprite_sheet_gremlin_0_16x16_3
+  - first:
+      213: 3093200998586045557
+    second: sprite_sheet_gremlin_0_16x16_4
+  - first:
+      213: -8402626939017292299
+    second: sprite_sheet_gremlin_0_16x16_5
+  - first:
+      213: -1783555951816491778
+    second: sprite_sheet_gremlin_0_16x16_6
+  - first:
+      213: 5500526168123530403
+    second: sprite_sheet_gremlin_0_16x16_7
+  - first:
+      213: -1826746468029819507
+    second: sprite_sheet_gremlin_0_16x16_8
+  - first:
+      213: 103608993403176736
+    second: sprite_sheet_gremlin_0_16x16_9
+  - first:
+      213: 6007749242298137371
+    second: sprite_sheet_gremlin_0_16x16_10
+  - first:
+      213: 4555346144416541424
+    second: sprite_sheet_gremlin_0_16x16_11
+  - first:
+      213: 2986614911643219412
+    second: sprite_sheet_gremlin_0_16x16_12
+  - first:
+      213: 6497661339630501369
+    second: sprite_sheet_gremlin_0_16x16_13
+  - first:
+      213: 8795767493139537678
+    second: sprite_sheet_gremlin_0_16x16_14
+  - first:
+      213: -4347786065615903992
+    second: sprite_sheet_gremlin_0_16x16_15
+  - first:
+      213: 4583096597079883271
+    second: sprite_sheet_gremlin_0_16x16_16
+  - first:
+      213: 6841096211637214578
+    second: sprite_sheet_gremlin_0_16x16_17
+  - first:
+      213: 6119966315862384991
+    second: sprite_sheet_gremlin_0_16x16_18
+  - first:
+      213: 2760559778499805348
+    second: sprite_sheet_gremlin_0_16x16_19
+  - first:
+      213: -1575786194788906591
+    second: sprite_sheet_gremlin_0_16x16_20
+  - first:
+      213: 3682315960647251422
+    second: sprite_sheet_gremlin_0_16x16_21
+  - first:
+      213: -2294835568512192538
+    second: sprite_sheet_gremlin_0_16x16_22
+  - first:
+      213: 318228853650204012
+    second: sprite_sheet_gremlin_0_16x16_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprite_sheet_gremlin_0_16x16_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 79
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c85c7fe95ecda9710800000000000000
+      internalID: 1700914688058443148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_gremlin_0_16x16_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 79
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b77d7de5d0fb1ce0800000000000000
+      internalID: -1433287254784247885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_gremlin_0_16x16_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 79
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f98f116edfc1e740800000000000000
+      internalID: 5179649600471927285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_gremlin_0_16x16_3
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 79
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88a1cb7dc4b6db60800000000000000
+      internalID: 7770597001711954062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_gremlin_0_16x16_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 63
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574da937be14dea20800000000000000
+      internalID: 3093200998586045557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_gremlin_0_16x16_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 63
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f51fb7615fd36b80800000000000000
+      internalID: -8402626939017292299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_gremlin_0_16x16_6
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 63
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efcb1febf498f37e0800000000000000
+      internalID: -1783555951816491778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_gremlin_0_16x16_7
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 63
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ac5eb8286bc55c40800000000000000
+      internalID: 5500526168123530403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_gremlin_0_16x16_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 47
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d85126e04c716a6e0800000000000000
+      internalID: -1826746468029819507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_gremlin_0_16x16_9
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 47
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 027055f94d7107100800000000000000
+      internalID: 103608993403176736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_gremlin_0_16x16_10
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 47
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b7dcefa10df5350800000000000000
+      internalID: 6007749242298137371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_gremlin_0_16x16_11
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 47
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0faa4eede27d73f30800000000000000
+      internalID: 4555346144416541424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_gremlin_0_16x16_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 31
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d5f0693076927920800000000000000
+      internalID: 2986614911643219412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_gremlin_0_16x16_13
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 31
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fdf673ff845c2a50800000000000000
+      internalID: 6497661339630501369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_gremlin_0_16x16_14
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 31
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f928bdee7d01a70800000000000000
+      internalID: 8795767493139537678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_gremlin_0_16x16_15
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 31
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 803229fdb9f89a3c0800000000000000
+      internalID: -4347786065615903992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_gremlin_0_16x16_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 15
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e7f30a21e6a9f30800000000000000
+      internalID: 4583096597079883271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_gremlin_0_16x16_17
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27d18e042c470fe50800000000000000
+      internalID: 6841096211637214578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_gremlin_0_16x16_18
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 15
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f51655670fc7ee450800000000000000
+      internalID: 6119966315862384991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_gremlin_0_16x16_19
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 15
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a046b21e7a7f4620800000000000000
+      internalID: 2760559778499805348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_gremlin_0_16x16_20
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 15
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a984a10ecea12ae0800000000000000
+      internalID: -1575786194788906591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_gremlin_0_16x16_21
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 0
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed571214bd63a1330800000000000000
+      internalID: 3682315960647251422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_gremlin_0_16x16_22
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ef26e0853b1720e0800000000000000
+      internalID: -2294835568512192538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_gremlin_0_16x16_23
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65a913d4739a6400800000000000000
+      internalID: 318228853650204012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sprite_sheet_gremlin_0_16x16_0: 1700914688058443148
+      sprite_sheet_gremlin_0_16x16_1: -1433287254784247885
+      sprite_sheet_gremlin_0_16x16_10: 6007749242298137371
+      sprite_sheet_gremlin_0_16x16_11: 4555346144416541424
+      sprite_sheet_gremlin_0_16x16_12: 2986614911643219412
+      sprite_sheet_gremlin_0_16x16_13: 6497661339630501369
+      sprite_sheet_gremlin_0_16x16_14: 8795767493139537678
+      sprite_sheet_gremlin_0_16x16_15: -4347786065615903992
+      sprite_sheet_gremlin_0_16x16_16: 4583096597079883271
+      sprite_sheet_gremlin_0_16x16_17: 6841096211637214578
+      sprite_sheet_gremlin_0_16x16_18: 6119966315862384991
+      sprite_sheet_gremlin_0_16x16_19: 2760559778499805348
+      sprite_sheet_gremlin_0_16x16_2: 5179649600471927285
+      sprite_sheet_gremlin_0_16x16_20: -1575786194788906591
+      sprite_sheet_gremlin_0_16x16_21: 3682315960647251422
+      sprite_sheet_gremlin_0_16x16_22: -2294835568512192538
+      sprite_sheet_gremlin_0_16x16_23: 318228853650204012
+      sprite_sheet_gremlin_0_16x16_3: 7770597001711954062
+      sprite_sheet_gremlin_0_16x16_4: 3093200998586045557
+      sprite_sheet_gremlin_0_16x16_5: -8402626939017292299
+      sprite_sheet_gremlin_0_16x16_6: -1783555951816491778
+      sprite_sheet_gremlin_0_16x16_7: 5500526168123530403
+      sprite_sheet_gremlin_0_16x16_8: -1826746468029819507
+      sprite_sheet_gremlin_0_16x16_9: 103608993403176736
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

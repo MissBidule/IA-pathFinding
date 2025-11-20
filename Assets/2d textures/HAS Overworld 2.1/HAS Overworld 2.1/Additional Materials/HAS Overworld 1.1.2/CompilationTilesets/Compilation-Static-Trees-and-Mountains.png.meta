@@ -1,0 +1,3471 @@
+fileFormatVersion: 2
+guid: 85fbdc44bda041a42ac1aec7c7d8fa6b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8644855883949480932
+    second: Compilation-Static-Trees-and-Mountains_0
+  - first:
+      213: 7963245501643850728
+    second: Compilation-Static-Trees-and-Mountains_1
+  - first:
+      213: 8768918407498779281
+    second: Compilation-Static-Trees-and-Mountains_2
+  - first:
+      213: -2946178573088002797
+    second: Compilation-Static-Trees-and-Mountains_3
+  - first:
+      213: -1993835239322692122
+    second: Compilation-Static-Trees-and-Mountains_4
+  - first:
+      213: 7735454888945774424
+    second: Compilation-Static-Trees-and-Mountains_5
+  - first:
+      213: 3586627970322920751
+    second: Compilation-Static-Trees-and-Mountains_6
+  - first:
+      213: -7879576255984052155
+    second: Compilation-Static-Trees-and-Mountains_7
+  - first:
+      213: -8248498774919242879
+    second: Compilation-Static-Trees-and-Mountains_8
+  - first:
+      213: 9109535278121639878
+    second: Compilation-Static-Trees-and-Mountains_9
+  - first:
+      213: -3210712554886696635
+    second: Compilation-Static-Trees-and-Mountains_10
+  - first:
+      213: -6109588164564425646
+    second: Compilation-Static-Trees-and-Mountains_11
+  - first:
+      213: -8171134674443460695
+    second: Compilation-Static-Trees-and-Mountains_12
+  - first:
+      213: -9217615105149153306
+    second: Compilation-Static-Trees-and-Mountains_13
+  - first:
+      213: -4777934513185928552
+    second: Compilation-Static-Trees-and-Mountains_14
+  - first:
+      213: 5409327242092249047
+    second: Compilation-Static-Trees-and-Mountains_15
+  - first:
+      213: -1308410415858361336
+    second: Compilation-Static-Trees-and-Mountains_16
+  - first:
+      213: 6975388288694391333
+    second: Compilation-Static-Trees-and-Mountains_17
+  - first:
+      213: -8766066127389727512
+    second: Compilation-Static-Trees-and-Mountains_18
+  - first:
+      213: -9041525571965167118
+    second: Compilation-Static-Trees-and-Mountains_19
+  - first:
+      213: -9093767750385856870
+    second: Compilation-Static-Trees-and-Mountains_20
+  - first:
+      213: 8310090765159715193
+    second: Compilation-Static-Trees-and-Mountains_21
+  - first:
+      213: -5487214294534862896
+    second: Compilation-Static-Trees-and-Mountains_22
+  - first:
+      213: -8682070896768694583
+    second: Compilation-Static-Trees-and-Mountains_23
+  - first:
+      213: -8247802362973376762
+    second: Compilation-Static-Trees-and-Mountains_24
+  - first:
+      213: -4940146785801139748
+    second: Compilation-Static-Trees-and-Mountains_25
+  - first:
+      213: 2765178174224698883
+    second: Compilation-Static-Trees-and-Mountains_26
+  - first:
+      213: -4101399860024568601
+    second: Compilation-Static-Trees-and-Mountains_27
+  - first:
+      213: 3574738477184305788
+    second: Compilation-Static-Trees-and-Mountains_28
+  - first:
+      213: -200815978092507519
+    second: Compilation-Static-Trees-and-Mountains_29
+  - first:
+      213: -8788359929745152440
+    second: Compilation-Static-Trees-and-Mountains_30
+  - first:
+      213: 586021902102018847
+    second: Compilation-Static-Trees-and-Mountains_31
+  - first:
+      213: -2302303557214296263
+    second: Compilation-Static-Trees-and-Mountains_32
+  - first:
+      213: 9160839796060888457
+    second: Compilation-Static-Trees-and-Mountains_33
+  - first:
+      213: -4936441964160499790
+    second: Compilation-Static-Trees-and-Mountains_34
+  - first:
+      213: -806631680438928018
+    second: Compilation-Static-Trees-and-Mountains_35
+  - first:
+      213: -7619273819408970197
+    second: Compilation-Static-Trees-and-Mountains_36
+  - first:
+      213: 8608320263077355948
+    second: Compilation-Static-Trees-and-Mountains_37
+  - first:
+      213: -4555283720244827198
+    second: Compilation-Static-Trees-and-Mountains_38
+  - first:
+      213: -3752066544284389008
+    second: Compilation-Static-Trees-and-Mountains_39
+  - first:
+      213: -114857313055219376
+    second: Compilation-Static-Trees-and-Mountains_40
+  - first:
+      213: 4344648113888662131
+    second: Compilation-Static-Trees-and-Mountains_41
+  - first:
+      213: -3796051816253400061
+    second: Compilation-Static-Trees-and-Mountains_42
+  - first:
+      213: 4720021000310995270
+    second: Compilation-Static-Trees-and-Mountains_43
+  - first:
+      213: 2276859175070897034
+    second: Compilation-Static-Trees-and-Mountains_44
+  - first:
+      213: -2375133336655186700
+    second: Compilation-Static-Trees-and-Mountains_45
+  - first:
+      213: -5906377617059746301
+    second: Compilation-Static-Trees-and-Mountains_46
+  - first:
+      213: 1801329410927226686
+    second: Compilation-Static-Trees-and-Mountains_47
+  - first:
+      213: 4472957254267534756
+    second: Compilation-Static-Trees-and-Mountains_48
+  - first:
+      213: 5817171440268513336
+    second: Compilation-Static-Trees-and-Mountains_49
+  - first:
+      213: -4966287383593046508
+    second: Compilation-Static-Trees-and-Mountains_50
+  - first:
+      213: -8721603783787377814
+    second: Compilation-Static-Trees-and-Mountains_51
+  - first:
+      213: 307844968173060221
+    second: Compilation-Static-Trees-and-Mountains_52
+  - first:
+      213: -5297186347755970535
+    second: Compilation-Static-Trees-and-Mountains_53
+  - first:
+      213: 7279867156046840340
+    second: Compilation-Static-Trees-and-Mountains_54
+  - first:
+      213: 2623574268595088216
+    second: Compilation-Static-Trees-and-Mountains_55
+  - first:
+      213: -177959583821012939
+    second: Compilation-Static-Trees-and-Mountains_56
+  - first:
+      213: 1607285887087581587
+    second: Compilation-Static-Trees-and-Mountains_57
+  - first:
+      213: 2258915071798469911
+    second: Compilation-Static-Trees-and-Mountains_58
+  - first:
+      213: 6482773261693414137
+    second: Compilation-Static-Trees-and-Mountains_59
+  - first:
+      213: -3572637363304026014
+    second: Compilation-Static-Trees-and-Mountains_60
+  - first:
+      213: -2250048934813900802
+    second: Compilation-Static-Trees-and-Mountains_61
+  - first:
+      213: -8462816222480674324
+    second: Compilation-Static-Trees-and-Mountains_62
+  - first:
+      213: 3275529502363461286
+    second: Compilation-Static-Trees-and-Mountains_63
+  - first:
+      213: 3520758580103282684
+    second: Compilation-Static-Trees-and-Mountains_64
+  - first:
+      213: -3257174833567166132
+    second: Compilation-Static-Trees-and-Mountains_65
+  - first:
+      213: 625302624560363166
+    second: Compilation-Static-Trees-and-Mountains_66
+  - first:
+      213: 1712154419162591528
+    second: Compilation-Static-Trees-and-Mountains_67
+  - first:
+      213: -3964346102782813375
+    second: Compilation-Static-Trees-and-Mountains_68
+  - first:
+      213: -8399942603209387466
+    second: Compilation-Static-Trees-and-Mountains_69
+  - first:
+      213: -1834177130561268905
+    second: Compilation-Static-Trees-and-Mountains_70
+  - first:
+      213: -6667688443051500371
+    second: Compilation-Static-Trees-and-Mountains_71
+  - first:
+      213: 7983688137819344236
+    second: Compilation-Static-Trees-and-Mountains_72
+  - first:
+      213: 2275232333863907847
+    second: Compilation-Static-Trees-and-Mountains_73
+  - first:
+      213: 8947409269564550031
+    second: Compilation-Static-Trees-and-Mountains_74
+  - first:
+      213: -9035336999122761463
+    second: Compilation-Static-Trees-and-Mountains_75
+  - first:
+      213: 4078337867469689501
+    second: Compilation-Static-Trees-and-Mountains_76
+  - first:
+      213: -8052801825581024418
+    second: Compilation-Static-Trees-and-Mountains_77
+  - first:
+      213: 4162959691476266631
+    second: Compilation-Static-Trees-and-Mountains_78
+  - first:
+      213: 4002081228107215676
+    second: Compilation-Static-Trees-and-Mountains_79
+  - first:
+      213: 7274039396899988644
+    second: Compilation-Static-Trees-and-Mountains_80
+  - first:
+      213: -8080171143546252413
+    second: Compilation-Static-Trees-and-Mountains_81
+  - first:
+      213: 8219436151367676480
+    second: Compilation-Static-Trees-and-Mountains_82
+  - first:
+      213: 2601897263000146723
+    second: Compilation-Static-Trees-and-Mountains_83
+  - first:
+      213: 3148968584026019369
+    second: Compilation-Static-Trees-and-Mountains_84
+  - first:
+      213: 6303057927423361062
+    second: Compilation-Static-Trees-and-Mountains_85
+  - first:
+      213: -6169838455237426171
+    second: Compilation-Static-Trees-and-Mountains_86
+  - first:
+      213: -4999528010600511722
+    second: Compilation-Static-Trees-and-Mountains_87
+  - first:
+      213: -4089671555509422631
+    second: Compilation-Static-Trees-and-Mountains_88
+  - first:
+      213: -8442760159344924637
+    second: Compilation-Static-Trees-and-Mountains_89
+  - first:
+      213: -6603395696050729648
+    second: Compilation-Static-Trees-and-Mountains_90
+  - first:
+      213: -4117506190153347426
+    second: Compilation-Static-Trees-and-Mountains_91
+  - first:
+      213: -7909653603693086528
+    second: Compilation-Static-Trees-and-Mountains_92
+  - first:
+      213: 3759310033054039257
+    second: Compilation-Static-Trees-and-Mountains_93
+  - first:
+      213: 3739883141183389307
+    second: Compilation-Static-Trees-and-Mountains_94
+  - first:
+      213: 4557634492051832931
+    second: Compilation-Static-Trees-and-Mountains_95
+  - first:
+      213: -6971810264373652631
+    second: Compilation-Static-Trees-and-Mountains_96
+  - first:
+      213: -8419925117164625989
+    second: Compilation-Static-Trees-and-Mountains_97
+  - first:
+      213: 1151470016315596015
+    second: Compilation-Static-Trees-and-Mountains_98
+  - first:
+      213: 9199946275634206659
+    second: Compilation-Static-Trees-and-Mountains_99
+  - first:
+      213: -7734189893050169045
+    second: Compilation-Static-Trees-and-Mountains_100
+  - first:
+      213: -6046008512992106530
+    second: Compilation-Static-Trees-and-Mountains_101
+  - first:
+      213: 281407428927310112
+    second: Compilation-Static-Trees-and-Mountains_102
+  - first:
+      213: 6510291290978407535
+    second: Compilation-Static-Trees-and-Mountains_103
+  - first:
+      213: -5562136217876593627
+    second: Compilation-Static-Trees-and-Mountains_104
+  - first:
+      213: -6268944027030570810
+    second: Compilation-Static-Trees-and-Mountains_105
+  - first:
+      213: -4108197405254752453
+    second: Compilation-Static-Trees-and-Mountains_106
+  - first:
+      213: 4484067265719507886
+    second: Compilation-Static-Trees-and-Mountains_107
+  - first:
+      213: -4711513923665171148
+    second: Compilation-Static-Trees-and-Mountains_108
+  - first:
+      213: -7890896954024461880
+    second: Compilation-Static-Trees-and-Mountains_109
+  - first:
+      213: -775144677050958417
+    second: Compilation-Static-Trees-and-Mountains_110
+  - first:
+      213: -3446529764721282599
+    second: Compilation-Static-Trees-and-Mountains_111
+  - first:
+      213: -2048025189896633992
+    second: Compilation-Static-Trees-and-Mountains_112
+  - first:
+      213: 802842142439341069
+    second: Compilation-Static-Trees-and-Mountains_113
+  - first:
+      213: 1951661312990060337
+    second: Compilation-Static-Trees-and-Mountains_114
+  - first:
+      213: 5602545486020334487
+    second: Compilation-Static-Trees-and-Mountains_115
+  - first:
+      213: -4064986584967044205
+    second: Compilation-Static-Trees-and-Mountains_116
+  - first:
+      213: -7984903639086993519
+    second: Compilation-Static-Trees-and-Mountains_117
+  - first:
+      213: 3389101360568664575
+    second: Compilation-Static-Trees-and-Mountains_118
+  - first:
+      213: 6944621915063973643
+    second: Compilation-Static-Trees-and-Mountains_119
+  - first:
+      213: 7165306206242314140
+    second: Compilation-Static-Trees-and-Mountains_120
+  - first:
+      213: 874678799708087655
+    second: Compilation-Static-Trees-and-Mountains_121
+  - first:
+      213: 4897164577861357654
+    second: Compilation-Static-Trees-and-Mountains_122
+  - first:
+      213: 2936124507271709659
+    second: Compilation-Static-Trees-and-Mountains_123
+  - first:
+      213: -854196500649343998
+    second: Compilation-Static-Trees-and-Mountains_124
+  - first:
+      213: 8302917841382888160
+    second: Compilation-Static-Trees-and-Mountains_125
+  - first:
+      213: -8592488446518816049
+    second: Compilation-Static-Trees-and-Mountains_126
+  - first:
+      213: 7466270481937041877
+    second: Compilation-Static-Trees-and-Mountains_127
+  - first:
+      213: -7055838812212587261
+    second: Compilation-Static-Trees-and-Mountains_128
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 288
+        width: 114
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c14eebe306d470880800000000000000
+      internalID: -8644855883949480932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_1
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 288
+        width: 114
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e385b8b791238e60800000000000000
+      internalID: 7963245501643850728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_2
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 288
+        width: 114
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a4957f4d471b970800000000000000
+      internalID: 8768918407498779281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_3
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 335
+        width: 114
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31de83282321d17d0800000000000000
+      internalID: -2946178573088002797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_4
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 320
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5d383e9697454e0800000000000000
+      internalID: -1993835239322692122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_5
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 288
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85febafbc3bd95b60800000000000000
+      internalID: 7735454888945774424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_6
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 312
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f25f390e22346c130800000000000000
+      internalID: 3586627970322920751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_7
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 312
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548d779942f16a290800000000000000
+      internalID: -7879576255984052155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_8
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 335
+        width: 114
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b91be0112778d80800000000000000
+      internalID: -8248498774919242879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_9
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 320
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf545132129b6e70800000000000000
+      internalID: 9109535278121639878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_10
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 288
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 541771241f14173d0800000000000000
+      internalID: -3210712554886696635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_11
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 312
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 254e43f2fe1663ba0800000000000000
+      internalID: -6109588164564425646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_12
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 312
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af9bed5e4c4a9e80800000000000000
+      internalID: -8171134674443460695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_13
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 335
+        width: 113
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ef4f4d16e3741080800000000000000
+      internalID: -9217615105149153306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_14
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 320
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a4975ffdd51bdb0800000000000000
+      internalID: -4777934513185928552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_15
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 288
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df70c2877ac11b40800000000000000
+      internalID: 5409327242092249047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_16
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 312
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c5756b8a797dde0800000000000000
+      internalID: -1308410415858361336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_17
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 312
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5229c0ef0be8dc060800000000000000
+      internalID: 6975388288694391333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e4e95f3d4da85680800000000000000
+      internalID: -8766066127389727512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_19
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 240
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f9d767756c068280800000000000000
+      internalID: -9041525571965167118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_20
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 264
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e095079627cc180800000000000000
+      internalID: -9093767750385856870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_21
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 264
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 971599ca58f535370800000000000000
+      internalID: 8310090765159715193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_22
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 272
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7cdcfebaf79d3b0800000000000000
+      internalID: -5487214294534862896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_23
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 240
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6485bd486138780800000000000000
+      internalID: -8682070896768694583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_24
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 264
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f2859137be98d80800000000000000
+      internalID: -8247802362973376762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_25
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 264
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd9090e1ca2117bb0800000000000000
+      internalID: -4940146785801139748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_26
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 272
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e835f16e2ef5620800000000000000
+      internalID: 2765178174224698883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_27
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 240
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e41665be86e417c0800000000000000
+      internalID: -4101399860024568601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_28
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 264
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7acd7984b50c9130800000000000000
+      internalID: 3574738477184305788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_29
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 264
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ec2909eee863df0800000000000000
+      internalID: -200815978092507519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_30
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 287
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8466345e439790680800000000000000
+      internalID: -8788359929745152440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_31
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 272
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1bb369a0d7f12800800000000000000
+      internalID: 586021902102018847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_32
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 288
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 937af13ec139c00e0800000000000000
+      internalID: -2302303557214296263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_33
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 288
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d98702247d12f70800000000000000
+      internalID: 9160839796060888457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_34
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 272
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bfb1ef103c3e7bb0800000000000000
+      internalID: -4936441964160499790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_35
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 240
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d7cd6a2c44ec4f0800000000000000
+      internalID: -806631680438928018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_36
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 264
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ec1b374d6e24690800000000000000
+      internalID: -7619273819408970197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_37
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 288
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1e581aba5e67770800000000000000
+      internalID: 8608320263077355948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_38
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 264
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cbefa3679168c0c0800000000000000
+      internalID: -4555283720244827198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_39
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 288
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0713d467b5bfdebc0800000000000000
+      internalID: -3752066544284389008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_40
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 287
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 051ec7fd1e1f76ef0800000000000000
+      internalID: -114857313055219376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_41
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 273
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 372976ec07a4b4c30800000000000000
+      internalID: 4344648113888662131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_42
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c5d374cf6b15bc0800000000000000
+      internalID: -3796051816253400061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_43
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 649bbef8712e08140800000000000000
+      internalID: 4720021000310995270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_44
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 264
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8390bd3b57099f10800000000000000
+      internalID: 2276859175070897034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_45
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 288
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f4ba7670d4d90fd0800000000000000
+      internalID: -2375133336655186700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_46
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 264
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ee5d1c9d4580ea0800000000000000
+      internalID: -5906377617059746301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_47
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 288
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3fe7cd2e8b9ff810800000000000000
+      internalID: 1801329410927226686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 239
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad7f1c8ce2231e30800000000000000
+      internalID: 4472957254267534756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_49
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 239
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83090ceaa9ebab050800000000000000
+      internalID: 5817171440268513336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_50
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 224
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41eae68efe3341bb0800000000000000
+      internalID: -4966287383593046508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_51
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 159
+        width: 82
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b86a35193a6f680800000000000000
+      internalID: -8721603783787377814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_52
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 272
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d70c8d51e5fa54400800000000000000
+      internalID: 307844968173060221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_53
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 240
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910e4f8151d9c76b0800000000000000
+      internalID: -5297186347755970535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_54
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 264
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4128438ab98470560800000000000000
+      internalID: 7279867156046840340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_55
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 264
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b2771a5eec86420800000000000000
+      internalID: 2623574268595088216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_56
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 239
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 530e8fd83b2c78df0800000000000000
+      internalID: -177959583821012939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_57
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 224
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3999a50aff93e4610800000000000000
+      internalID: 1607285887087581587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_58
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 224
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 715e2502a47495f10800000000000000
+      internalID: 2258915071798469911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_59
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 192
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fae2ae2fef67f950800000000000000
+      internalID: 6482773261693414137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_60
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 240
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 260b9f82f317b6ec0800000000000000
+      internalID: -3572637363304026014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_61
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 216
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: effdb214a6836c0e0800000000000000
+      internalID: -2250048934813900802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_62
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 240
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce150abcb790e8a80800000000000000
+      internalID: -8462816222480674324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_63
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 216
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a6afa75ab4057d20800000000000000
+      internalID: 3275529502363461286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_64
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 224
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfff6fa564f3cd030800000000000000
+      internalID: 3520758580103282684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_65
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 192
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4113e10fb03cc2d0800000000000000
+      internalID: -3257174833567166132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_66
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 240
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e963a0e8c658da800800000000000000
+      internalID: 625302624560363166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_67
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 216
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8213dc27f5bc2c710800000000000000
+      internalID: 1712154419162591528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_68
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 240
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b1de83930dbf8c0800000000000000
+      internalID: -3964346102782813375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_69
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 216
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 632d80a05b86d6b80800000000000000
+      internalID: -8399942603209387466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_70
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 192
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75310cd1e91bb86e0800000000000000
+      internalID: -1834177130561268905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_71
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 240
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac10fe10bc9773a0800000000000000
+      internalID: -6667688443051500371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_72
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 216
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6dc83cdf02cbce60800000000000000
+      internalID: 7983688137819344236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_73
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 240
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 702f071c0cf339f10800000000000000
+      internalID: 2275232333863907847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_74
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 216
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8bae6443559b2c70800000000000000
+      internalID: 8947409269564550031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_75
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 111
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 909085dded80c9280800000000000000
+      internalID: -9035336999122761463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_76
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 240
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d921e88beaa299830800000000000000
+      internalID: 4078337867469689501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_77
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 240
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b30abb763be3090800000000000000
+      internalID: -8052801825581024418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_78
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 240
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e66b878cdc5c930800000000000000
+      internalID: 4162959691476266631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_79
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 216
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33f69b4caf3a8730800000000000000
+      internalID: 4002081228107215676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_80
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 240
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a4ab6eba4492f460800000000000000
+      internalID: 7274039396899988644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_81
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 216
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3835090d7277ddf80800000000000000
+      internalID: -8080171143546252413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_82
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 192
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 042364891ad411270800000000000000
+      internalID: 8219436151367676480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_83
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 240
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3235f2776cbcb1420800000000000000
+      internalID: 2601897263000146723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_84
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 216
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9265cb34e3263bb20800000000000000
+      internalID: 3148968584026019369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_85
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 240
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62087ca3ac5f87750800000000000000
+      internalID: 6303057927423361062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_86
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 216
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 504470a3d94506aa0800000000000000
+      internalID: -6169838455237426171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 143
+        width: 81
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6178a8353cb1e9ab0800000000000000
+      internalID: -4999528010600511722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_88
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 224
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d577d563619e37c0800000000000000
+      internalID: -4089671555509422631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_89
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 191
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 328ec62ed5a45da80800000000000000
+      internalID: -8442760159344924637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_90
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 224
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d8d89c9960c54a0800000000000000
+      internalID: -6603395696050729648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_91
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 176
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e007f7fedabd6c0800000000000000
+      internalID: -4117506190153347426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_92
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 111
+        width: 177
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c83c7f54f34b3290800000000000000
+      internalID: -7909653603693086528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_93
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 143
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc7fb0be80cb2430800000000000000
+      internalID: 3759310033054039257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_94
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 192
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e35b3f6ebb6e330800000000000000
+      internalID: 3739883141183389307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_95
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 192
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36041d25c68ff3f30800000000000000
+      internalID: 4557634492051832931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_96
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9631696b0872f3f90800000000000000
+      internalID: -6971810264373652631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_97
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf530477ba662b80800000000000000
+      internalID: -8419925117164625989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_98
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec110c01e7daff00800000000000000
+      internalID: 1151470016315596015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_99
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 192
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c7dadfe466ccaf70800000000000000
+      internalID: 9199946275634206659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_100
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b29045f0543aaa490800000000000000
+      internalID: -7734189893050169045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_101
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 192
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed72e126a43481ca0800000000000000
+      internalID: -6046008512992106530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_102
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 144
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0294e5ec092c7e300800000000000000
+      internalID: 281407428927310112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_103
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 192
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f645617af63395a50800000000000000
+      internalID: 6510291290978407535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_104
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 168
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 524812d44925fc2b0800000000000000
+      internalID: -5562136217876593627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_105
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 192
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c839082f9c3009a0800000000000000
+      internalID: -6268944027030570810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_106
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 168
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b37eb90e930ccf6c0800000000000000
+      internalID: -4108197405254752453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_107
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 111
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab1b2aab6b9a3e30800000000000000
+      internalID: 4484067265719507886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_108
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 95
+        width: 130
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d61a19c075d9eb0800000000000000
+      internalID: -4711513923665171148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_109
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 95
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c9f8203707ed7290800000000000000
+      internalID: -7890896954024461880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_110
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fadb7dae5022e35f0800000000000000
+      internalID: -775144677050958417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_111
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d13af180777b20d0800000000000000
+      internalID: -3446529764721282599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_112
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 143
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871c821d0f3f393e0800000000000000
+      internalID: -2048025189896633992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_113
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 128
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c7fc6cca4442b00800000000000000
+      internalID: 802842142439341069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_114
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 96
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f15a2bf91b51b10800000000000000
+      internalID: 1951661312990060337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_115
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 144
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 793d53c9f6d30cd40800000000000000
+      internalID: 5602545486020334487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_116
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 120
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 393af4afc344697c0800000000000000
+      internalID: -4064986584967044205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_117
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 144
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19fee72327cef2190800000000000000
+      internalID: -7984903639086993519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_118
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 120
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff10d703bb1880f20800000000000000
+      internalID: 3389101360568664575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_119
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 95
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07f7ca66d0406060800000000000000
+      internalID: 6944621915063973643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_120
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 47
+        width: 130
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9799f9f708407360800000000000000
+      internalID: 7165306206242314140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_121
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 128
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7656a2debbb732c00800000000000000
+      internalID: 874678799708087655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_122
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 63
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6505d0ebc3936f340800000000000000
+      internalID: 4897164577861357654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_123
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 47
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd3cf30eea53fb820800000000000000
+      internalID: 2936124507271709659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_124
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 96
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2040a62fec84524f0800000000000000
+      internalID: -854196500649343998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_125
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 96
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e251e639c3e93370800000000000000
+      internalID: 8302917841382888160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_126
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 63
+        width: 97
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc21998684951c880800000000000000
+      internalID: -8592488446518816049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_127
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 15
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d987d002758d9760800000000000000
+      internalID: 7466270481937041877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Compilation-Static-Trees-and-Mountains_128
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 0
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30597a5dbff941e90800000000000000
+      internalID: -7055838812212587261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Compilation-Static-Trees-and-Mountains_0: -8644855883949480932
+      Compilation-Static-Trees-and-Mountains_1: 7963245501643850728
+      Compilation-Static-Trees-and-Mountains_10: -3210712554886696635
+      Compilation-Static-Trees-and-Mountains_100: -7734189893050169045
+      Compilation-Static-Trees-and-Mountains_101: -6046008512992106530
+      Compilation-Static-Trees-and-Mountains_102: 281407428927310112
+      Compilation-Static-Trees-and-Mountains_103: 6510291290978407535
+      Compilation-Static-Trees-and-Mountains_104: -5562136217876593627
+      Compilation-Static-Trees-and-Mountains_105: -6268944027030570810
+      Compilation-Static-Trees-and-Mountains_106: -4108197405254752453
+      Compilation-Static-Trees-and-Mountains_107: 4484067265719507886
+      Compilation-Static-Trees-and-Mountains_108: -4711513923665171148
+      Compilation-Static-Trees-and-Mountains_109: -7890896954024461880
+      Compilation-Static-Trees-and-Mountains_11: -6109588164564425646
+      Compilation-Static-Trees-and-Mountains_110: -775144677050958417
+      Compilation-Static-Trees-and-Mountains_111: -3446529764721282599
+      Compilation-Static-Trees-and-Mountains_112: -2048025189896633992
+      Compilation-Static-Trees-and-Mountains_113: 802842142439341069
+      Compilation-Static-Trees-and-Mountains_114: 1951661312990060337
+      Compilation-Static-Trees-and-Mountains_115: 5602545486020334487
+      Compilation-Static-Trees-and-Mountains_116: -4064986584967044205
+      Compilation-Static-Trees-and-Mountains_117: -7984903639086993519
+      Compilation-Static-Trees-and-Mountains_118: 3389101360568664575
+      Compilation-Static-Trees-and-Mountains_119: 6944621915063973643
+      Compilation-Static-Trees-and-Mountains_12: -8171134674443460695
+      Compilation-Static-Trees-and-Mountains_120: 7165306206242314140
+      Compilation-Static-Trees-and-Mountains_121: 874678799708087655
+      Compilation-Static-Trees-and-Mountains_122: 4897164577861357654
+      Compilation-Static-Trees-and-Mountains_123: 2936124507271709659
+      Compilation-Static-Trees-and-Mountains_124: -854196500649343998
+      Compilation-Static-Trees-and-Mountains_125: 8302917841382888160
+      Compilation-Static-Trees-and-Mountains_126: -8592488446518816049
+      Compilation-Static-Trees-and-Mountains_127: 7466270481937041877
+      Compilation-Static-Trees-and-Mountains_128: -7055838812212587261
+      Compilation-Static-Trees-and-Mountains_13: -9217615105149153306
+      Compilation-Static-Trees-and-Mountains_14: -4777934513185928552
+      Compilation-Static-Trees-and-Mountains_15: 5409327242092249047
+      Compilation-Static-Trees-and-Mountains_16: -1308410415858361336
+      Compilation-Static-Trees-and-Mountains_17: 6975388288694391333
+      Compilation-Static-Trees-and-Mountains_18: -8766066127389727512
+      Compilation-Static-Trees-and-Mountains_19: -9041525571965167118
+      Compilation-Static-Trees-and-Mountains_2: 8768918407498779281
+      Compilation-Static-Trees-and-Mountains_20: -9093767750385856870
+      Compilation-Static-Trees-and-Mountains_21: 8310090765159715193
+      Compilation-Static-Trees-and-Mountains_22: -5487214294534862896
+      Compilation-Static-Trees-and-Mountains_23: -8682070896768694583
+      Compilation-Static-Trees-and-Mountains_24: -8247802362973376762
+      Compilation-Static-Trees-and-Mountains_25: -4940146785801139748
+      Compilation-Static-Trees-and-Mountains_26: 2765178174224698883
+      Compilation-Static-Trees-and-Mountains_27: -4101399860024568601
+      Compilation-Static-Trees-and-Mountains_28: 3574738477184305788
+      Compilation-Static-Trees-and-Mountains_29: -200815978092507519
+      Compilation-Static-Trees-and-Mountains_3: -2946178573088002797
+      Compilation-Static-Trees-and-Mountains_30: -8788359929745152440
+      Compilation-Static-Trees-and-Mountains_31: 586021902102018847
+      Compilation-Static-Trees-and-Mountains_32: -2302303557214296263
+      Compilation-Static-Trees-and-Mountains_33: 9160839796060888457
+      Compilation-Static-Trees-and-Mountains_34: -4936441964160499790
+      Compilation-Static-Trees-and-Mountains_35: -806631680438928018
+      Compilation-Static-Trees-and-Mountains_36: -7619273819408970197
+      Compilation-Static-Trees-and-Mountains_37: 8608320263077355948
+      Compilation-Static-Trees-and-Mountains_38: -4555283720244827198
+      Compilation-Static-Trees-and-Mountains_39: -3752066544284389008
+      Compilation-Static-Trees-and-Mountains_4: -1993835239322692122
+      Compilation-Static-Trees-and-Mountains_40: -114857313055219376
+      Compilation-Static-Trees-and-Mountains_41: 4344648113888662131
+      Compilation-Static-Trees-and-Mountains_42: -3796051816253400061
+      Compilation-Static-Trees-and-Mountains_43: 4720021000310995270
+      Compilation-Static-Trees-and-Mountains_44: 2276859175070897034
+      Compilation-Static-Trees-and-Mountains_45: -2375133336655186700
+      Compilation-Static-Trees-and-Mountains_46: -5906377617059746301
+      Compilation-Static-Trees-and-Mountains_47: 1801329410927226686
+      Compilation-Static-Trees-and-Mountains_48: 4472957254267534756
+      Compilation-Static-Trees-and-Mountains_49: 5817171440268513336
+      Compilation-Static-Trees-and-Mountains_5: 7735454888945774424
+      Compilation-Static-Trees-and-Mountains_50: -4966287383593046508
+      Compilation-Static-Trees-and-Mountains_51: -8721603783787377814
+      Compilation-Static-Trees-and-Mountains_52: 307844968173060221
+      Compilation-Static-Trees-and-Mountains_53: -5297186347755970535
+      Compilation-Static-Trees-and-Mountains_54: 7279867156046840340
+      Compilation-Static-Trees-and-Mountains_55: 2623574268595088216
+      Compilation-Static-Trees-and-Mountains_56: -177959583821012939
+      Compilation-Static-Trees-and-Mountains_57: 1607285887087581587
+      Compilation-Static-Trees-and-Mountains_58: 2258915071798469911
+      Compilation-Static-Trees-and-Mountains_59: 6482773261693414137
+      Compilation-Static-Trees-and-Mountains_6: 3586627970322920751
+      Compilation-Static-Trees-and-Mountains_60: -3572637363304026014
+      Compilation-Static-Trees-and-Mountains_61: -2250048934813900802
+      Compilation-Static-Trees-and-Mountains_62: -8462816222480674324
+      Compilation-Static-Trees-and-Mountains_63: 3275529502363461286
+      Compilation-Static-Trees-and-Mountains_64: 3520758580103282684
+      Compilation-Static-Trees-and-Mountains_65: -3257174833567166132
+      Compilation-Static-Trees-and-Mountains_66: 625302624560363166
+      Compilation-Static-Trees-and-Mountains_67: 1712154419162591528
+      Compilation-Static-Trees-and-Mountains_68: -3964346102782813375
+      Compilation-Static-Trees-and-Mountains_69: -8399942603209387466
+      Compilation-Static-Trees-and-Mountains_7: -7879576255984052155
+      Compilation-Static-Trees-and-Mountains_70: -1834177130561268905
+      Compilation-Static-Trees-and-Mountains_71: -6667688443051500371
+      Compilation-Static-Trees-and-Mountains_72: 7983688137819344236
+      Compilation-Static-Trees-and-Mountains_73: 2275232333863907847
+      Compilation-Static-Trees-and-Mountains_74: 8947409269564550031
+      Compilation-Static-Trees-and-Mountains_75: -9035336999122761463
+      Compilation-Static-Trees-and-Mountains_76: 4078337867469689501
+      Compilation-Static-Trees-and-Mountains_77: -8052801825581024418
+      Compilation-Static-Trees-and-Mountains_78: 4162959691476266631
+      Compilation-Static-Trees-and-Mountains_79: 4002081228107215676
+      Compilation-Static-Trees-and-Mountains_8: -8248498774919242879
+      Compilation-Static-Trees-and-Mountains_80: 7274039396899988644
+      Compilation-Static-Trees-and-Mountains_81: -8080171143546252413
+      Compilation-Static-Trees-and-Mountains_82: 8219436151367676480
+      Compilation-Static-Trees-and-Mountains_83: 2601897263000146723
+      Compilation-Static-Trees-and-Mountains_84: 3148968584026019369
+      Compilation-Static-Trees-and-Mountains_85: 6303057927423361062
+      Compilation-Static-Trees-and-Mountains_86: -6169838455237426171
+      Compilation-Static-Trees-and-Mountains_87: -4999528010600511722
+      Compilation-Static-Trees-and-Mountains_88: -4089671555509422631
+      Compilation-Static-Trees-and-Mountains_89: -8442760159344924637
+      Compilation-Static-Trees-and-Mountains_9: 9109535278121639878
+      Compilation-Static-Trees-and-Mountains_90: -6603395696050729648
+      Compilation-Static-Trees-and-Mountains_91: -4117506190153347426
+      Compilation-Static-Trees-and-Mountains_92: -7909653603693086528
+      Compilation-Static-Trees-and-Mountains_93: 3759310033054039257
+      Compilation-Static-Trees-and-Mountains_94: 3739883141183389307
+      Compilation-Static-Trees-and-Mountains_95: 4557634492051832931
+      Compilation-Static-Trees-and-Mountains_96: -6971810264373652631
+      Compilation-Static-Trees-and-Mountains_97: -8419925117164625989
+      Compilation-Static-Trees-and-Mountains_98: 1151470016315596015
+      Compilation-Static-Trees-and-Mountains_99: 9199946275634206659
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

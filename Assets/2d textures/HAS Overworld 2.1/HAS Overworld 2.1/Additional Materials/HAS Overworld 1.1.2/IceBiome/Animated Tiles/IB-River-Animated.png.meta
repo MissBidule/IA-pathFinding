@@ -1,0 +1,1495 @@
+fileFormatVersion: 2
+guid: d7e2527fcd3f3454a93a47b119caaccd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7117855805834359343
+    second: IB-River-Animated_0
+  - first:
+      213: 5930154757434752753
+    second: IB-River-Animated_1
+  - first:
+      213: -1051543409546285187
+    second: IB-River-Animated_2
+  - first:
+      213: 2856417996170820294
+    second: IB-River-Animated_3
+  - first:
+      213: -5277061846217002128
+    second: IB-River-Animated_4
+  - first:
+      213: -6238884081455192519
+    second: IB-River-Animated_5
+  - first:
+      213: 5149766550626370008
+    second: IB-River-Animated_6
+  - first:
+      213: 9093476526589707743
+    second: IB-River-Animated_7
+  - first:
+      213: -1727335015707034232
+    second: IB-River-Animated_8
+  - first:
+      213: -1286658561049713964
+    second: IB-River-Animated_9
+  - first:
+      213: -1475237289950963315
+    second: IB-River-Animated_10
+  - first:
+      213: -3031573990293386811
+    second: IB-River-Animated_11
+  - first:
+      213: -6735249487460571454
+    second: IB-River-Animated_12
+  - first:
+      213: 9169372620031876960
+    second: IB-River-Animated_13
+  - first:
+      213: 8699836515071805832
+    second: IB-River-Animated_14
+  - first:
+      213: 4405061025671910333
+    second: IB-River-Animated_15
+  - first:
+      213: 8092855589905407562
+    second: IB-River-Animated_16
+  - first:
+      213: 148972978063298813
+    second: IB-River-Animated_17
+  - first:
+      213: -2661897756307143559
+    second: IB-River-Animated_18
+  - first:
+      213: -5026050587200806953
+    second: IB-River-Animated_19
+  - first:
+      213: -5483889589587746491
+    second: IB-River-Animated_20
+  - first:
+      213: 2528610879492054308
+    second: IB-River-Animated_21
+  - first:
+      213: 3668112161423850394
+    second: IB-River-Animated_22
+  - first:
+      213: 4980582712700077935
+    second: IB-River-Animated_23
+  - first:
+      213: 2240471556455595290
+    second: IB-River-Animated_24
+  - first:
+      213: -8660373366692840024
+    second: IB-River-Animated_25
+  - first:
+      213: -7207849799099841857
+    second: IB-River-Animated_26
+  - first:
+      213: -8542353887997396994
+    second: IB-River-Animated_27
+  - first:
+      213: 7068310618173954990
+    second: IB-River-Animated_28
+  - first:
+      213: -8926623793219249872
+    second: IB-River-Animated_29
+  - first:
+      213: 5888159069255719762
+    second: IB-River-Animated_30
+  - first:
+      213: 7929028827973721307
+    second: IB-River-Animated_31
+  - first:
+      213: -380438981777485769
+    second: IB-River-Animated_32
+  - first:
+      213: -8719557524623483657
+    second: IB-River-Animated_33
+  - first:
+      213: -5382290124212208408
+    second: IB-River-Animated_34
+  - first:
+      213: -929845991692783283
+    second: IB-River-Animated_35
+  - first:
+      213: -7426396496964634461
+    second: IB-River-Animated_36
+  - first:
+      213: -8930441771953579475
+    second: IB-River-Animated_37
+  - first:
+      213: -8521694274717943573
+    second: IB-River-Animated_38
+  - first:
+      213: 2555815011939493952
+    second: IB-River-Animated_39
+  - first:
+      213: 6482248852994900773
+    second: IB-River-Animated_40
+  - first:
+      213: 3114272251106079616
+    second: IB-River-Animated_41
+  - first:
+      213: -7026897684510443254
+    second: IB-River-Animated_42
+  - first:
+      213: -3712870267162372480
+    second: IB-River-Animated_43
+  - first:
+      213: -7616574988070321201
+    second: IB-River-Animated_44
+  - first:
+      213: -8594375792810955730
+    second: IB-River-Animated_45
+  - first:
+      213: -2393288255712128295
+    second: IB-River-Animated_46
+  - first:
+      213: 625230201466210734
+    second: IB-River-Animated_47
+  - first:
+      213: 1432132234630034581
+    second: IB-River-Animated_48
+  - first:
+      213: 1101564160236892304
+    second: IB-River-Animated_49
+  - first:
+      213: 7084016187593781619
+    second: IB-River-Animated_50
+  - first:
+      213: -2832593521032687094
+    second: IB-River-Animated_51
+  - first:
+      213: 5477077409879377230
+    second: IB-River-Animated_52
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IB-River-Animated_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 434
+        width: 128
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd8aca4bdb483d90800000000000000
+      internalID: -7117855805834359343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-River-Animated_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 402
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1febdf325542c4250800000000000000
+      internalID: 5930154757434752753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-River-Animated_2
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 402
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f271027da2861f0800000000000000
+      internalID: -1051543409546285187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-River-Animated_3
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 402
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca7bc7980904a720800000000000000
+      internalID: 2856417996170820294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-River-Animated_4
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 402
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 073f77eb53c14c6b0800000000000000
+      internalID: -5277061846217002128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-River-Animated_5
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 402
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9362602abf70b69a0800000000000000
+      internalID: -6238884081455192519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-River-Animated_6
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 402
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d10646a465a77740800000000000000
+      internalID: 5149766550626370008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-River-Animated_7
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 402
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd58bbcb8b4823e70800000000000000
+      internalID: 9093476526589707743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-River-Animated_8
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 402
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d30bc74f54708e0800000000000000
+      internalID: -1727335015707034232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-River-Animated_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 383
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d2aa611bded42ee0800000000000000
+      internalID: -1286658561049713964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-River-Animated_10
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 383
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d89101d3087e68be0800000000000000
+      internalID: -1475237289950963315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-River-Animated_11
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 383
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c9cf3e848fade5d0800000000000000
+      internalID: -3031573990293386811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-River-Animated_12
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 383
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c6e74aa6469782a0800000000000000
+      internalID: -6735249487460571454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-River-Animated_13
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 383
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f513601d7204f70800000000000000
+      internalID: 9169372620031876960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-River-Animated_14
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 383
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 889c3dc77370cb870800000000000000
+      internalID: 8699836515071805832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-River-Animated_15
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 383
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db39711f9abe12d30800000000000000
+      internalID: 4405061025671910333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-River-Animated_16
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 383
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e98def7499f4070800000000000000
+      internalID: 8092855589905407562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-River-Animated_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 354
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df0589e5222411200800000000000000
+      internalID: 148972978063298813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-River-Animated_18
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 354
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97447ee081a0f0bd0800000000000000
+      internalID: -2661897756307143559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-River-Animated_19
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 354
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df90cebe91ef3ab0800000000000000
+      internalID: -5026050587200806953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-River-Animated_20
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 354
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 541e821297f45e3b0800000000000000
+      internalID: -5483889589587746491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-River-Animated_21
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 354
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ddf4f923e671320800000000000000
+      internalID: 2528610879492054308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-River-Animated_22
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 354
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b75f98390c7e230800000000000000
+      internalID: 3668112161423850394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-River-Animated_23
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 354
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6780f4c6959e1540800000000000000
+      internalID: 4980582712700077935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-River-Animated_24
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 354
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1df6e39201c71f10800000000000000
+      internalID: 2240471556455595290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-River-Animated_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 322
+        width: 128
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8adf400ce4c20d780800000000000000
+      internalID: -8660373366692840024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-River-Animated_26
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 335
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2884aebc298fb90800000000000000
+      internalID: -7207849799099841857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-River-Animated_27
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 335
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef7fc30f566737980800000000000000
+      internalID: -8542353887997396994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-River-Animated_28
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 335
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab5166ce0fa71260800000000000000
+      internalID: 7068310618173954990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-River-Animated_29
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 335
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 039dd9194f24e1480800000000000000
+      internalID: -8926623793219249872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-River-Animated_30
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 335
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b5bf70a71f6b150800000000000000
+      internalID: 5888159069255719762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-River-Animated_31
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 335
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc943195b1990e60800000000000000
+      internalID: 7929028827973721307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-River-Animated_32
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 335
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 730117003c868baf0800000000000000
+      internalID: -380438981777485769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-River-Animated_33
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 335
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc9b3a21a8edf680800000000000000
+      internalID: -8719557524623483657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-River-Animated_34
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 290
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ecfc3c06a34e45b0800000000000000
+      internalID: -5382290124212208408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-River-Animated_35
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 290
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d41b4514ff58813f0800000000000000
+      internalID: -929845991692783283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-River-Animated_36
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 290
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8b7359bb320f890800000000000000
+      internalID: -7426396496964634461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-River-Animated_37
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 290
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a956f1682b01480800000000000000
+      internalID: -8930441771953579475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-River-Animated_38
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 290
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be8f4fef43cdcb980800000000000000
+      internalID: -8521694274717943573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-River-Animated_39
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 290
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 048a34a4634187320800000000000000
+      internalID: 2555815011939493952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-River-Animated_40
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 290
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 523c174ccf295f950800000000000000
+      internalID: 6482248852994900773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-River-Animated_41
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 290
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 083b80dbc1e183b20800000000000000
+      internalID: 3114272251106079616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-River-Animated_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 258
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a097db939c17b7e90800000000000000
+      internalID: -7026897684510443254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-River-Animated_43
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 258
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0865da4e92c397cc0800000000000000
+      internalID: -3712870267162372480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-River-Animated_44
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 258
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc381f6176d7c4690800000000000000
+      internalID: -7616574988070321201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-River-Animated_45
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 258
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c694b50c4aab880800000000000000
+      internalID: -8594375792810955730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-River-Animated_46
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 258
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d21a29f20559ced0800000000000000
+      internalID: -2393288255712128295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-River-Animated_47
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 258
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea94d3d3e834da800800000000000000
+      internalID: 625230201466210734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-River-Animated_48
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 258
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594728cfda4ffd310800000000000000
+      internalID: 1432132234630034581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-River-Animated_49
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 258
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090b83474ca894f00800000000000000
+      internalID: 1101564160236892304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-River-Animated_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 194
+        width: 128
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371f4ac903b7f4260800000000000000
+      internalID: 7084016187593781619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-River-Animated_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 130
+        width: 128
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0216c9433b90b8d0800000000000000
+      internalID: -2832593521032687094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-River-Animated_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e454d2fa2ec720c40800000000000000
+      internalID: 5477077409879377230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      IB-River-Animated_0: -7117855805834359343
+      IB-River-Animated_1: 5930154757434752753
+      IB-River-Animated_10: -1475237289950963315
+      IB-River-Animated_11: -3031573990293386811
+      IB-River-Animated_12: -6735249487460571454
+      IB-River-Animated_13: 9169372620031876960
+      IB-River-Animated_14: 8699836515071805832
+      IB-River-Animated_15: 4405061025671910333
+      IB-River-Animated_16: 8092855589905407562
+      IB-River-Animated_17: 148972978063298813
+      IB-River-Animated_18: -2661897756307143559
+      IB-River-Animated_19: -5026050587200806953
+      IB-River-Animated_2: -1051543409546285187
+      IB-River-Animated_20: -5483889589587746491
+      IB-River-Animated_21: 2528610879492054308
+      IB-River-Animated_22: 3668112161423850394
+      IB-River-Animated_23: 4980582712700077935
+      IB-River-Animated_24: 2240471556455595290
+      IB-River-Animated_25: -8660373366692840024
+      IB-River-Animated_26: -7207849799099841857
+      IB-River-Animated_27: -8542353887997396994
+      IB-River-Animated_28: 7068310618173954990
+      IB-River-Animated_29: -8926623793219249872
+      IB-River-Animated_3: 2856417996170820294
+      IB-River-Animated_30: 5888159069255719762
+      IB-River-Animated_31: 7929028827973721307
+      IB-River-Animated_32: -380438981777485769
+      IB-River-Animated_33: -8719557524623483657
+      IB-River-Animated_34: -5382290124212208408
+      IB-River-Animated_35: -929845991692783283
+      IB-River-Animated_36: -7426396496964634461
+      IB-River-Animated_37: -8930441771953579475
+      IB-River-Animated_38: -8521694274717943573
+      IB-River-Animated_39: 2555815011939493952
+      IB-River-Animated_4: -5277061846217002128
+      IB-River-Animated_40: 6482248852994900773
+      IB-River-Animated_41: 3114272251106079616
+      IB-River-Animated_42: -7026897684510443254
+      IB-River-Animated_43: -3712870267162372480
+      IB-River-Animated_44: -7616574988070321201
+      IB-River-Animated_45: -8594375792810955730
+      IB-River-Animated_46: -2393288255712128295
+      IB-River-Animated_47: 625230201466210734
+      IB-River-Animated_48: 1432132234630034581
+      IB-River-Animated_49: 1101564160236892304
+      IB-River-Animated_5: -6238884081455192519
+      IB-River-Animated_50: 7084016187593781619
+      IB-River-Animated_51: -2832593521032687094
+      IB-River-Animated_52: 5477077409879377230
+      IB-River-Animated_6: 5149766550626370008
+      IB-River-Animated_7: 9093476526589707743
+      IB-River-Animated_8: -1727335015707034232
+      IB-River-Animated_9: -1286658561049713964
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

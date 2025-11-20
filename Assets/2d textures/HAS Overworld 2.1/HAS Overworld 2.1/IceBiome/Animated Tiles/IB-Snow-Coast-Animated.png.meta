@@ -1,0 +1,1053 @@
+fileFormatVersion: 2
+guid: b2af36d5ee92e844996636aa2d0a4739
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3287214025685036005
+    second: IB-Snow-Coast-Animated_0
+  - first:
+      213: 8451226185695811804
+    second: IB-Snow-Coast-Animated_1
+  - first:
+      213: -2226114124280797840
+    second: IB-Snow-Coast-Animated_2
+  - first:
+      213: 7957674682374378915
+    second: IB-Snow-Coast-Animated_3
+  - first:
+      213: -826337091772593246
+    second: IB-Snow-Coast-Animated_4
+  - first:
+      213: 7999415871514982520
+    second: IB-Snow-Coast-Animated_5
+  - first:
+      213: -6406489756272402825
+    second: IB-Snow-Coast-Animated_6
+  - first:
+      213: 3258176123605504627
+    second: IB-Snow-Coast-Animated_7
+  - first:
+      213: -1908734245799083364
+    second: IB-Snow-Coast-Animated_8
+  - first:
+      213: 8406472534147077494
+    second: IB-Snow-Coast-Animated_9
+  - first:
+      213: 8998281942525087286
+    second: IB-Snow-Coast-Animated_10
+  - first:
+      213: 1279251620700776591
+    second: IB-Snow-Coast-Animated_11
+  - first:
+      213: 7047511228450623292
+    second: IB-Snow-Coast-Animated_12
+  - first:
+      213: -8854909684518516126
+    second: IB-Snow-Coast-Animated_13
+  - first:
+      213: 52859873085435380
+    second: IB-Snow-Coast-Animated_14
+  - first:
+      213: -2667273758449182138
+    second: IB-Snow-Coast-Animated_15
+  - first:
+      213: -2391003234505225148
+    second: IB-Snow-Coast-Animated_16
+  - first:
+      213: 5545030485103288077
+    second: IB-Snow-Coast-Animated_17
+  - first:
+      213: 4983153753242550236
+    second: IB-Snow-Coast-Animated_18
+  - first:
+      213: -8043472095921699878
+    second: IB-Snow-Coast-Animated_19
+  - first:
+      213: -248159265771316984
+    second: IB-Snow-Coast-Animated_20
+  - first:
+      213: -1929680062677301651
+    second: IB-Snow-Coast-Animated_21
+  - first:
+      213: 8163083293089721297
+    second: IB-Snow-Coast-Animated_22
+  - first:
+      213: 3664888462708083130
+    second: IB-Snow-Coast-Animated_23
+  - first:
+      213: -5706899296288358126
+    second: IB-Snow-Coast-Animated_24
+  - first:
+      213: -7357406765600254228
+    second: IB-Snow-Coast-Animated_25
+  - first:
+      213: 5831125711770611974
+    second: IB-Snow-Coast-Animated_26
+  - first:
+      213: -205627081606473547
+    second: IB-Snow-Coast-Animated_27
+  - first:
+      213: 3198288815414020830
+    second: IB-Snow-Coast-Animated_28
+  - first:
+      213: -5938525785815153050
+    second: IB-Snow-Coast-Animated_29
+  - first:
+      213: -3780859222406117683
+    second: IB-Snow-Coast-Animated_30
+  - first:
+      213: -2333878528255532993
+    second: IB-Snow-Coast-Animated_31
+  - first:
+      213: -6081795412902177989
+    second: IB-Snow-Coast-Animated_32
+  - first:
+      213: 122110921684758299
+    second: IB-Snow-Coast-Animated_33
+  - first:
+      213: 6162510998852074946
+    second: IB-Snow-Coast-Animated_34
+  - first:
+      213: 1450983996120192551
+    second: IB-Snow-Coast-Animated_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IB-Snow-Coast-Animated_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 383
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b149c5292487162d0800000000000000
+      internalID: -3287214025685036005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Snow-Coast-Animated_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 354
+        width: 128
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd8d0ea7079c84570800000000000000
+      internalID: 8451226185695811804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Snow-Coast-Animated_2
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 327
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07563c89ff04b11e0800000000000000
+      internalID: -2226114124280797840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Snow-Coast-Animated_3
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 327
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a55b0946f65f6e60800000000000000
+      internalID: 7957674682374378915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Snow-Coast-Animated_4
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 327
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab4a2c0bc24884f0800000000000000
+      internalID: -826337091772593246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Snow-Coast-Animated_5
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 327
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 878b5483a52a30f60800000000000000
+      internalID: 7999415871514982520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Snow-Coast-Animated_6
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 328
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e543c72839717a0800000000000000
+      internalID: -6406489756272402825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Snow-Coast-Animated_7
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 328
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3725a2ffbed573d20800000000000000
+      internalID: 3258176123605504627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Snow-Coast-Animated_8
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 328
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c92c58cf050d285e0800000000000000
+      internalID: -1908734245799083364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Snow-Coast-Animated_9
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 328
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6751aebfa3ac9a470800000000000000
+      internalID: 8406472534147077494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Snow-Coast-Animated_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 303
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e050570c150ec70800000000000000
+      internalID: 8998281942525087286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Snow-Coast-Animated_11
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 303
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f88663e3290d0c110800000000000000
+      internalID: 1279251620700776591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Snow-Coast-Animated_12
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 303
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f406a7f1acdc160800000000000000
+      internalID: 7047511228450623292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Snow-Coast-Animated_13
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 303
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26a8b18ae8a0d1580800000000000000
+      internalID: -8854909684518516126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Snow-Coast-Animated_14
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 303
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fd212646cbcbb000800000000000000
+      internalID: 52859873085435380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Snow-Coast-Animated_15
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 303
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64a5ae406a0fbfad0800000000000000
+      internalID: -2667273758449182138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Snow-Coast-Animated_16
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 303
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c818ee93371ded0800000000000000
+      internalID: -2391003234505225148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Snow-Coast-Animated_17
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 303
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f1b4de8d7e3fc40800000000000000
+      internalID: 5545030485103288077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Snow-Coast-Animated_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 278
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf3d2bcfe7b72540800000000000000
+      internalID: 4983153753242550236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Snow-Coast-Animated_19
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 278
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad302d1beb8df5090800000000000000
+      internalID: -8043472095921699878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Snow-Coast-Animated_20
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 278
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8099afb667c5e8cf0800000000000000
+      internalID: -248159265771316984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Snow-Coast-Animated_21
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 278
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6647f5f4366835e0800000000000000
+      internalID: -1929680062677301651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Snow-Coast-Animated_22
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 279
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dbe9845109194170800000000000000
+      internalID: 8163083293089721297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Snow-Coast-Animated_23
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 280
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab98421b3ac4cd230800000000000000
+      internalID: 3664888462708083130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Snow-Coast-Animated_24
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 279
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2114ec393550dc0b0800000000000000
+      internalID: -5706899296288358126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Snow-Coast-Animated_25
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 279
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce65754278d35e990800000000000000
+      internalID: -7357406765600254228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Snow-Coast-Animated_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 101
+        width: 128
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 601fbb2b0f15ce050800000000000000
+      internalID: 5831125711770611974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Snow-Coast-Animated_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 23
+        width: 128
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b855ac3247752df0800000000000000
+      internalID: -205627081606473547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Snow-Coast-Animated_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda8bdb7bba926c20800000000000000
+      internalID: 3198288815414020830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Snow-Coast-Animated_29
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 0
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6668dfee24e169da0800000000000000
+      internalID: -5938525785815153050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Snow-Coast-Animated_30
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 0
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc649bea190b78bc0800000000000000
+      internalID: -3780859222406117683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Snow-Coast-Animated_31
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 0
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f30ea6e08d56c9fd0800000000000000
+      internalID: -2333878528255532993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Snow-Coast-Animated_32
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 0
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b339d517b4f199ba0800000000000000
+      internalID: -6081795412902177989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Snow-Coast-Animated_33
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 0
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f273e7c33d1b100800000000000000
+      internalID: 122110921684758299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Snow-Coast-Animated_34
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 0
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cdf3036a13a58550800000000000000
+      internalID: 6162510998852074946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Snow-Coast-Animated_35
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 0
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 726558fb14ee22410800000000000000
+      internalID: 1450983996120192551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      IB-Snow-Coast-Animated_0: -3287214025685036005
+      IB-Snow-Coast-Animated_1: 8451226185695811804
+      IB-Snow-Coast-Animated_10: 8998281942525087286
+      IB-Snow-Coast-Animated_11: 1279251620700776591
+      IB-Snow-Coast-Animated_12: 7047511228450623292
+      IB-Snow-Coast-Animated_13: -8854909684518516126
+      IB-Snow-Coast-Animated_14: 52859873085435380
+      IB-Snow-Coast-Animated_15: -2667273758449182138
+      IB-Snow-Coast-Animated_16: -2391003234505225148
+      IB-Snow-Coast-Animated_17: 5545030485103288077
+      IB-Snow-Coast-Animated_18: 4983153753242550236
+      IB-Snow-Coast-Animated_19: -8043472095921699878
+      IB-Snow-Coast-Animated_2: -2226114124280797840
+      IB-Snow-Coast-Animated_20: -248159265771316984
+      IB-Snow-Coast-Animated_21: -1929680062677301651
+      IB-Snow-Coast-Animated_22: 8163083293089721297
+      IB-Snow-Coast-Animated_23: 3664888462708083130
+      IB-Snow-Coast-Animated_24: -5706899296288358126
+      IB-Snow-Coast-Animated_25: -7357406765600254228
+      IB-Snow-Coast-Animated_26: 5831125711770611974
+      IB-Snow-Coast-Animated_27: -205627081606473547
+      IB-Snow-Coast-Animated_28: 3198288815414020830
+      IB-Snow-Coast-Animated_29: -5938525785815153050
+      IB-Snow-Coast-Animated_3: 7957674682374378915
+      IB-Snow-Coast-Animated_30: -3780859222406117683
+      IB-Snow-Coast-Animated_31: -2333878528255532993
+      IB-Snow-Coast-Animated_32: -6081795412902177989
+      IB-Snow-Coast-Animated_33: 122110921684758299
+      IB-Snow-Coast-Animated_34: 6162510998852074946
+      IB-Snow-Coast-Animated_35: 1450983996120192551
+      IB-Snow-Coast-Animated_4: -826337091772593246
+      IB-Snow-Coast-Animated_5: 7999415871514982520
+      IB-Snow-Coast-Animated_6: -6406489756272402825
+      IB-Snow-Coast-Animated_7: 3258176123605504627
+      IB-Snow-Coast-Animated_8: -1908734245799083364
+      IB-Snow-Coast-Animated_9: 8406472534147077494
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

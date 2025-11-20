@@ -1,0 +1,1105 @@
+fileFormatVersion: 2
+guid: 97ee5dfe1d45f1c469952aaf065fdf08
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5411236409206167557
+    second: CB-LandTileset_0
+  - first:
+      213: -6851271316348047886
+    second: CB-LandTileset_1
+  - first:
+      213: 9012260954149210751
+    second: CB-LandTileset_2
+  - first:
+      213: 4577663419428263862
+    second: CB-LandTileset_3
+  - first:
+      213: 2491840427257622098
+    second: CB-LandTileset_4
+  - first:
+      213: -2987457655047633420
+    second: CB-LandTileset_5
+  - first:
+      213: -4691016878616940384
+    second: CB-LandTileset_6
+  - first:
+      213: 1246353067668818648
+    second: CB-LandTileset_7
+  - first:
+      213: 1492159888652984947
+    second: CB-LandTileset_8
+  - first:
+      213: 6032343327129336834
+    second: CB-LandTileset_9
+  - first:
+      213: -340265718537382421
+    second: CB-LandTileset_10
+  - first:
+      213: -1009820845393161129
+    second: CB-LandTileset_11
+  - first:
+      213: 6283518298526712982
+    second: CB-LandTileset_12
+  - first:
+      213: -8906505379268396964
+    second: CB-LandTileset_13
+  - first:
+      213: 1372005909695819617
+    second: CB-LandTileset_14
+  - first:
+      213: 1613383599045999149
+    second: CB-LandTileset_15
+  - first:
+      213: 6939388376380640423
+    second: CB-LandTileset_16
+  - first:
+      213: 6602997810475252102
+    second: CB-LandTileset_17
+  - first:
+      213: -4268757167239418760
+    second: CB-LandTileset_18
+  - first:
+      213: -3346127178856168352
+    second: CB-LandTileset_19
+  - first:
+      213: -3982182452864649784
+    second: CB-LandTileset_20
+  - first:
+      213: -3118880032648077200
+    second: CB-LandTileset_21
+  - first:
+      213: -5925151959008746507
+    second: CB-LandTileset_22
+  - first:
+      213: -2112713286680826103
+    second: CB-LandTileset_23
+  - first:
+      213: -2585594531273433614
+    second: CB-LandTileset_24
+  - first:
+      213: 8356605165776339206
+    second: CB-LandTileset_25
+  - first:
+      213: 8484910477349996134
+    second: CB-LandTileset_26
+  - first:
+      213: -832894112121829134
+    second: CB-LandTileset_27
+  - first:
+      213: 2747915772779574142
+    second: CB-LandTileset_28
+  - first:
+      213: 2240082477623587570
+    second: CB-LandTileset_29
+  - first:
+      213: 3506046426889440457
+    second: CB-LandTileset_30
+  - first:
+      213: 3710343544224710127
+    second: CB-LandTileset_31
+  - first:
+      213: 2635058359247022815
+    second: CB-LandTileset_32
+  - first:
+      213: 4395096024641498772
+    second: CB-LandTileset_33
+  - first:
+      213: -349329179983173423
+    second: CB-LandTileset_34
+  - first:
+      213: 6702242248650167670
+    second: CB-LandTileset_35
+  - first:
+      213: -3825695322131919843
+    second: CB-LandTileset_36
+  - first:
+      213: 1584979233514063882
+    second: CB-LandTileset_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CB-LandTileset_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 319
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf72b91e72d67e4b0800000000000000
+      internalID: -5411236409206167557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CB-LandTileset_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 338
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd604199056be0a0800000000000000
+      internalID: -6851271316348047886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CB-LandTileset_2
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 337
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7acf2bb69bf11d70800000000000000
+      internalID: 9012260954149210751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CB-LandTileset_3
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 341
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b7525060a0278f30800000000000000
+      internalID: 4577663419428263862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CB-LandTileset_4
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 338
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25ee5af8aabc49220800000000000000
+      internalID: 2491840427257622098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CB-LandTileset_5
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 343
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f54d59471b6a86d0800000000000000
+      internalID: -2987457655047633420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CB-LandTileset_6
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 337
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0fca2c00926eeb0800000000000000
+      internalID: -4691016878616940384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CB-LandTileset_7
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 344
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da4e17f28feb4110800000000000000
+      internalID: 1246353067668818648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CB-LandTileset_8
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 339
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3726f3f438735b410800000000000000
+      internalID: 1492159888652984947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CB-LandTileset_9
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 340
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20cfdb89b4037b350800000000000000
+      internalID: 6032343327129336834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CB-LandTileset_10
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 344
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be5165db122274bf0800000000000000
+      internalID: -340265718537382421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CB-LandTileset_11
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 324
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7545e879a456cf1f0800000000000000
+      internalID: -1009820845393161129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CB-LandTileset_12
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 323
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6940a5bd99a833750800000000000000
+      internalID: 6283518298526712982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CB-LandTileset_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 344
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c58f996db8cb56480800000000000000
+      internalID: -8906505379268396964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CB-LandTileset_14
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 338
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16fe72d0b185a0310800000000000000
+      internalID: 1372005909695819617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CB-LandTileset_15
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 337
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2af393d5d3e36610800000000000000
+      internalID: 1613383599045999149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CB-LandTileset_16
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 321
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac84ac36f8ad4060800000000000000
+      internalID: 6939388376380640423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CB-LandTileset_17
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 337
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6893f02468f82ab50800000000000000
+      internalID: 6602997810475252102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CB-LandTileset_18
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 325
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87caa4629f352c4c0800000000000000
+      internalID: -4268757167239418760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CB-LandTileset_19
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 321
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0648ff23f0b2091d0800000000000000
+      internalID: -3346127178856168352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CB-LandTileset_20
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 328
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c5753a58227cb8c0800000000000000
+      internalID: -3982182452864649784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CB-LandTileset_21
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 322
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070e3f4822387b4d0800000000000000
+      internalID: -3118880032648077200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CB-LandTileset_22
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 328
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3e213afa1a5cda0800000000000000
+      internalID: -5925151959008746507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CB-LandTileset_23
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 323
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f242b95722ea2e0800000000000000
+      internalID: -2112713286680826103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CB-LandTileset_24
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 321
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd114e097f1e1cd0800000000000000
+      internalID: -2585594531273433614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CB-LandTileset_25
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 328
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6010b428f10a8f370800000000000000
+      internalID: 8356605165776339206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CB-LandTileset_26
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 321
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 666cf69cf1570c570800000000000000
+      internalID: 8484910477349996134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CB-LandTileset_27
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 328
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f8c677c737f074f0800000000000000
+      internalID: -832894112121829134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CB-LandTileset_28
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 327
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e73383516de822620800000000000000
+      internalID: 2747915772779574142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CB-LandTileset_29
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 322
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f2b45a152f561f10800000000000000
+      internalID: 2240082477623587570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CB-LandTileset_30
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 327
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ccc5c046aaf7a030800000000000000
+      internalID: 3506046426889440457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CB-LandTileset_31
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 322
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fed7d249bc9cd7330800000000000000
+      internalID: 3710343544224710127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CB-LandTileset_32
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 320
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdaa759dd9b919420800000000000000
+      internalID: 2635058359247022815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CB-LandTileset_33
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 329
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49eec765c848efc30800000000000000
+      internalID: 4395096024641498772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CB-LandTileset_34
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 321
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8ac6d26fee62bf0800000000000000
+      internalID: -349329179983173423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CB-LandTileset_35
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 321
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675986da0d5230d50800000000000000
+      internalID: 6702242248650167670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CB-LandTileset_36
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 322
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c0479bf5668eac0800000000000000
+      internalID: -3825695322131919843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CB-LandTileset_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a080afd173afef510800000000000000
+      internalID: 1584979233514063882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CB-LandTileset_0: -5411236409206167557
+      CB-LandTileset_1: -6851271316348047886
+      CB-LandTileset_10: -340265718537382421
+      CB-LandTileset_11: -1009820845393161129
+      CB-LandTileset_12: 6283518298526712982
+      CB-LandTileset_13: -8906505379268396964
+      CB-LandTileset_14: 1372005909695819617
+      CB-LandTileset_15: 1613383599045999149
+      CB-LandTileset_16: 6939388376380640423
+      CB-LandTileset_17: 6602997810475252102
+      CB-LandTileset_18: -4268757167239418760
+      CB-LandTileset_19: -3346127178856168352
+      CB-LandTileset_2: 9012260954149210751
+      CB-LandTileset_20: -3982182452864649784
+      CB-LandTileset_21: -3118880032648077200
+      CB-LandTileset_22: -5925151959008746507
+      CB-LandTileset_23: -2112713286680826103
+      CB-LandTileset_24: -2585594531273433614
+      CB-LandTileset_25: 8356605165776339206
+      CB-LandTileset_26: 8484910477349996134
+      CB-LandTileset_27: -832894112121829134
+      CB-LandTileset_28: 2747915772779574142
+      CB-LandTileset_29: 2240082477623587570
+      CB-LandTileset_3: 4577663419428263862
+      CB-LandTileset_30: 3506046426889440457
+      CB-LandTileset_31: 3710343544224710127
+      CB-LandTileset_32: 2635058359247022815
+      CB-LandTileset_33: 4395096024641498772
+      CB-LandTileset_34: -349329179983173423
+      CB-LandTileset_35: 6702242248650167670
+      CB-LandTileset_36: -3825695322131919843
+      CB-LandTileset_37: 1584979233514063882
+      CB-LandTileset_4: 2491840427257622098
+      CB-LandTileset_5: -2987457655047633420
+      CB-LandTileset_6: -4691016878616940384
+      CB-LandTileset_7: 1246353067668818648
+      CB-LandTileset_8: 1492159888652984947
+      CB-LandTileset_9: 6032343327129336834
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

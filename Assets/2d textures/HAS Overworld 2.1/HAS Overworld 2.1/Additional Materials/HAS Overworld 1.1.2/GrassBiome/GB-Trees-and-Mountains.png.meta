@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 20b8e5ebf82089941bc34f700f611c17
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5892701093610533982
+    second: GB-Trees-and-Mountains_0
+  - first:
+      213: -1912447622780138107
+    second: GB-Trees-and-Mountains_1
+  - first:
+      213: -6383515105719197041
+    second: GB-Trees-and-Mountains_2
+  - first:
+      213: -761453795500810191
+    second: GB-Trees-and-Mountains_3
+  - first:
+      213: 8252119903137716662
+    second: GB-Trees-and-Mountains_4
+  - first:
+      213: 4517471595461513021
+    second: GB-Trees-and-Mountains_5
+  - first:
+      213: 4705386009463157877
+    second: GB-Trees-and-Mountains_6
+  - first:
+      213: 3443201804184290674
+    second: GB-Trees-and-Mountains_7
+  - first:
+      213: -8221228164937647562
+    second: GB-Trees-and-Mountains_8
+  - first:
+      213: 6392555302234763022
+    second: GB-Trees-and-Mountains_9
+  - first:
+      213: 5524200786223407625
+    second: GB-Trees-and-Mountains_10
+  - first:
+      213: 8124798040923383896
+    second: GB-Trees-and-Mountains_11
+  - first:
+      213: 6889266408076178900
+    second: GB-Trees-and-Mountains_12
+  - first:
+      213: 7313483714742746539
+    second: GB-Trees-and-Mountains_13
+  - first:
+      213: 8740076078360488107
+    second: GB-Trees-and-Mountains_14
+  - first:
+      213: -2800547484418708311
+    second: GB-Trees-and-Mountains_15
+  - first:
+      213: 4333588271887021052
+    second: GB-Trees-and-Mountains_16
+  - first:
+      213: 266232297233945819
+    second: GB-Trees-and-Mountains_17
+  - first:
+      213: 2222276000636126306
+    second: GB-Trees-and-Mountains_18
+  - first:
+      213: 6456569168237044889
+    second: GB-Trees-and-Mountains_19
+  - first:
+      213: 6081855238357317903
+    second: GB-Trees-and-Mountains_20
+  - first:
+      213: 5277085961474018741
+    second: GB-Trees-and-Mountains_21
+  - first:
+      213: -5400485557363117760
+    second: GB-Trees-and-Mountains_22
+  - first:
+      213: 5544457292252939703
+    second: GB-Trees-and-Mountains_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GB-Trees-and-Mountains_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54363c7c6417c150800000000000000
+      internalID: 5892701093610533982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB-Trees-and-Mountains_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d46a8050f9575e0800000000000000
+      internalID: -1912447622780138107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB-Trees-and-Mountains_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f82644925d23967a0800000000000000
+      internalID: -6383515105719197041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB-Trees-and-Mountains_3
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1302d4eaec5ce65f0800000000000000
+      internalID: -761453795500810191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB-Trees-and-Mountains_4
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9547e845b658270800000000000000
+      internalID: 8252119903137716662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB-Trees-and-Mountains_5
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 144
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f86624b7841be30800000000000000
+      internalID: 4517471595461513021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB-Trees-and-Mountains_6
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574f42935a3ec4140800000000000000
+      internalID: 4705386009463157877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB-Trees-and-Mountains_7
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 168
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 275836c4cc5b8cf20800000000000000
+      internalID: 3443201804184290674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB-Trees-and-Mountains_8
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 192
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a747bba8458ed80800000000000000
+      internalID: -8221228164937647562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB-Trees-and-Mountains_9
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 168
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f2ebc9d2be6b850800000000000000
+      internalID: 6392555302234763022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB-Trees-and-Mountains_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 143
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 902a7cab857e9ac40800000000000000
+      internalID: 5524200786223407625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB-Trees-and-Mountains_11
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 128
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 858270d65c411c070800000000000000
+      internalID: 8124798040923383896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB-Trees-and-Mountains_12
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 96
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d579681c479b9f50800000000000000
+      internalID: 6889266408076178900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB-Trees-and-Mountains_13
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 144
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bad78d7a0b6be7560800000000000000
+      internalID: 7313483714742746539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB-Trees-and-Mountains_14
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 120
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8e098e2ecfa4970800000000000000
+      internalID: 8740076078360488107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB-Trees-and-Mountains_15
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 144
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aceb9e96e47229d0800000000000000
+      internalID: -2800547484418708311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB-Trees-and-Mountains_16
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 120
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3ff9ca29ff32c30800000000000000
+      internalID: 4333588271887021052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB-Trees-and-Mountains_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 47
+        width: 81
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd49d502dd8d1b300800000000000000
+      internalID: 266232297233945819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB-Trees-and-Mountains_18
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 128
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 264caca9f3c17de10800000000000000
+      internalID: 2222276000636126306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB-Trees-and-Mountains_19
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 47
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 994228c33775a9950800000000000000
+      internalID: 6456569168237044889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB-Trees-and-Mountains_20
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 96
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f09f2a1cd17176450800000000000000
+      internalID: 6081855238357317903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB-Trees-and-Mountains_21
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 96
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd0cd609b9fb3940800000000000000
+      internalID: 5277085961474018741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB-Trees-and-Mountains_22
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 15
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0417eb2affe9d05b0800000000000000
+      internalID: -5400485557363117760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB-Trees-and-Mountains_23
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 0
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b58f01188ed1fc40800000000000000
+      internalID: 5544457292252939703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GB-Trees-and-Mountains_0: 5892701093610533982
+      GB-Trees-and-Mountains_1: -1912447622780138107
+      GB-Trees-and-Mountains_10: 5524200786223407625
+      GB-Trees-and-Mountains_11: 8124798040923383896
+      GB-Trees-and-Mountains_12: 6889266408076178900
+      GB-Trees-and-Mountains_13: 7313483714742746539
+      GB-Trees-and-Mountains_14: 8740076078360488107
+      GB-Trees-and-Mountains_15: -2800547484418708311
+      GB-Trees-and-Mountains_16: 4333588271887021052
+      GB-Trees-and-Mountains_17: 266232297233945819
+      GB-Trees-and-Mountains_18: 2222276000636126306
+      GB-Trees-and-Mountains_19: 6456569168237044889
+      GB-Trees-and-Mountains_2: -6383515105719197041
+      GB-Trees-and-Mountains_20: 6081855238357317903
+      GB-Trees-and-Mountains_21: 5277085961474018741
+      GB-Trees-and-Mountains_22: -5400485557363117760
+      GB-Trees-and-Mountains_23: 5544457292252939703
+      GB-Trees-and-Mountains_3: -761453795500810191
+      GB-Trees-and-Mountains_4: 8252119903137716662
+      GB-Trees-and-Mountains_5: 4517471595461513021
+      GB-Trees-and-Mountains_6: 4705386009463157877
+      GB-Trees-and-Mountains_7: 3443201804184290674
+      GB-Trees-and-Mountains_8: -8221228164937647562
+      GB-Trees-and-Mountains_9: 6392555302234763022
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

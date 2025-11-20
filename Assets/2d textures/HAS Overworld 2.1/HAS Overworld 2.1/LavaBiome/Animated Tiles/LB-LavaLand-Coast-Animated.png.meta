@@ -1,0 +1,1053 @@
+fileFormatVersion: 2
+guid: 48336cd993246b6418d2997f5d78b201
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6767829945581325670
+    second: LB-LavaLand-Coast-Animated_0
+  - first:
+      213: -6445774943944726012
+    second: LB-LavaLand-Coast-Animated_1
+  - first:
+      213: -1243112369499026950
+    second: LB-LavaLand-Coast-Animated_2
+  - first:
+      213: 629285963857498095
+    second: LB-LavaLand-Coast-Animated_3
+  - first:
+      213: 2436455352643538284
+    second: LB-LavaLand-Coast-Animated_4
+  - first:
+      213: 8247750985298260374
+    second: LB-LavaLand-Coast-Animated_5
+  - first:
+      213: -1507736756903501535
+    second: LB-LavaLand-Coast-Animated_6
+  - first:
+      213: -2429091792112367485
+    second: LB-LavaLand-Coast-Animated_7
+  - first:
+      213: 1430834300122007666
+    second: LB-LavaLand-Coast-Animated_8
+  - first:
+      213: -9200493259100926452
+    second: LB-LavaLand-Coast-Animated_9
+  - first:
+      213: -3989638358387398882
+    second: LB-LavaLand-Coast-Animated_10
+  - first:
+      213: 2022674863172688673
+    second: LB-LavaLand-Coast-Animated_11
+  - first:
+      213: -7455456741508618678
+    second: LB-LavaLand-Coast-Animated_12
+  - first:
+      213: -8095564716884147758
+    second: LB-LavaLand-Coast-Animated_13
+  - first:
+      213: 9129216697282862046
+    second: LB-LavaLand-Coast-Animated_14
+  - first:
+      213: 2978511571253726900
+    second: LB-LavaLand-Coast-Animated_15
+  - first:
+      213: 6549718519372416139
+    second: LB-LavaLand-Coast-Animated_16
+  - first:
+      213: 1789642717228698930
+    second: LB-LavaLand-Coast-Animated_17
+  - first:
+      213: 2571957106331643003
+    second: LB-LavaLand-Coast-Animated_18
+  - first:
+      213: -558236082442341707
+    second: LB-LavaLand-Coast-Animated_19
+  - first:
+      213: -5591568666447222200
+    second: LB-LavaLand-Coast-Animated_20
+  - first:
+      213: -8625929996707017462
+    second: LB-LavaLand-Coast-Animated_21
+  - first:
+      213: -1373745585678621122
+    second: LB-LavaLand-Coast-Animated_22
+  - first:
+      213: 2316720944164653337
+    second: LB-LavaLand-Coast-Animated_23
+  - first:
+      213: -7737334760357932634
+    second: LB-LavaLand-Coast-Animated_24
+  - first:
+      213: -7197156794830243602
+    second: LB-LavaLand-Coast-Animated_25
+  - first:
+      213: -459064098265045080
+    second: LB-LavaLand-Coast-Animated_26
+  - first:
+      213: 9039681609609908144
+    second: LB-LavaLand-Coast-Animated_27
+  - first:
+      213: 480997010088883723
+    second: LB-LavaLand-Coast-Animated_28
+  - first:
+      213: 673401105075350897
+    second: LB-LavaLand-Coast-Animated_29
+  - first:
+      213: 7861399817118575179
+    second: LB-LavaLand-Coast-Animated_30
+  - first:
+      213: -283207338362838677
+    second: LB-LavaLand-Coast-Animated_31
+  - first:
+      213: 3643956107999121304
+    second: LB-LavaLand-Coast-Animated_32
+  - first:
+      213: 6106504539191030771
+    second: LB-LavaLand-Coast-Animated_33
+  - first:
+      213: 7302189613667720427
+    second: LB-LavaLand-Coast-Animated_34
+  - first:
+      213: 2005216281293903908
+    second: LB-LavaLand-Coast-Animated_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LB-LavaLand-Coast-Animated_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 383
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d40ae5a792ced50800000000000000
+      internalID: 6767829945581325670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-LavaLand-Coast-Animated_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 354
+        width: 128
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40aaf04f6d10c86a0800000000000000
+      internalID: -6445774943944726012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-LavaLand-Coast-Animated_2
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 327
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af9cd10e2e39fbee0800000000000000
+      internalID: -1243112369499026950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-LavaLand-Coast-Animated_3
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 327
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef8dd1004cabb800800000000000000
+      internalID: 629285963857498095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-LavaLand-Coast-Animated_4
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 327
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6dca6dfb3700d120800000000000000
+      internalID: 2436455352643538284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-LavaLand-Coast-Animated_5
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 327
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 691b49a92d5e57270800000000000000
+      internalID: 8247750985298260374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-LavaLand-Coast-Animated_6
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 328
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 121a7fd6861731be0800000000000000
+      internalID: -1507736756903501535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-LavaLand-Coast-Animated_7
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 328
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 388435c82e12a4ed0800000000000000
+      internalID: -2429091792112367485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-LavaLand-Coast-Animated_8
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 328
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 278873f07385bd310800000000000000
+      internalID: 1430834300122007666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-LavaLand-Coast-Animated_9
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 328
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ec9ec8028415080800000000000000
+      internalID: -9200493259100926452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-LavaLand-Coast-Animated_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 303
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e17eb021d05f1a8c0800000000000000
+      internalID: -3989638358387398882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-LavaLand-Coast-Animated_11
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 303
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b158b421cf11c10800000000000000
+      internalID: 2022674863172688673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-LavaLand-Coast-Animated_12
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 303
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4666142895e88890800000000000000
+      internalID: -7455456741508618678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-LavaLand-Coast-Animated_13
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 303
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d14fe938c6c6af80800000000000000
+      internalID: -8095564716884147758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-LavaLand-Coast-Animated_14
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 303
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb1c1fa73e71be70800000000000000
+      internalID: 9129216697282862046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-LavaLand-Coast-Animated_15
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 303
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be08f34e7cc55920800000000000000
+      internalID: 2978511571253726900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-LavaLand-Coast-Animated_16
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 303
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b848dfd9a4645ea50800000000000000
+      internalID: 6549718519372416139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-LavaLand-Coast-Animated_17
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 303
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d0843c19616d810800000000000000
+      internalID: 1789642717228698930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-LavaLand-Coast-Animated_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 278
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c60748c5d61b320800000000000000
+      internalID: 2571957106331643003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-LavaLand-Coast-Animated_19
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 278
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b2f73d9d3fb048f0800000000000000
+      internalID: -558236082442341707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-LavaLand-Coast-Animated_20
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 278
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a653b5ce1c662b0800000000000000
+      internalID: -5591568666447222200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-LavaLand-Coast-Animated_21
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 278
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d44e0ce5a8a4880800000000000000
+      internalID: -8625929996707017462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-LavaLand-Coast-Animated_22
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 279
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e366dd11ba97fece0800000000000000
+      internalID: -1373745585678621122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-LavaLand-Coast-Animated_23
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 280
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91944a89c65a62020800000000000000
+      internalID: 2316720944164653337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-LavaLand-Coast-Animated_24
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 279
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a1559497077f9490800000000000000
+      internalID: -7737334760357932634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-LavaLand-Coast-Animated_25
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 279
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee8ba5bf6009e1c90800000000000000
+      internalID: -7197156794830243602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-LavaLand-Coast-Animated_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 101
+        width: 128
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7e6c582a311a9f0800000000000000
+      internalID: -459064098265045080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-LavaLand-Coast-Animated_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 23
+        width: 128
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf0e679786637d70800000000000000
+      internalID: 9039681609609908144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-LavaLand-Coast-Animated_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b067f547b38dca600800000000000000
+      internalID: 480997010088883723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-LavaLand-Coast-Animated_29
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 0
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d2f5bbcb6685900800000000000000
+      internalID: 673401105075350897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-LavaLand-Coast-Animated_30
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 0
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a6ca07b7d491d60800000000000000
+      internalID: 7861399817118575179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-LavaLand-Coast-Animated_31
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 0
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b61691f1d68d11cf0800000000000000
+      internalID: -283207338362838677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-LavaLand-Coast-Animated_32
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 0
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f076216cee19230800000000000000
+      internalID: 3643956107999121304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-LavaLand-Coast-Animated_33
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 0
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f3bac55689aeb450800000000000000
+      internalID: 6106504539191030771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-LavaLand-Coast-Animated_34
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 0
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec1635d3c6965560800000000000000
+      internalID: 7302189613667720427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-LavaLand-Coast-Animated_35
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 0
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4285a507595f3db10800000000000000
+      internalID: 2005216281293903908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      LB-LavaLand-Coast-Animated_0: 6767829945581325670
+      LB-LavaLand-Coast-Animated_1: -6445774943944726012
+      LB-LavaLand-Coast-Animated_10: -3989638358387398882
+      LB-LavaLand-Coast-Animated_11: 2022674863172688673
+      LB-LavaLand-Coast-Animated_12: -7455456741508618678
+      LB-LavaLand-Coast-Animated_13: -8095564716884147758
+      LB-LavaLand-Coast-Animated_14: 9129216697282862046
+      LB-LavaLand-Coast-Animated_15: 2978511571253726900
+      LB-LavaLand-Coast-Animated_16: 6549718519372416139
+      LB-LavaLand-Coast-Animated_17: 1789642717228698930
+      LB-LavaLand-Coast-Animated_18: 2571957106331643003
+      LB-LavaLand-Coast-Animated_19: -558236082442341707
+      LB-LavaLand-Coast-Animated_2: -1243112369499026950
+      LB-LavaLand-Coast-Animated_20: -5591568666447222200
+      LB-LavaLand-Coast-Animated_21: -8625929996707017462
+      LB-LavaLand-Coast-Animated_22: -1373745585678621122
+      LB-LavaLand-Coast-Animated_23: 2316720944164653337
+      LB-LavaLand-Coast-Animated_24: -7737334760357932634
+      LB-LavaLand-Coast-Animated_25: -7197156794830243602
+      LB-LavaLand-Coast-Animated_26: -459064098265045080
+      LB-LavaLand-Coast-Animated_27: 9039681609609908144
+      LB-LavaLand-Coast-Animated_28: 480997010088883723
+      LB-LavaLand-Coast-Animated_29: 673401105075350897
+      LB-LavaLand-Coast-Animated_3: 629285963857498095
+      LB-LavaLand-Coast-Animated_30: 7861399817118575179
+      LB-LavaLand-Coast-Animated_31: -283207338362838677
+      LB-LavaLand-Coast-Animated_32: 3643956107999121304
+      LB-LavaLand-Coast-Animated_33: 6106504539191030771
+      LB-LavaLand-Coast-Animated_34: 7302189613667720427
+      LB-LavaLand-Coast-Animated_35: 2005216281293903908
+      LB-LavaLand-Coast-Animated_4: 2436455352643538284
+      LB-LavaLand-Coast-Animated_5: 8247750985298260374
+      LB-LavaLand-Coast-Animated_6: -1507736756903501535
+      LB-LavaLand-Coast-Animated_7: -2429091792112367485
+      LB-LavaLand-Coast-Animated_8: 1430834300122007666
+      LB-LavaLand-Coast-Animated_9: -9200493259100926452
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

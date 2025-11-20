@@ -1,0 +1,2925 @@
+fileFormatVersion: 2
+guid: 356df2d58759d104fbe0474a030c8211
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2735649209020355418
+    second: LB-Lava-River-Animated_0
+  - first:
+      213: -1005748163159196811
+    second: LB-Lava-River-Animated_1
+  - first:
+      213: 4223548685026550350
+    second: LB-Lava-River-Animated_2
+  - first:
+      213: 6381236674340594777
+    second: LB-Lava-River-Animated_3
+  - first:
+      213: -870007368706659548
+    second: LB-Lava-River-Animated_4
+  - first:
+      213: 8669647829580713395
+    second: LB-Lava-River-Animated_5
+  - first:
+      213: -1201822537796668524
+    second: LB-Lava-River-Animated_6
+  - first:
+      213: 5582847464636441160
+    second: LB-Lava-River-Animated_7
+  - first:
+      213: 8052462861394021118
+    second: LB-Lava-River-Animated_8
+  - first:
+      213: -7303821940731379509
+    second: LB-Lava-River-Animated_9
+  - first:
+      213: 2194585966874650644
+    second: LB-Lava-River-Animated_10
+  - first:
+      213: -51430296522080483
+    second: LB-Lava-River-Animated_11
+  - first:
+      213: -3222235802960062469
+    second: LB-Lava-River-Animated_12
+  - first:
+      213: -9006989471216974163
+    second: LB-Lava-River-Animated_13
+  - first:
+      213: -8507125644915743154
+    second: LB-Lava-River-Animated_14
+  - first:
+      213: -2779962729040479314
+    second: LB-Lava-River-Animated_15
+  - first:
+      213: 1046363026832280131
+    second: LB-Lava-River-Animated_16
+  - first:
+      213: -7545770917003486452
+    second: LB-Lava-River-Animated_17
+  - first:
+      213: -7219888384456492750
+    second: LB-Lava-River-Animated_18
+  - first:
+      213: -7864509652928325801
+    second: LB-Lava-River-Animated_19
+  - first:
+      213: -7061299024112524029
+    second: LB-Lava-River-Animated_20
+  - first:
+      213: 2877809190032945907
+    second: LB-Lava-River-Animated_21
+  - first:
+      213: -2639652082149317584
+    second: LB-Lava-River-Animated_22
+  - first:
+      213: 7170501115346153735
+    second: LB-Lava-River-Animated_23
+  - first:
+      213: -425991594770141096
+    second: LB-Lava-River-Animated_24
+  - first:
+      213: 7721076193171522545
+    second: LB-Lava-River-Animated_25
+  - first:
+      213: -1964068441184767649
+    second: LB-Lava-River-Animated_26
+  - first:
+      213: 3913935098512923185
+    second: LB-Lava-River-Animated_27
+  - first:
+      213: -5502950326283898146
+    second: LB-Lava-River-Animated_28
+  - first:
+      213: 6843486995012856100
+    second: LB-Lava-River-Animated_29
+  - first:
+      213: -3966022424408441802
+    second: LB-Lava-River-Animated_30
+  - first:
+      213: 2889463583891947695
+    second: LB-Lava-River-Animated_31
+  - first:
+      213: -3822334356168475171
+    second: LB-Lava-River-Animated_32
+  - first:
+      213: -3285808255489646801
+    second: LB-Lava-River-Animated_33
+  - first:
+      213: 8287048484669782369
+    second: LB-Lava-River-Animated_34
+  - first:
+      213: 5565996295568076487
+    second: LB-Lava-River-Animated_35
+  - first:
+      213: 4914528370087502712
+    second: LB-Lava-River-Animated_36
+  - first:
+      213: -1258049577694501996
+    second: LB-Lava-River-Animated_37
+  - first:
+      213: 4753543580784072684
+    second: LB-Lava-River-Animated_38
+  - first:
+      213: -7127468857635702554
+    second: LB-Lava-River-Animated_39
+  - first:
+      213: 6356272682338235396
+    second: LB-Lava-River-Animated_40
+  - first:
+      213: -7471699206775410367
+    second: LB-Lava-River-Animated_41
+  - first:
+      213: -3582849687836089923
+    second: LB-Lava-River-Animated_42
+  - first:
+      213: -6423750519901409456
+    second: LB-Lava-River-Animated_43
+  - first:
+      213: -4629583074365627957
+    second: LB-Lava-River-Animated_44
+  - first:
+      213: 2315558478873867646
+    second: LB-Lava-River-Animated_45
+  - first:
+      213: 5572686016861399556
+    second: LB-Lava-River-Animated_46
+  - first:
+      213: 3334445995674217135
+    second: LB-Lava-River-Animated_47
+  - first:
+      213: 1473962270026858865
+    second: LB-Lava-River-Animated_48
+  - first:
+      213: 5148572980038051709
+    second: LB-Lava-River-Animated_49
+  - first:
+      213: -4956968472328653759
+    second: LB-Lava-River-Animated_50
+  - first:
+      213: 2140629556616862521
+    second: LB-Lava-River-Animated_51
+  - first:
+      213: 6893068458737037146
+    second: LB-Lava-River-Animated_52
+  - first:
+      213: 4722943000221933557
+    second: LB-Lava-River-Animated_53
+  - first:
+      213: -4522398232191860438
+    second: LB-Lava-River-Animated_54
+  - first:
+      213: 2730356916359321476
+    second: LB-Lava-River-Animated_55
+  - first:
+      213: 3561019505112954160
+    second: LB-Lava-River-Animated_56
+  - first:
+      213: 7732111800590759869
+    second: LB-Lava-River-Animated_57
+  - first:
+      213: -6982124219328819449
+    second: LB-Lava-River-Animated_58
+  - first:
+      213: -7946129169961352149
+    second: LB-Lava-River-Animated_59
+  - first:
+      213: -7171290135371682376
+    second: LB-Lava-River-Animated_60
+  - first:
+      213: -1005191019500781188
+    second: LB-Lava-River-Animated_61
+  - first:
+      213: 2162888924678622177
+    second: LB-Lava-River-Animated_62
+  - first:
+      213: -2896001423658556583
+    second: LB-Lava-River-Animated_63
+  - first:
+      213: 5935993357078742925
+    second: LB-Lava-River-Animated_64
+  - first:
+      213: -6623334502646685273
+    second: LB-Lava-River-Animated_65
+  - first:
+      213: -7066745095701535619
+    second: LB-Lava-River-Animated_66
+  - first:
+      213: 7504229329952371797
+    second: LB-Lava-River-Animated_67
+  - first:
+      213: 7310446010280795386
+    second: LB-Lava-River-Animated_68
+  - first:
+      213: 8987173381605132843
+    second: LB-Lava-River-Animated_69
+  - first:
+      213: 4911648678326184728
+    second: LB-Lava-River-Animated_70
+  - first:
+      213: -6350104193115451476
+    second: LB-Lava-River-Animated_71
+  - first:
+      213: 7122924188112358297
+    second: LB-Lava-River-Animated_72
+  - first:
+      213: 3673976528994137825
+    second: LB-Lava-River-Animated_73
+  - first:
+      213: -4045695861152223971
+    second: LB-Lava-River-Animated_74
+  - first:
+      213: 603390476506580730
+    second: LB-Lava-River-Animated_75
+  - first:
+      213: 1362245436590435650
+    second: LB-Lava-River-Animated_76
+  - first:
+      213: -1048935858915132294
+    second: LB-Lava-River-Animated_77
+  - first:
+      213: -7147190516493107670
+    second: LB-Lava-River-Animated_78
+  - first:
+      213: -7129466720355306375
+    second: LB-Lava-River-Animated_79
+  - first:
+      213: -1413508031633109810
+    second: LB-Lava-River-Animated_80
+  - first:
+      213: -1499588116462764925
+    second: LB-Lava-River-Animated_81
+  - first:
+      213: -4563297460156244392
+    second: LB-Lava-River-Animated_82
+  - first:
+      213: 4018400927799824309
+    second: LB-Lava-River-Animated_83
+  - first:
+      213: 1244203844417216192
+    second: LB-Lava-River-Animated_84
+  - first:
+      213: 2954104152588160651
+    second: LB-Lava-River-Animated_85
+  - first:
+      213: 1678952367528236379
+    second: LB-Lava-River-Animated_86
+  - first:
+      213: 6247204014669973844
+    second: LB-Lava-River-Animated_87
+  - first:
+      213: -5673482005602589254
+    second: LB-Lava-River-Animated_88
+  - first:
+      213: -544214302478505162
+    second: LB-Lava-River-Animated_89
+  - first:
+      213: 2178880581068930867
+    second: LB-Lava-River-Animated_90
+  - first:
+      213: 651030377556626207
+    second: LB-Lava-River-Animated_91
+  - first:
+      213: 8886751993901695709
+    second: LB-Lava-River-Animated_92
+  - first:
+      213: 2744440424102259155
+    second: LB-Lava-River-Animated_93
+  - first:
+      213: 5461871909698377722
+    second: LB-Lava-River-Animated_94
+  - first:
+      213: -7470853414079141857
+    second: LB-Lava-River-Animated_95
+  - first:
+      213: 3078125679002703038
+    second: LB-Lava-River-Animated_96
+  - first:
+      213: -6100135195876947302
+    second: LB-Lava-River-Animated_97
+  - first:
+      213: -7317567918632987872
+    second: LB-Lava-River-Animated_98
+  - first:
+      213: -6640821613189946151
+    second: LB-Lava-River-Animated_99
+  - first:
+      213: -1451219412458957165
+    second: LB-Lava-River-Animated_100
+  - first:
+      213: -2213514111319961256
+    second: LB-Lava-River-Animated_101
+  - first:
+      213: 6728834537227525297
+    second: LB-Lava-River-Animated_102
+  - first:
+      213: 7290601225037946630
+    second: LB-Lava-River-Animated_103
+  - first:
+      213: -3060927756967334964
+    second: LB-Lava-River-Animated_104
+  - first:
+      213: -1507370782988034938
+    second: LB-Lava-River-Animated_105
+  - first:
+      213: -8696300876180063579
+    second: LB-Lava-River-Animated_106
+  - first:
+      213: -5796629810207005179
+    second: LB-Lava-River-Animated_107
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 434
+        width: 128
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac634ad985090ad0800000000000000
+      internalID: -2735649209020355418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 447
+        width: 97
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57bf461df5dda02f0800000000000000
+      internalID: -1005748163159196811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 402
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e426396d62f0d9a30800000000000000
+      internalID: 4223548685026550350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_3
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 402
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95424c132f4be8850800000000000000
+      internalID: 6381236674340594777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_4
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 402
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b644c58ec1de3f0800000000000000
+      internalID: -870007368706659548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_5
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 402
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd05e964c6c05870800000000000000
+      internalID: 8669647829580713395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_6
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 402
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4933297f4c4425fe0800000000000000
+      internalID: -1201822537796668524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_7
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 402
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84268dc90324a7d40800000000000000
+      internalID: 5582847464636441160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_8
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 402
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa8a640f4810cf60800000000000000
+      internalID: 8052462861394021118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_9
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 402
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc0800864ac93aa90800000000000000
+      internalID: -7303821940731379509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 383
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 418ee983f4cb47e10800000000000000
+      internalID: 2194585966874650644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_11
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 383
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1fbb15fa68494ff0800000000000000
+      internalID: -51430296522080483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_12
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 383
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf7150efb915843d0800000000000000
+      internalID: -3222235802960062469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_13
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 383
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da6cd680cceb00380800000000000000
+      internalID: -9006989471216974163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_14
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 383
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e466e237c4e90f980800000000000000
+      internalID: -8507125644915743154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_15
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 383
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab77b670a69b69d0800000000000000
+      internalID: -2779962729040479314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_16
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 383
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ac07801ad658e00800000000000000
+      internalID: 1046363026832280131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_17
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 383
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b98878459084790800000000000000
+      internalID: -7545770917003486452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 354
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 239708654cdcdcb90800000000000000
+      internalID: -7219888384456492750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_19
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 354
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 757939c7326abd290800000000000000
+      internalID: -7864509652928325801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_20
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 354
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 305e5fe23f9310e90800000000000000
+      internalID: -7061299024112524029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_21
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 354
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f2b447063800f720800000000000000
+      internalID: 2877809190032945907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_22
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 354
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 034aed0ba621e5bd0800000000000000
+      internalID: -2639652082149317584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_23
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 354
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 701ffb106ccb28360800000000000000
+      internalID: 7170501115346153735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_24
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 354
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8507c6cc6e2961af0800000000000000
+      internalID: -425991594770141096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_25
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 354
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f3c6b1c3e5c62b60800000000000000
+      internalID: 7721076193171522545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 322
+        width: 128
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5170a8a82a3eb4e0800000000000000
+      internalID: -1964068441184767649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_27
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 335
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13adbc43c37115630800000000000000
+      internalID: 3913935098512923185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_28
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 335
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed27a3985d791a3b0800000000000000
+      internalID: -5502950326283898146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_29
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 335
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4292fb2e923f8fe50800000000000000
+      internalID: 6843486995012856100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_30
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 335
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63cb6ed2e9bd5f8c0800000000000000
+      internalID: -3966022424408441802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_31
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 335
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa08e4d02df691820800000000000000
+      internalID: 2889463583891947695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_32
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 335
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd7ec7972754fac0800000000000000
+      internalID: -3822334356168475171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_33
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 335
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f5e73fcc67662d0800000000000000
+      internalID: -3285808255489646801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_34
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 335
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1697e2da0b2810370800000000000000
+      internalID: 8287048484669782369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_35
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 290
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cea97214246e3d40800000000000000
+      internalID: 5565996295568076487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_36
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 290
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87325a9a389e33440800000000000000
+      internalID: 4914528370087502712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_37
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 290
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49360b313928a8ee0800000000000000
+      internalID: -1258049577694501996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_38
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 290
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce719fc83baf7f140800000000000000
+      internalID: 4753543580784072684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_39
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 290
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e8f6f046d4261d90800000000000000
+      internalID: -7127468857635702554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_40
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 290
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4043a4ed354063850800000000000000
+      internalID: 6356272682338235396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_41
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 290
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 141759f78213f4890800000000000000
+      internalID: -7471699206775410367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_42
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 290
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db129e01139274ec0800000000000000
+      internalID: -3582849687836089923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 258
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05fab87cfe04ad6a0800000000000000
+      internalID: -6423750519901409456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_44
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 258
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc1a642f8ba60cfb0800000000000000
+      internalID: -4629583074365627957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_45
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 258
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75bbed0b24822020800000000000000
+      internalID: 2315558478873867646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_46
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 258
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a6fcf2868265d40800000000000000
+      internalID: 5572686016861399556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_47
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 258
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faaa2e667f4564e20800000000000000
+      internalID: 3334445995674217135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_48
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 258
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171874d00e0947410800000000000000
+      internalID: 1473962270026858865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_49
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 258
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77a757d8d7637740800000000000000
+      internalID: 5148572980038051709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_50
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 258
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1443a04007f453bb0800000000000000
+      internalID: -4956968472328653759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 194
+        width: 128
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93b99dd7d3b05bd10800000000000000
+      internalID: 2140629556616862521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 130
+        width: 128
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f687ffd3919af50800000000000000
+      internalID: 6893068458737037146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 98
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff55aea2a34b8140800000000000000
+      internalID: 4722943000221933557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_54
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 98
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a21895db4c63d31c0800000000000000
+      internalID: -4522398232191860438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_55
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 113
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 487d0ad362d24e520800000000000000
+      internalID: 2730356916359321476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_56
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 98
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 035be707f584b6130800000000000000
+      internalID: 3561019505112954160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_57
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 112
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db771d557bafd4b60800000000000000
+      internalID: 7732111800590759869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_58
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 98
+        width: 61
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f0141f3038a1f90800000000000000
+      internalID: -6982124219328819449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_59
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 102
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b24851dce9da9b190800000000000000
+      internalID: -7946129169961352149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_60
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 102
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd68e3fd957a7c90800000000000000
+      internalID: -7171290135371682376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_61
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 103
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c714e3fe718dc02f0800000000000000
+      internalID: -1005191019500781188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 71
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eb881c7400240e10800000000000000
+      internalID: 2162888924678622177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_63
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 72
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9536ec18c065fc7d0800000000000000
+      internalID: -2896001423658556583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_64
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 72
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d87c1cd0282e06250800000000000000
+      internalID: 5935993357078742925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_65
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 67
+        width: 77
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1e72d9c503514a0800000000000000
+      internalID: -6623334502646685273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_66
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 82
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d74e974d6c0eded90800000000000000
+      internalID: -7066745095701535619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_67
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 70
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 554f0e401d0642860800000000000000
+      internalID: 7504229329952371797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_68
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 82
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc5578f9ebe37560800000000000000
+      internalID: 7310446010280795386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_69
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 71
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a8b61139ad8bc70800000000000000
+      internalID: 8987173381605132843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_70
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 73
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b262d237ea92440800000000000000
+      internalID: 4911648678326184728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_71
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 41
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf82a271e5efd7a0800000000000000
+      internalID: -6350104193115451476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_72
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 57
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b897a6fc5b9d260800000000000000
+      internalID: 7122924188112358297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_73
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 52
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e671d300369cf230800000000000000
+      internalID: 3673976528994137825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_74
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 57
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1de0ce9c0dcad7c0800000000000000
+      internalID: -4045695861152223971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_75
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 52
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af64705017caf5800800000000000000
+      internalID: 603390476506580730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_76
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 57
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24daed0d10ba7e210800000000000000
+      internalID: 1362245436590435650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_77
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 25
+        width: 12
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7cb131d46e6171f0800000000000000
+      internalID: -1048935858915132294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_78
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 40
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e336ab71410dc90800000000000000
+      internalID: -7147190516493107670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_79
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 57
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974b0479acb0f0d90800000000000000
+      internalID: -7129466720355306375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_80
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 55
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eccc85f2fe5326ce0800000000000000
+      internalID: -1413508031633109810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_81
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38cf6d0ad84603be0800000000000000
+      internalID: -1499588116462764925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_82
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 55
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ed1fa2329eba0c0800000000000000
+      internalID: -4563297460156244392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_83
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 47
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bfcb9a7a5a34c730800000000000000
+      internalID: 4018400927799824309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 41
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ced9aeedcc444110800000000000000
+      internalID: 1244203844417216192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e068443161ff820800000000000000
+      internalID: 2954104152588160651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_86
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 36
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5552556846dc4710800000000000000
+      internalID: 1678952367528236379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_87
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 41
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4594cc5c3f682b650800000000000000
+      internalID: 6247204014669973844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_88
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 36
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab5ac70ec2eb341b0800000000000000
+      internalID: -5673482005602589254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_89
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 25
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63be41ba9ff8278f0800000000000000
+      internalID: -544214302478505162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_90
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 39
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f3c922850fc3e10800000000000000
+      internalID: 2178880581068930867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_91
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 0
+        width: 13
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b4048ddace80900800000000000000
+      internalID: 651030377556626207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_92
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 7
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd2418bbad5145b70800000000000000
+      internalID: 8886751993901695709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_93
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 25
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d966d96606361620800000000000000
+      internalID: 2744440424102259155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_94
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 25
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af7914a40977ccb40800000000000000
+      internalID: 5461871909698377722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_95
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 0
+        width: 15
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f186cc4f662325890800000000000000
+      internalID: -7470853414079141857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_96
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 23
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4d6f61ff2b7ba20800000000000000
+      internalID: 3078125679002703038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_97
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 15
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a85e7fb57f75ba0800000000000000
+      internalID: -6100135195876947302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02316168fb6c27a90800000000000000
+      internalID: -7317567918632987872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_99
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 8
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4a3196def07d3a0800000000000000
+      internalID: -6640821613189946151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_100
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 9
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3969b3d12ab3cdbe0800000000000000
+      internalID: -1451219412458957165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_101
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 9
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8519579b4a40841e0800000000000000
+      internalID: -2213514111319961256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_102
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 0
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bc93d75c5f916d50800000000000000
+      internalID: 6728834537227525297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_103
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f1a69df2b6d2560800000000000000
+      internalID: 7290601225037946630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_104
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 0
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb24da2c666585d0800000000000000
+      internalID: -3060927756967334964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_105
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 0
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c123f524eb41be0800000000000000
+      internalID: -1507370782988034938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_106
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 0
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aa7e579d68805780800000000000000
+      internalID: -8696300876180063579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LB-Lava-River-Animated_107
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 0
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 506eb2446eb3e8fa0800000000000000
+      internalID: -5796629810207005179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      LB-Lava-River-Animated_0: -2735649209020355418
+      LB-Lava-River-Animated_1: -1005748163159196811
+      LB-Lava-River-Animated_10: 2194585966874650644
+      LB-Lava-River-Animated_100: -1451219412458957165
+      LB-Lava-River-Animated_101: -2213514111319961256
+      LB-Lava-River-Animated_102: 6728834537227525297
+      LB-Lava-River-Animated_103: 7290601225037946630
+      LB-Lava-River-Animated_104: -3060927756967334964
+      LB-Lava-River-Animated_105: -1507370782988034938
+      LB-Lava-River-Animated_106: -8696300876180063579
+      LB-Lava-River-Animated_107: -5796629810207005179
+      LB-Lava-River-Animated_11: -51430296522080483
+      LB-Lava-River-Animated_12: -3222235802960062469
+      LB-Lava-River-Animated_13: -9006989471216974163
+      LB-Lava-River-Animated_14: -8507125644915743154
+      LB-Lava-River-Animated_15: -2779962729040479314
+      LB-Lava-River-Animated_16: 1046363026832280131
+      LB-Lava-River-Animated_17: -7545770917003486452
+      LB-Lava-River-Animated_18: -7219888384456492750
+      LB-Lava-River-Animated_19: -7864509652928325801
+      LB-Lava-River-Animated_2: 4223548685026550350
+      LB-Lava-River-Animated_20: -7061299024112524029
+      LB-Lava-River-Animated_21: 2877809190032945907
+      LB-Lava-River-Animated_22: -2639652082149317584
+      LB-Lava-River-Animated_23: 7170501115346153735
+      LB-Lava-River-Animated_24: -425991594770141096
+      LB-Lava-River-Animated_25: 7721076193171522545
+      LB-Lava-River-Animated_26: -1964068441184767649
+      LB-Lava-River-Animated_27: 3913935098512923185
+      LB-Lava-River-Animated_28: -5502950326283898146
+      LB-Lava-River-Animated_29: 6843486995012856100
+      LB-Lava-River-Animated_3: 6381236674340594777
+      LB-Lava-River-Animated_30: -3966022424408441802
+      LB-Lava-River-Animated_31: 2889463583891947695
+      LB-Lava-River-Animated_32: -3822334356168475171
+      LB-Lava-River-Animated_33: -3285808255489646801
+      LB-Lava-River-Animated_34: 8287048484669782369
+      LB-Lava-River-Animated_35: 5565996295568076487
+      LB-Lava-River-Animated_36: 4914528370087502712
+      LB-Lava-River-Animated_37: -1258049577694501996
+      LB-Lava-River-Animated_38: 4753543580784072684
+      LB-Lava-River-Animated_39: -7127468857635702554
+      LB-Lava-River-Animated_4: -870007368706659548
+      LB-Lava-River-Animated_40: 6356272682338235396
+      LB-Lava-River-Animated_41: -7471699206775410367
+      LB-Lava-River-Animated_42: -3582849687836089923
+      LB-Lava-River-Animated_43: -6423750519901409456
+      LB-Lava-River-Animated_44: -4629583074365627957
+      LB-Lava-River-Animated_45: 2315558478873867646
+      LB-Lava-River-Animated_46: 5572686016861399556
+      LB-Lava-River-Animated_47: 3334445995674217135
+      LB-Lava-River-Animated_48: 1473962270026858865
+      LB-Lava-River-Animated_49: 5148572980038051709
+      LB-Lava-River-Animated_5: 8669647829580713395
+      LB-Lava-River-Animated_50: -4956968472328653759
+      LB-Lava-River-Animated_51: 2140629556616862521
+      LB-Lava-River-Animated_52: 6893068458737037146
+      LB-Lava-River-Animated_53: 4722943000221933557
+      LB-Lava-River-Animated_54: -4522398232191860438
+      LB-Lava-River-Animated_55: 2730356916359321476
+      LB-Lava-River-Animated_56: 3561019505112954160
+      LB-Lava-River-Animated_57: 7732111800590759869
+      LB-Lava-River-Animated_58: -6982124219328819449
+      LB-Lava-River-Animated_59: -7946129169961352149
+      LB-Lava-River-Animated_6: -1201822537796668524
+      LB-Lava-River-Animated_60: -7171290135371682376
+      LB-Lava-River-Animated_61: -1005191019500781188
+      LB-Lava-River-Animated_62: 2162888924678622177
+      LB-Lava-River-Animated_63: -2896001423658556583
+      LB-Lava-River-Animated_64: 5935993357078742925
+      LB-Lava-River-Animated_65: -6623334502646685273
+      LB-Lava-River-Animated_66: -7066745095701535619
+      LB-Lava-River-Animated_67: 7504229329952371797
+      LB-Lava-River-Animated_68: 7310446010280795386
+      LB-Lava-River-Animated_69: 8987173381605132843
+      LB-Lava-River-Animated_7: 5582847464636441160
+      LB-Lava-River-Animated_70: 4911648678326184728
+      LB-Lava-River-Animated_71: -6350104193115451476
+      LB-Lava-River-Animated_72: 7122924188112358297
+      LB-Lava-River-Animated_73: 3673976528994137825
+      LB-Lava-River-Animated_74: -4045695861152223971
+      LB-Lava-River-Animated_75: 603390476506580730
+      LB-Lava-River-Animated_76: 1362245436590435650
+      LB-Lava-River-Animated_77: -1048935858915132294
+      LB-Lava-River-Animated_78: -7147190516493107670
+      LB-Lava-River-Animated_79: -7129466720355306375
+      LB-Lava-River-Animated_8: 8052462861394021118
+      LB-Lava-River-Animated_80: -1413508031633109810
+      LB-Lava-River-Animated_81: -1499588116462764925
+      LB-Lava-River-Animated_82: -4563297460156244392
+      LB-Lava-River-Animated_83: 4018400927799824309
+      LB-Lava-River-Animated_84: 1244203844417216192
+      LB-Lava-River-Animated_85: 2954104152588160651
+      LB-Lava-River-Animated_86: 1678952367528236379
+      LB-Lava-River-Animated_87: 6247204014669973844
+      LB-Lava-River-Animated_88: -5673482005602589254
+      LB-Lava-River-Animated_89: -544214302478505162
+      LB-Lava-River-Animated_9: -7303821940731379509
+      LB-Lava-River-Animated_90: 2178880581068930867
+      LB-Lava-River-Animated_91: 651030377556626207
+      LB-Lava-River-Animated_92: 8886751993901695709
+      LB-Lava-River-Animated_93: 2744440424102259155
+      LB-Lava-River-Animated_94: 5461871909698377722
+      LB-Lava-River-Animated_95: -7470853414079141857
+      LB-Lava-River-Animated_96: 3078125679002703038
+      LB-Lava-River-Animated_97: -6100135195876947302
+      LB-Lava-River-Animated_98: -7317567918632987872
+      LB-Lava-River-Animated_99: -6640821613189946151
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

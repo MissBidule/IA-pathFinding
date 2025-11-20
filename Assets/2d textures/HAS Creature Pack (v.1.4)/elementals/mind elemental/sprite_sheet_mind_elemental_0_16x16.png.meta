@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: 11386c5f9a5611346943666321f09f7b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9035371253147734274
+    second: sprite_sheet_mind_elemental_0_16x16_0
+  - first:
+      213: 1491058889946485678
+    second: sprite_sheet_mind_elemental_0_16x16_1
+  - first:
+      213: -5575266519832139842
+    second: sprite_sheet_mind_elemental_0_16x16_2
+  - first:
+      213: -4477632007795162821
+    second: sprite_sheet_mind_elemental_0_16x16_3
+  - first:
+      213: 303196182243440477
+    second: sprite_sheet_mind_elemental_0_16x16_4
+  - first:
+      213: -8354084356820527882
+    second: sprite_sheet_mind_elemental_0_16x16_5
+  - first:
+      213: 3577222559553316982
+    second: sprite_sheet_mind_elemental_0_16x16_6
+  - first:
+      213: 5073187329668292942
+    second: sprite_sheet_mind_elemental_0_16x16_7
+  - first:
+      213: 4269063672771587803
+    second: sprite_sheet_mind_elemental_0_16x16_8
+  - first:
+      213: -9217980940064833872
+    second: sprite_sheet_mind_elemental_0_16x16_9
+  - first:
+      213: 1865763863492050258
+    second: sprite_sheet_mind_elemental_0_16x16_10
+  - first:
+      213: 458140535673747876
+    second: sprite_sheet_mind_elemental_0_16x16_11
+  - first:
+      213: 1394984288340570361
+    second: sprite_sheet_mind_elemental_0_16x16_12
+  - first:
+      213: -795760062632161451
+    second: sprite_sheet_mind_elemental_0_16x16_13
+  - first:
+      213: 5123902281883945852
+    second: sprite_sheet_mind_elemental_0_16x16_14
+  - first:
+      213: -8781051514169202491
+    second: sprite_sheet_mind_elemental_0_16x16_15
+  - first:
+      213: 6027741639297704225
+    second: sprite_sheet_mind_elemental_0_16x16_16
+  - first:
+      213: -6532130004594748790
+    second: sprite_sheet_mind_elemental_0_16x16_17
+  - first:
+      213: -4315990924632999952
+    second: sprite_sheet_mind_elemental_0_16x16_18
+  - first:
+      213: -4533967017515581463
+    second: sprite_sheet_mind_elemental_0_16x16_19
+  - first:
+      213: -1396941413635838151
+    second: sprite_sheet_mind_elemental_0_16x16_20
+  - first:
+      213: -2599568516849946978
+    second: sprite_sheet_mind_elemental_0_16x16_21
+  - first:
+      213: 6626310629568887965
+    second: sprite_sheet_mind_elemental_0_16x16_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprite_sheet_mind_elemental_0_16x16_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 79
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe6a5a77b9eb9280800000000000000
+      internalID: -9035371253147734274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_mind_elemental_0_16x16_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea3d272192e41b410800000000000000
+      internalID: 1491058889946485678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_mind_elemental_0_16x16_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 63
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb7e645a3aca0a2b0800000000000000
+      internalID: -5575266519832139842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_mind_elemental_0_16x16_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 79
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31437499614cd1c0800000000000000
+      internalID: -4477632007795162821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_mind_elemental_0_16x16_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 63
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d57ffd3425b253400800000000000000
+      internalID: 303196182243440477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_mind_elemental_0_16x16_5
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 79
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f490101a84501c80800000000000000
+      internalID: -8354084356820527882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_mind_elemental_0_16x16_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 63
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67860b807f8d4a130800000000000000
+      internalID: 3577222559553316982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_mind_elemental_0_16x16_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 47
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4124e75ff4976640800000000000000
+      internalID: 5073187329668292942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_mind_elemental_0_16x16_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde231bbac2ce3b30800000000000000
+      internalID: 4269063672771587803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_mind_elemental_0_16x16_9
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 31
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0be3d198c27231080800000000000000
+      internalID: -9217980940064833872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_mind_elemental_0_16x16_10
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 47
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d343e395684e910800000000000000
+      internalID: 1865763863492050258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_mind_elemental_0_16x16_11
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 31
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a97a0ec364ab5600800000000000000
+      internalID: 458140535673747876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_mind_elemental_0_16x16_12
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 47
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f07acdb1dafb5310800000000000000
+      internalID: 1394984288340570361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_mind_elemental_0_16x16_13
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 47
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f0e5c6074e4f4f0800000000000000
+      internalID: -795760062632161451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_mind_elemental_0_16x16_14
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 31
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b818f4af1cb1740800000000000000
+      internalID: 5123902281883945852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_mind_elemental_0_16x16_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 15
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8e98ffb20732680800000000000000
+      internalID: -8781051514169202491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_mind_elemental_0_16x16_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 121ab28a517d6a350800000000000000
+      internalID: 6027741639297704225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_mind_elemental_0_16x16_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 15
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8295799e563955a0800000000000000
+      internalID: -6532130004594748790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_mind_elemental_0_16x16_18
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f7b0730f158a14c0800000000000000
+      internalID: -4315990924632999952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_mind_elemental_0_16x16_19
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 15
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef75a1050d1411c0800000000000000
+      internalID: -4533967017515581463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_mind_elemental_0_16x16_20
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93f24348f211d9ce0800000000000000
+      internalID: -1396941413635838151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_mind_elemental_0_16x16_21
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 15
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9eaedff43a7cebd0800000000000000
+      internalID: -2599568516849946978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_mind_elemental_0_16x16_22
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c39dee86265fb50800000000000000
+      internalID: 6626310629568887965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sprite_sheet_mind_elemental_0_16x16_0: -9035371253147734274
+      sprite_sheet_mind_elemental_0_16x16_1: 1491058889946485678
+      sprite_sheet_mind_elemental_0_16x16_10: 1865763863492050258
+      sprite_sheet_mind_elemental_0_16x16_11: 458140535673747876
+      sprite_sheet_mind_elemental_0_16x16_12: 1394984288340570361
+      sprite_sheet_mind_elemental_0_16x16_13: -795760062632161451
+      sprite_sheet_mind_elemental_0_16x16_14: 5123902281883945852
+      sprite_sheet_mind_elemental_0_16x16_15: -8781051514169202491
+      sprite_sheet_mind_elemental_0_16x16_16: 6027741639297704225
+      sprite_sheet_mind_elemental_0_16x16_17: -6532130004594748790
+      sprite_sheet_mind_elemental_0_16x16_18: -4315990924632999952
+      sprite_sheet_mind_elemental_0_16x16_19: -4533967017515581463
+      sprite_sheet_mind_elemental_0_16x16_2: -5575266519832139842
+      sprite_sheet_mind_elemental_0_16x16_20: -1396941413635838151
+      sprite_sheet_mind_elemental_0_16x16_21: -2599568516849946978
+      sprite_sheet_mind_elemental_0_16x16_22: 6626310629568887965
+      sprite_sheet_mind_elemental_0_16x16_3: -4477632007795162821
+      sprite_sheet_mind_elemental_0_16x16_4: 303196182243440477
+      sprite_sheet_mind_elemental_0_16x16_5: -8354084356820527882
+      sprite_sheet_mind_elemental_0_16x16_6: 3577222559553316982
+      sprite_sheet_mind_elemental_0_16x16_7: 5073187329668292942
+      sprite_sheet_mind_elemental_0_16x16_8: 4269063672771587803
+      sprite_sheet_mind_elemental_0_16x16_9: -9217980940064833872
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

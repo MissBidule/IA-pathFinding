@@ -1,0 +1,1053 @@
+fileFormatVersion: 2
+guid: b3bfce633c13b0a48976268bdf411200
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7908786387376353865
+    second: MB-Swamp-Coast-Animated_0
+  - first:
+      213: -9209769060178993897
+    second: MB-Swamp-Coast-Animated_1
+  - first:
+      213: 7243487241208829138
+    second: MB-Swamp-Coast-Animated_2
+  - first:
+      213: -4825624537365295015
+    second: MB-Swamp-Coast-Animated_3
+  - first:
+      213: -5497227960008308933
+    second: MB-Swamp-Coast-Animated_4
+  - first:
+      213: 1455567458231646879
+    second: MB-Swamp-Coast-Animated_5
+  - first:
+      213: 1315388256561739896
+    second: MB-Swamp-Coast-Animated_6
+  - first:
+      213: 6651299288251173743
+    second: MB-Swamp-Coast-Animated_7
+  - first:
+      213: -9011518931983420466
+    second: MB-Swamp-Coast-Animated_8
+  - first:
+      213: 1267683904336427250
+    second: MB-Swamp-Coast-Animated_9
+  - first:
+      213: 3674221294247284828
+    second: MB-Swamp-Coast-Animated_10
+  - first:
+      213: 7404772054687997515
+    second: MB-Swamp-Coast-Animated_11
+  - first:
+      213: -2295635694770841978
+    second: MB-Swamp-Coast-Animated_12
+  - first:
+      213: -6636126913036243952
+    second: MB-Swamp-Coast-Animated_13
+  - first:
+      213: 5521577162550434087
+    second: MB-Swamp-Coast-Animated_14
+  - first:
+      213: -8453136955302208992
+    second: MB-Swamp-Coast-Animated_15
+  - first:
+      213: 2396575702770262353
+    second: MB-Swamp-Coast-Animated_16
+  - first:
+      213: -655209732022944660
+    second: MB-Swamp-Coast-Animated_17
+  - first:
+      213: -6436590770279276734
+    second: MB-Swamp-Coast-Animated_18
+  - first:
+      213: 3291862098067615047
+    second: MB-Swamp-Coast-Animated_19
+  - first:
+      213: -8253960563999320834
+    second: MB-Swamp-Coast-Animated_20
+  - first:
+      213: -5247467738035231958
+    second: MB-Swamp-Coast-Animated_21
+  - first:
+      213: 7436545875393543077
+    second: MB-Swamp-Coast-Animated_22
+  - first:
+      213: -8246446045397499725
+    second: MB-Swamp-Coast-Animated_23
+  - first:
+      213: 1585698306242086382
+    second: MB-Swamp-Coast-Animated_24
+  - first:
+      213: 7164317940307219239
+    second: MB-Swamp-Coast-Animated_25
+  - first:
+      213: -3180038318858507245
+    second: MB-Swamp-Coast-Animated_26
+  - first:
+      213: -1985771221528677355
+    second: MB-Swamp-Coast-Animated_27
+  - first:
+      213: 8647749541812976094
+    second: MB-Swamp-Coast-Animated_28
+  - first:
+      213: -2415772487552283828
+    second: MB-Swamp-Coast-Animated_29
+  - first:
+      213: -3820901665437382287
+    second: MB-Swamp-Coast-Animated_30
+  - first:
+      213: -1320688209885479394
+    second: MB-Swamp-Coast-Animated_31
+  - first:
+      213: 7595490422928855328
+    second: MB-Swamp-Coast-Animated_32
+  - first:
+      213: 4965261087568585547
+    second: MB-Swamp-Coast-Animated_33
+  - first:
+      213: 3311359063496844214
+    second: MB-Swamp-Coast-Animated_34
+  - first:
+      213: -3351276134460136368
+    second: MB-Swamp-Coast-Animated_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MB-Swamp-Coast-Animated_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 383
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bdccf7eea85e3290800000000000000
+      internalID: -7908786387376353865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MB-Swamp-Coast-Animated_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 354
+        width: 128
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71dd5a0d5d3503080800000000000000
+      internalID: -9209769060178993897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MB-Swamp-Coast-Animated_2
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 327
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4935ba449068460800000000000000
+      internalID: 7243487241208829138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MB-Swamp-Coast-Animated_3
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 327
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 950deeeec00f70db0800000000000000
+      internalID: -4825624537365295015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MB-Swamp-Coast-Animated_4
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 327
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b370c52cb4ce5b3b0800000000000000
+      internalID: -5497227960008308933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MB-Swamp-Coast-Animated_5
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 327
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9af38e24e6333410800000000000000
+      internalID: 1455567458231646879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MB-Swamp-Coast-Animated_6
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 328
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 878351e66a2314210800000000000000
+      internalID: 1315388256561739896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MB-Swamp-Coast-Animated_7
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 328
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b050b66792e4c50800000000000000
+      internalID: 6651299288251173743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MB-Swamp-Coast-Animated_8
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 328
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec3bb64c647a0f280800000000000000
+      internalID: -9011518931983420466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MB-Swamp-Coast-Animated_9
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 328
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f8f3756bc7b79110800000000000000
+      internalID: 1267683904336427250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MB-Swamp-Coast-Animated_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 303
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5019cddcc47df230800000000000000
+      internalID: 3674221294247284828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MB-Swamp-Coast-Animated_11
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 303
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4eda6a93f803c660800000000000000
+      internalID: 7404772054687997515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MB-Swamp-Coast-Animated_12
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 303
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6861a779f734420e0800000000000000
+      internalID: -2295635694770841978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MB-Swamp-Coast-Animated_13
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 303
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ca0187bbdb7e3a0800000000000000
+      internalID: -6636126913036243952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MB-Swamp-Coast-Animated_14
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 303
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7295abdbc2590ac40800000000000000
+      internalID: 5521577162550434087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MB-Swamp-Coast-Animated_15
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 303
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02a1c7dc9bc60ba80800000000000000
+      internalID: -8453136955302208992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MB-Swamp-Coast-Animated_16
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 303
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15124f077e8524120800000000000000
+      internalID: 2396575702770262353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MB-Swamp-Coast-Animated_17
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 303
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6cb46d583a38e6f0800000000000000
+      internalID: -655209732022944660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MB-Swamp-Coast-Animated_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 278
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f12f40cc2aca6a0800000000000000
+      internalID: -6436590770279276734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MB-Swamp-Coast-Animated_19
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 278
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d64ec132b0fad20800000000000000
+      internalID: 3291862098067615047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MB-Swamp-Coast-Animated_20
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 278
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef4dcb0399a047d80800000000000000
+      internalID: -8253960563999320834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MB-Swamp-Coast-Animated_21
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 278
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a23661005ef3d27b0800000000000000
+      internalID: -5247467738035231958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MB-Swamp-Coast-Animated_22
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 279
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab7abab21be33760800000000000000
+      internalID: 7436545875393543077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MB-Swamp-Coast-Animated_23
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 280
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b048a4630dbe8d80800000000000000
+      internalID: -8246446045397499725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MB-Swamp-Coast-Animated_24
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 279
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee58f784538810610800000000000000
+      internalID: 1585698306242086382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MB-Swamp-Coast-Animated_25
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 279
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72358f16535cc6360800000000000000
+      internalID: 7164317940307219239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MB-Swamp-Coast-Animated_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 101
+        width: 128
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31cee406ffb3ed3d0800000000000000
+      internalID: -3180038318858507245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MB-Swamp-Coast-Animated_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 23
+        width: 128
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514f697589f1174e0800000000000000
+      internalID: -1985771221528677355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MB-Swamp-Coast-Animated_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed93f4af36af20870800000000000000
+      internalID: 8647749541812976094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MB-Swamp-Coast-Animated_29
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 0
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4bc84dc8b3797ed0800000000000000
+      internalID: -2415772487552283828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MB-Swamp-Coast-Animated_30
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 0
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17908e5ed2e69fac0800000000000000
+      internalID: -3820901665437382287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MB-Swamp-Coast-Animated_31
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 0
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ebab60219fbade0800000000000000
+      internalID: -1320688209885479394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MB-Swamp-Coast-Animated_32
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 0
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0215e890c4a986960800000000000000
+      internalID: 7595490422928855328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MB-Swamp-Coast-Animated_33
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 0
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b43689de6a628e440800000000000000
+      internalID: 4965261087568585547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MB-Swamp-Coast-Animated_34
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 0
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b3ef7f168f44fd20800000000000000
+      internalID: 3311359063496844214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MB-Swamp-Coast-Animated_35
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 0
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 054624d8c10ed71d0800000000000000
+      internalID: -3351276134460136368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MB-Swamp-Coast-Animated_0: -7908786387376353865
+      MB-Swamp-Coast-Animated_1: -9209769060178993897
+      MB-Swamp-Coast-Animated_10: 3674221294247284828
+      MB-Swamp-Coast-Animated_11: 7404772054687997515
+      MB-Swamp-Coast-Animated_12: -2295635694770841978
+      MB-Swamp-Coast-Animated_13: -6636126913036243952
+      MB-Swamp-Coast-Animated_14: 5521577162550434087
+      MB-Swamp-Coast-Animated_15: -8453136955302208992
+      MB-Swamp-Coast-Animated_16: 2396575702770262353
+      MB-Swamp-Coast-Animated_17: -655209732022944660
+      MB-Swamp-Coast-Animated_18: -6436590770279276734
+      MB-Swamp-Coast-Animated_19: 3291862098067615047
+      MB-Swamp-Coast-Animated_2: 7243487241208829138
+      MB-Swamp-Coast-Animated_20: -8253960563999320834
+      MB-Swamp-Coast-Animated_21: -5247467738035231958
+      MB-Swamp-Coast-Animated_22: 7436545875393543077
+      MB-Swamp-Coast-Animated_23: -8246446045397499725
+      MB-Swamp-Coast-Animated_24: 1585698306242086382
+      MB-Swamp-Coast-Animated_25: 7164317940307219239
+      MB-Swamp-Coast-Animated_26: -3180038318858507245
+      MB-Swamp-Coast-Animated_27: -1985771221528677355
+      MB-Swamp-Coast-Animated_28: 8647749541812976094
+      MB-Swamp-Coast-Animated_29: -2415772487552283828
+      MB-Swamp-Coast-Animated_3: -4825624537365295015
+      MB-Swamp-Coast-Animated_30: -3820901665437382287
+      MB-Swamp-Coast-Animated_31: -1320688209885479394
+      MB-Swamp-Coast-Animated_32: 7595490422928855328
+      MB-Swamp-Coast-Animated_33: 4965261087568585547
+      MB-Swamp-Coast-Animated_34: 3311359063496844214
+      MB-Swamp-Coast-Animated_35: -3351276134460136368
+      MB-Swamp-Coast-Animated_4: -5497227960008308933
+      MB-Swamp-Coast-Animated_5: 1455567458231646879
+      MB-Swamp-Coast-Animated_6: 1315388256561739896
+      MB-Swamp-Coast-Animated_7: 6651299288251173743
+      MB-Swamp-Coast-Animated_8: -9011518931983420466
+      MB-Swamp-Coast-Animated_9: 1267683904336427250
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

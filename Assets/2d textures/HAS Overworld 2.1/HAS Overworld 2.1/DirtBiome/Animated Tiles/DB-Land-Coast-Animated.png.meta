@@ -1,0 +1,1053 @@
+fileFormatVersion: 2
+guid: ea92c893c244c1b4c9b0f80718db82ce
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6340468974018139682
+    second: DB-Land-Coast-Animated_0
+  - first:
+      213: 6698253212444080783
+    second: DB-Land-Coast-Animated_1
+  - first:
+      213: -6059527506106129997
+    second: DB-Land-Coast-Animated_2
+  - first:
+      213: -9085319306601653901
+    second: DB-Land-Coast-Animated_3
+  - first:
+      213: 2257927285693501911
+    second: DB-Land-Coast-Animated_4
+  - first:
+      213: 6187325488837614611
+    second: DB-Land-Coast-Animated_5
+  - first:
+      213: 5838367764633227137
+    second: DB-Land-Coast-Animated_6
+  - first:
+      213: -1450218169875125855
+    second: DB-Land-Coast-Animated_7
+  - first:
+      213: -6967518069947386826
+    second: DB-Land-Coast-Animated_8
+  - first:
+      213: 1098408895585379867
+    second: DB-Land-Coast-Animated_9
+  - first:
+      213: -1924748223759739969
+    second: DB-Land-Coast-Animated_10
+  - first:
+      213: 8317730941931431716
+    second: DB-Land-Coast-Animated_11
+  - first:
+      213: -1544259031885024410
+    second: DB-Land-Coast-Animated_12
+  - first:
+      213: 7026193205804994095
+    second: DB-Land-Coast-Animated_13
+  - first:
+      213: 2290310956206824526
+    second: DB-Land-Coast-Animated_14
+  - first:
+      213: 588081608717570092
+    second: DB-Land-Coast-Animated_15
+  - first:
+      213: 1167726129350168419
+    second: DB-Land-Coast-Animated_16
+  - first:
+      213: 8276692535107735448
+    second: DB-Land-Coast-Animated_17
+  - first:
+      213: 7926461492012345693
+    second: DB-Land-Coast-Animated_18
+  - first:
+      213: -5112672270705019456
+    second: DB-Land-Coast-Animated_19
+  - first:
+      213: 5553565584563389894
+    second: DB-Land-Coast-Animated_20
+  - first:
+      213: -2728911700476820870
+    second: DB-Land-Coast-Animated_21
+  - first:
+      213: 1214794537955305261
+    second: DB-Land-Coast-Animated_22
+  - first:
+      213: 668708186434347828
+    second: DB-Land-Coast-Animated_23
+  - first:
+      213: -420924818618277414
+    second: DB-Land-Coast-Animated_24
+  - first:
+      213: 8586599686499469336
+    second: DB-Land-Coast-Animated_25
+  - first:
+      213: 7862173698874578030
+    second: DB-Land-Coast-Animated_26
+  - first:
+      213: -1814098823337855807
+    second: DB-Land-Coast-Animated_27
+  - first:
+      213: -8869627799560771956
+    second: DB-Land-Coast-Animated_28
+  - first:
+      213: 8216003904991241352
+    second: DB-Land-Coast-Animated_29
+  - first:
+      213: 6168523817452172349
+    second: DB-Land-Coast-Animated_30
+  - first:
+      213: 7686894027570417781
+    second: DB-Land-Coast-Animated_31
+  - first:
+      213: 1192050711317890270
+    second: DB-Land-Coast-Animated_32
+  - first:
+      213: -4764484165028554975
+    second: DB-Land-Coast-Animated_33
+  - first:
+      213: -6837080698176080105
+    second: DB-Land-Coast-Animated_34
+  - first:
+      213: 8887959814058066549
+    second: DB-Land-Coast-Animated_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DB-Land-Coast-Animated_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 383
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed96346bf012208a0800000000000000
+      internalID: -6340468974018139682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DB-Land-Coast-Animated_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 354
+        width: 128
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a395fcec9f4fc50800000000000000
+      internalID: 6698253212444080783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DB-Land-Coast-Animated_2
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 327
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1e5d386db38eba0800000000000000
+      internalID: -6059527506106129997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DB-Land-Coast-Animated_3
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 327
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 379920b0a367ae180800000000000000
+      internalID: -9085319306601653901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DB-Land-Coast-Animated_4
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 327
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d15c6047e4c55f10800000000000000
+      internalID: 2257927285693501911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DB-Land-Coast-Animated_5
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 327
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31cd2ef00cbcdd550800000000000000
+      internalID: 6187325488837614611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DB-Land-Coast-Animated_6
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 328
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f0e078c8c060150800000000000000
+      internalID: 5838367764633227137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DB-Land-Coast-Animated_7
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 328
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a9a6c1124acfdbe0800000000000000
+      internalID: -1450218169875125855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DB-Land-Coast-Animated_8
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 328
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 634bbaa1b376e4f90800000000000000
+      internalID: -6967518069947386826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DB-Land-Coast-Animated_9
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 328
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b16ee7722155e3f00800000000000000
+      internalID: 1098408895585379867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DB-Land-Coast-Animated_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 303
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb39cb030bbe945e0800000000000000
+      internalID: -1924748223759739969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DB-Land-Coast-Animated_11
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 303
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4272913f8348e6370800000000000000
+      internalID: 8317730941931431716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DB-Land-Coast-Animated_12
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 303
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 663fd43a790b19ae0800000000000000
+      internalID: -1544259031885024410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DB-Land-Coast-Animated_13
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 303
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e054b8e7d028160800000000000000
+      internalID: 7026193205804994095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DB-Land-Coast-Animated_14
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 303
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c94e91ea1d8cf10800000000000000
+      internalID: 2290310956206824526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DB-Land-Coast-Animated_15
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 303
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c201d8a7b19492800800000000000000
+      internalID: 588081608717570092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DB-Land-Coast-Animated_16
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 303
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36fcbde4ab8943010800000000000000
+      internalID: 1167726129350168419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DB-Land-Coast-Animated_17
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 303
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f49364208bcd270800000000000000
+      internalID: 8276692535107735448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DB-Land-Coast-Animated_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 278
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5965351bb2700e60800000000000000
+      internalID: 7926461492012345693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DB-Land-Coast-Animated_19
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 278
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c533ab68a32c09b0800000000000000
+      internalID: -5112672270705019456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DB-Land-Coast-Animated_20
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 278
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c54cb0a97a321d40800000000000000
+      internalID: 5553565584563389894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DB-Land-Coast-Animated_21
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 278
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a720cad4445f02ad0800000000000000
+      internalID: -2728911700476820870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DB-Land-Coast-Animated_22
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 279
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2729ed2231dbd010800000000000000
+      internalID: 1214794537955305261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DB-Land-Coast-Animated_23
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 280
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 433a0d67d8ab74900800000000000000
+      internalID: 668708186434347828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DB-Land-Coast-Animated_24
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 279
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad1ac1d8b13982af0800000000000000
+      internalID: -420924818618277414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DB-Land-Coast-Animated_25
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 279
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818084ecbeab92770800000000000000
+      internalID: 8586599686499469336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DB-Land-Coast-Animated_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 101
+        width: 128
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6496d3d25d0c1d60800000000000000
+      internalID: 7862173698874578030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DB-Land-Coast-Animated_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 23
+        width: 128
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c43e7f4bb603d6e0800000000000000
+      internalID: -1814098823337855807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DB-Land-Coast-Animated_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8620457280c8e480800000000000000
+      internalID: -8869627799560771956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DB-Land-Coast-Animated_29
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 0
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884a936750c150270800000000000000
+      internalID: 8216003904991241352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DB-Land-Coast-Animated_30
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 0
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d34f5cfcabffa9550800000000000000
+      internalID: 6168523817452172349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DB-Land-Coast-Animated_31
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 0
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 570186324655daa60800000000000000
+      internalID: 7686894027570417781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DB-Land-Coast-Animated_32
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 0
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed4ca526ec30b8010800000000000000
+      internalID: 1192050711317890270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DB-Land-Coast-Animated_33
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 0
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127df7d25e621edb0800000000000000
+      internalID: -4764484165028554975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DB-Land-Coast-Animated_34
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 0
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 717f884545fcd11a0800000000000000
+      internalID: -6837080698176080105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DB-Land-Coast-Animated_35
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 0
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 572c0e64c50685b70800000000000000
+      internalID: 8887959814058066549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DB-Land-Coast-Animated_0: -6340468974018139682
+      DB-Land-Coast-Animated_1: 6698253212444080783
+      DB-Land-Coast-Animated_10: -1924748223759739969
+      DB-Land-Coast-Animated_11: 8317730941931431716
+      DB-Land-Coast-Animated_12: -1544259031885024410
+      DB-Land-Coast-Animated_13: 7026193205804994095
+      DB-Land-Coast-Animated_14: 2290310956206824526
+      DB-Land-Coast-Animated_15: 588081608717570092
+      DB-Land-Coast-Animated_16: 1167726129350168419
+      DB-Land-Coast-Animated_17: 8276692535107735448
+      DB-Land-Coast-Animated_18: 7926461492012345693
+      DB-Land-Coast-Animated_19: -5112672270705019456
+      DB-Land-Coast-Animated_2: -6059527506106129997
+      DB-Land-Coast-Animated_20: 5553565584563389894
+      DB-Land-Coast-Animated_21: -2728911700476820870
+      DB-Land-Coast-Animated_22: 1214794537955305261
+      DB-Land-Coast-Animated_23: 668708186434347828
+      DB-Land-Coast-Animated_24: -420924818618277414
+      DB-Land-Coast-Animated_25: 8586599686499469336
+      DB-Land-Coast-Animated_26: 7862173698874578030
+      DB-Land-Coast-Animated_27: -1814098823337855807
+      DB-Land-Coast-Animated_28: -8869627799560771956
+      DB-Land-Coast-Animated_29: 8216003904991241352
+      DB-Land-Coast-Animated_3: -9085319306601653901
+      DB-Land-Coast-Animated_30: 6168523817452172349
+      DB-Land-Coast-Animated_31: 7686894027570417781
+      DB-Land-Coast-Animated_32: 1192050711317890270
+      DB-Land-Coast-Animated_33: -4764484165028554975
+      DB-Land-Coast-Animated_34: -6837080698176080105
+      DB-Land-Coast-Animated_35: 8887959814058066549
+      DB-Land-Coast-Animated_4: 2257927285693501911
+      DB-Land-Coast-Animated_5: 6187325488837614611
+      DB-Land-Coast-Animated_6: 5838367764633227137
+      DB-Land-Coast-Animated_7: -1450218169875125855
+      DB-Land-Coast-Animated_8: -6967518069947386826
+      DB-Land-Coast-Animated_9: 1098408895585379867
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

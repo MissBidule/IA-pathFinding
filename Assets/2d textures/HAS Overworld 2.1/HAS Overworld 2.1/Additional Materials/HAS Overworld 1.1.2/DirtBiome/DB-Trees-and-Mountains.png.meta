@@ -1,0 +1,1053 @@
+fileFormatVersion: 2
+guid: 4745621a9ac796a49b62ff8e067bca2c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8698506150774398014
+    second: DB-Trees-and-Mountains_0
+  - first:
+      213: 7956584895358213811
+    second: DB-Trees-and-Mountains_1
+  - first:
+      213: -1438462577697862483
+    second: DB-Trees-and-Mountains_2
+  - first:
+      213: 5045318714943166467
+    second: DB-Trees-and-Mountains_3
+  - first:
+      213: -7334965645105732461
+    second: DB-Trees-and-Mountains_4
+  - first:
+      213: 2745572404445089949
+    second: DB-Trees-and-Mountains_5
+  - first:
+      213: 7591882297225736827
+    second: DB-Trees-and-Mountains_6
+  - first:
+      213: -5519920500804454150
+    second: DB-Trees-and-Mountains_7
+  - first:
+      213: 4280338337129452865
+    second: DB-Trees-and-Mountains_8
+  - first:
+      213: -5816582446456798078
+    second: DB-Trees-and-Mountains_9
+  - first:
+      213: 2828508015136612364
+    second: DB-Trees-and-Mountains_10
+  - first:
+      213: -6243382115961168368
+    second: DB-Trees-and-Mountains_11
+  - first:
+      213: 6065039366121274361
+    second: DB-Trees-and-Mountains_12
+  - first:
+      213: -2878631516962704896
+    second: DB-Trees-and-Mountains_13
+  - first:
+      213: -6224916291421599069
+    second: DB-Trees-and-Mountains_14
+  - first:
+      213: 8591542561381039574
+    second: DB-Trees-and-Mountains_15
+  - first:
+      213: 122412058675690664
+    second: DB-Trees-and-Mountains_16
+  - first:
+      213: -4152813449733308849
+    second: DB-Trees-and-Mountains_17
+  - first:
+      213: -6866816009660527453
+    second: DB-Trees-and-Mountains_18
+  - first:
+      213: -7063936913865260584
+    second: DB-Trees-and-Mountains_19
+  - first:
+      213: 2582475902358572356
+    second: DB-Trees-and-Mountains_20
+  - first:
+      213: 7923128180164222090
+    second: DB-Trees-and-Mountains_21
+  - first:
+      213: 9026837597998602857
+    second: DB-Trees-and-Mountains_22
+  - first:
+      213: -2121744502260413332
+    second: DB-Trees-and-Mountains_23
+  - first:
+      213: -2664477340669599570
+    second: DB-Trees-and-Mountains_24
+  - first:
+      213: -2453994270593956469
+    second: DB-Trees-and-Mountains_25
+  - first:
+      213: -4974745981355741940
+    second: DB-Trees-and-Mountains_26
+  - first:
+      213: 8591594036792644397
+    second: DB-Trees-and-Mountains_27
+  - first:
+      213: -6211801854417723034
+    second: DB-Trees-and-Mountains_28
+  - first:
+      213: -7410802088422279330
+    second: DB-Trees-and-Mountains_29
+  - first:
+      213: 5928121685414886261
+    second: DB-Trees-and-Mountains_30
+  - first:
+      213: 6602222306008440678
+    second: DB-Trees-and-Mountains_31
+  - first:
+      213: -1623321686996908006
+    second: DB-Trees-and-Mountains_32
+  - first:
+      213: 9082809976301930709
+    second: DB-Trees-and-Mountains_33
+  - first:
+      213: 1477685686777091594
+    second: DB-Trees-and-Mountains_34
+  - first:
+      213: 1705423277082742755
+    second: DB-Trees-and-Mountains_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DB-Trees-and-Mountains_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c5579e14d47b870800000000000000
+      internalID: 8698506150774398014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DB-Trees-and-Mountains_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be90197ec77b6e60800000000000000
+      internalID: 7956584895358213811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DB-Trees-and-Mountains_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac40a928ed890ce0800000000000000
+      internalID: -1438462577697862483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DB-Trees-and-Mountains_3
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 312
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30851d6d3a2940640800000000000000
+      internalID: 5045318714943166467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DB-Trees-and-Mountains_4
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 312
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39467cbab97f43a90800000000000000
+      internalID: -7334965645105732461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DB-Trees-and-Mountains_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 240
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9090102e8b3a1620800000000000000
+      internalID: 2745572404445089949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DB-Trees-and-Mountains_6
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 288
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7277bec9b8cb5960800000000000000
+      internalID: 7591882297225736827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DB-Trees-and-Mountains_7
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 264
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af87721ec8d4563b0800000000000000
+      internalID: -5519920500804454150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DB-Trees-and-Mountains_8
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 288
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14556171a01d66b30800000000000000
+      internalID: 4280338337129452865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DB-Trees-and-Mountains_9
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 264
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2848b202519574fa0800000000000000
+      internalID: -5816582446456798078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DB-Trees-and-Mountains_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00209ebd01e04720800000000000000
+      internalID: 2828508015136612364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DB-Trees-and-Mountains_11
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 192
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e9b1d5b0d0b59a0800000000000000
+      internalID: -6243382115961168368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DB-Trees-and-Mountains_12
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 240
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb3b666b295b2450800000000000000
+      internalID: 6065039366121274361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DB-Trees-and-Mountains_13
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 216
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 002b13013eb0d08d0800000000000000
+      internalID: -2878631516962704896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DB-Trees-and-Mountains_14
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 240
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa064d2d97ac99a0800000000000000
+      internalID: -6224916291421599069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DB-Trees-and-Mountains_15
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 216
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd34cb807a4b3770800000000000000
+      internalID: 8591542561381039574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DB-Trees-and-Mountains_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8acb6996e15e2b100800000000000000
+      internalID: 122412058675690664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DB-Trees-and-Mountains_17
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 144
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e7e268b2e3e56c0800000000000000
+      internalID: -4152813449733308849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DB-Trees-and-Mountains_18
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 192
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ac083e983b24b0a0800000000000000
+      internalID: -6866816009660527453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DB-Trees-and-Mountains_19
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 168
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d1ca4d9dcad7fd90800000000000000
+      internalID: -7063936913865260584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DB-Trees-and-Mountains_20
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 192
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44dc611962cc6d320800000000000000
+      internalID: 2582475902358572356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DB-Trees-and-Mountains_21
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 168
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c5390f91b94fd60800000000000000
+      internalID: 7923128180164222090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DB-Trees-and-Mountains_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 143
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ad8d918f4c54d70800000000000000
+      internalID: 9026837597998602857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DB-Trees-and-Mountains_23
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 128
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c41aedd9c0e82e0800000000000000
+      internalID: -2121744502260413332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DB-Trees-and-Mountains_24
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 96
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea0af45c9ffd50bd0800000000000000
+      internalID: -2664477340669599570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DB-Trees-and-Mountains_25
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 144
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8547647639a1fdd0800000000000000
+      internalID: -2453994270593956469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DB-Trees-and-Mountains_26
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 120
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d2d7523e626fab0800000000000000
+      internalID: -4974745981355741940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DB-Trees-and-Mountains_27
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 144
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d23d36991497b3770800000000000000
+      internalID: 8591594036792644397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DB-Trees-and-Mountains_28
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 120
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 661a15cff1f3bc9a0800000000000000
+      internalID: -6211801854417723034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DB-Trees-and-Mountains_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 47
+        width: 81
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57fdd2c3ca872990800000000000000
+      internalID: -7410802088422279330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DB-Trees-and-Mountains_30
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 128
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57bb17ca34be44250800000000000000
+      internalID: 5928121685414886261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DB-Trees-and-Mountains_31
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 47
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f1bcd053ecf9b50800000000000000
+      internalID: 6602222306008440678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DB-Trees-and-Mountains_32
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 96
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a188c52c68dc879e0800000000000000
+      internalID: -1623321686996908006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DB-Trees-and-Mountains_33
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 96
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d8c9d7fc8f9c0e70800000000000000
+      internalID: 9082809976301930709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DB-Trees-and-Mountains_34
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 15
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0617029d4bc18410800000000000000
+      internalID: 1477685686777091594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DB-Trees-and-Mountains_35
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 0
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef033e4f61eaa710800000000000000
+      internalID: 1705423277082742755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DB-Trees-and-Mountains_0: 8698506150774398014
+      DB-Trees-and-Mountains_1: 7956584895358213811
+      DB-Trees-and-Mountains_10: 2828508015136612364
+      DB-Trees-and-Mountains_11: -6243382115961168368
+      DB-Trees-and-Mountains_12: 6065039366121274361
+      DB-Trees-and-Mountains_13: -2878631516962704896
+      DB-Trees-and-Mountains_14: -6224916291421599069
+      DB-Trees-and-Mountains_15: 8591542561381039574
+      DB-Trees-and-Mountains_16: 122412058675690664
+      DB-Trees-and-Mountains_17: -4152813449733308849
+      DB-Trees-and-Mountains_18: -6866816009660527453
+      DB-Trees-and-Mountains_19: -7063936913865260584
+      DB-Trees-and-Mountains_2: -1438462577697862483
+      DB-Trees-and-Mountains_20: 2582475902358572356
+      DB-Trees-and-Mountains_21: 7923128180164222090
+      DB-Trees-and-Mountains_22: 9026837597998602857
+      DB-Trees-and-Mountains_23: -2121744502260413332
+      DB-Trees-and-Mountains_24: -2664477340669599570
+      DB-Trees-and-Mountains_25: -2453994270593956469
+      DB-Trees-and-Mountains_26: -4974745981355741940
+      DB-Trees-and-Mountains_27: 8591594036792644397
+      DB-Trees-and-Mountains_28: -6211801854417723034
+      DB-Trees-and-Mountains_29: -7410802088422279330
+      DB-Trees-and-Mountains_3: 5045318714943166467
+      DB-Trees-and-Mountains_30: 5928121685414886261
+      DB-Trees-and-Mountains_31: 6602222306008440678
+      DB-Trees-and-Mountains_32: -1623321686996908006
+      DB-Trees-and-Mountains_33: 9082809976301930709
+      DB-Trees-and-Mountains_34: 1477685686777091594
+      DB-Trees-and-Mountains_35: 1705423277082742755
+      DB-Trees-and-Mountains_4: -7334965645105732461
+      DB-Trees-and-Mountains_5: 2745572404445089949
+      DB-Trees-and-Mountains_6: 7591882297225736827
+      DB-Trees-and-Mountains_7: -5519920500804454150
+      DB-Trees-and-Mountains_8: 4280338337129452865
+      DB-Trees-and-Mountains_9: -5816582446456798078
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

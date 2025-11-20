@@ -1,0 +1,923 @@
+fileFormatVersion: 2
+guid: 63d9b5e7b6484994490c71840702ed15
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -521586886661697251
+    second: IB-Trees-and-Mountains_0
+  - first:
+      213: 8532675399708796551
+    second: IB-Trees-and-Mountains_1
+  - first:
+      213: -3966018893546675742
+    second: IB-Trees-and-Mountains_2
+  - first:
+      213: 1864407942566157779
+    second: IB-Trees-and-Mountains_3
+  - first:
+      213: 2240461244174528810
+    second: IB-Trees-and-Mountains_4
+  - first:
+      213: -3430262374959761122
+    second: IB-Trees-and-Mountains_5
+  - first:
+      213: 3853045809089778976
+    second: IB-Trees-and-Mountains_6
+  - first:
+      213: -501104005839678711
+    second: IB-Trees-and-Mountains_7
+  - first:
+      213: -5888156922540141224
+    second: IB-Trees-and-Mountains_8
+  - first:
+      213: -8330301241444842855
+    second: IB-Trees-and-Mountains_9
+  - first:
+      213: 3317832041350530568
+    second: IB-Trees-and-Mountains_10
+  - first:
+      213: 5768315407205586494
+    second: IB-Trees-and-Mountains_11
+  - first:
+      213: 3933234345797261723
+    second: IB-Trees-and-Mountains_12
+  - first:
+      213: 1140361943786961543
+    second: IB-Trees-and-Mountains_13
+  - first:
+      213: 5131668904612079096
+    second: IB-Trees-and-Mountains_14
+  - first:
+      213: 8236170307345957
+    second: IB-Trees-and-Mountains_15
+  - first:
+      213: 8379767625966026049
+    second: IB-Trees-and-Mountains_16
+  - first:
+      213: -6913794991592909147
+    second: IB-Trees-and-Mountains_17
+  - first:
+      213: 5117429408060255214
+    second: IB-Trees-and-Mountains_18
+  - first:
+      213: -5446546030338211881
+    second: IB-Trees-and-Mountains_19
+  - first:
+      213: -6203505640576229166
+    second: IB-Trees-and-Mountains_20
+  - first:
+      213: -3120551865284692247
+    second: IB-Trees-and-Mountains_21
+  - first:
+      213: 7877391934359825734
+    second: IB-Trees-and-Mountains_22
+  - first:
+      213: -2013650857575853931
+    second: IB-Trees-and-Mountains_23
+  - first:
+      213: 2927224860792313077
+    second: IB-Trees-and-Mountains_24
+  - first:
+      213: 8926861802228116937
+    second: IB-Trees-and-Mountains_25
+  - first:
+      213: -88416322844221470
+    second: IB-Trees-and-Mountains_26
+  - first:
+      213: 4247375218056542709
+    second: IB-Trees-and-Mountains_27
+  - first:
+      213: -813534159176293604
+    second: IB-Trees-and-Mountains_28
+  - first:
+      213: -2689046232279415587
+    second: IB-Trees-and-Mountains_29
+  - first:
+      213: -876193030109386260
+    second: IB-Trees-and-Mountains_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IB-Trees-and-Mountains_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1117057d73f2c8f0800000000000000
+      internalID: -521586886661697251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Trees-and-Mountains_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7866b5761172a6670800000000000000
+      internalID: 8532675399708796551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Trees-and-Mountains_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e1a9a544ded5f8c0800000000000000
+      internalID: -3966018893546675742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Trees-and-Mountains_3
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 264
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd921d4525bfd910800000000000000
+      internalID: 1864407942566157779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Trees-and-Mountains_4
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 264
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a217d0091a7b71f10800000000000000
+      internalID: 2240461244174528810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Trees-and-Mountains_5
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 192
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e19b2265b824560d0800000000000000
+      internalID: -3430262374959761122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Trees-and-Mountains_6
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 240
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0259a12cfb4c87530800000000000000
+      internalID: 3853045809089778976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Trees-and-Mountains_7
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 216
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9039668cf88bb09f0800000000000000
+      internalID: -501104005839678711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Trees-and-Mountains_8
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 240
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 855dc3ac970194ea0800000000000000
+      internalID: -5888156922540141224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Trees-and-Mountains_9
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 216
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9924faf1823d46c80800000000000000
+      internalID: -8330301241444842855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Trees-and-Mountains_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 191
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8068b19b9ae4b0e20800000000000000
+      internalID: 3317832041350530568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Trees-and-Mountains_11
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 176
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e36d6ee0d4c2d0050800000000000000
+      internalID: 5768315407205586494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Trees-and-Mountains_12
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 144
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b999c9f5cc7a59630800000000000000
+      internalID: 3933234345797261723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Trees-and-Mountains_13
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 192
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78abbce552163df00800000000000000
+      internalID: 1140361943786961543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Trees-and-Mountains_14
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 168
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f522541ea9573740800000000000000
+      internalID: 5131668904612079096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Trees-and-Mountains_15
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 192
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e9a75d0c24d1000800000000000000
+      internalID: 8236170307345957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Trees-and-Mountains_16
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 168
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14df506024aea4470800000000000000
+      internalID: 8379767625966026049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Trees-and-Mountains_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 143
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6da3406144d00a0800000000000000
+      internalID: -6913794991592909147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Trees-and-Mountains_18
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 176
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeba19eeee2c40740800000000000000
+      internalID: 5117429408060255214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Trees-and-Mountains_19
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df70e01e3bf964b0800000000000000
+      internalID: -5446546030338211881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Trees-and-Mountains_20
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d0625bcc78b8e9a0800000000000000
+      internalID: -6203505640576229166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Trees-and-Mountains_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e6f586ac9291b4d0800000000000000
+      internalID: -3120551865284692247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Trees-and-Mountains_22
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 144
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d6b046a3e125d60800000000000000
+      internalID: 7877391934359825734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Trees-and-Mountains_23
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 590d78cb6331e04e0800000000000000
+      internalID: -2013650857575853931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Trees-and-Mountains_24
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 144
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4d73570879f9820800000000000000
+      internalID: 2927224860792313077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Trees-and-Mountains_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 47
+        width: 81
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd6fc8338592eb70800000000000000
+      internalID: 8926861802228116937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Trees-and-Mountains_26
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 47
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ef1684a2d1e5cef0800000000000000
+      internalID: -88416322844221470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Trees-and-Mountains_27
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f9be0cd145b1fa30800000000000000
+      internalID: 4247375218056542709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Trees-and-Mountains_28
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c13a6a51efeb5b4f0800000000000000
+      internalID: -813534159176293604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Trees-and-Mountains_29
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 15
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd4026ce2b69eaad0800000000000000
+      internalID: -2689046232279415587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IB-Trees-and-Mountains_30
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 0
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce928a5d41327d3f0800000000000000
+      internalID: -876193030109386260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      IB-Trees-and-Mountains_0: -521586886661697251
+      IB-Trees-and-Mountains_1: 8532675399708796551
+      IB-Trees-and-Mountains_10: 3317832041350530568
+      IB-Trees-and-Mountains_11: 5768315407205586494
+      IB-Trees-and-Mountains_12: 3933234345797261723
+      IB-Trees-and-Mountains_13: 1140361943786961543
+      IB-Trees-and-Mountains_14: 5131668904612079096
+      IB-Trees-and-Mountains_15: 8236170307345957
+      IB-Trees-and-Mountains_16: 8379767625966026049
+      IB-Trees-and-Mountains_17: -6913794991592909147
+      IB-Trees-and-Mountains_18: 5117429408060255214
+      IB-Trees-and-Mountains_19: -5446546030338211881
+      IB-Trees-and-Mountains_2: -3966018893546675742
+      IB-Trees-and-Mountains_20: -6203505640576229166
+      IB-Trees-and-Mountains_21: -3120551865284692247
+      IB-Trees-and-Mountains_22: 7877391934359825734
+      IB-Trees-and-Mountains_23: -2013650857575853931
+      IB-Trees-and-Mountains_24: 2927224860792313077
+      IB-Trees-and-Mountains_25: 8926861802228116937
+      IB-Trees-and-Mountains_26: -88416322844221470
+      IB-Trees-and-Mountains_27: 4247375218056542709
+      IB-Trees-and-Mountains_28: -813534159176293604
+      IB-Trees-and-Mountains_29: -2689046232279415587
+      IB-Trees-and-Mountains_3: 1864407942566157779
+      IB-Trees-and-Mountains_30: -876193030109386260
+      IB-Trees-and-Mountains_4: 2240461244174528810
+      IB-Trees-and-Mountains_5: -3430262374959761122
+      IB-Trees-and-Mountains_6: 3853045809089778976
+      IB-Trees-and-Mountains_7: -501104005839678711
+      IB-Trees-and-Mountains_8: -5888156922540141224
+      IB-Trees-and-Mountains_9: -8330301241444842855
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
