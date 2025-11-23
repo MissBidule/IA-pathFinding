@@ -1,9 +1,10 @@
 using UnityEngine;
 using System.Collections.Generic;
 
+public enum State {none, Village, Forest, Mine, Rest};
+
 public class DjikstraNode
 {
-    public enum State {none, Village, Forest, Mine, Rest};
     public State state = State.none;
     public Vector3Int coord;
     public List<InterestPoint> neighbours = new List<InterestPoint>();

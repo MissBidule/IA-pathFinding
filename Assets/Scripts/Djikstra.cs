@@ -41,6 +41,7 @@ public class Djikstra : MonoBehaviour
         roads.GetTile(start).GetTileData(start, roads, ref tileData);
         DjikstraNode first = new DjikstraNode();
         first.coord = start;
+        first.coord.z = -4;
         first.setState(tileData.sprite.name);
         djikstraNodes.Add(first);
         createDjikstraNodes(ref first, start);
@@ -48,7 +49,6 @@ public class Djikstra : MonoBehaviour
 
     void createDjikstraNodes(ref DjikstraNode parent, Vector3Int position)
     {
-        Debug.Log("! " + position);
         djikstraDirection(ref parent, Direction.left, position);
         djikstraDirection(ref parent, Direction.right, position);
         djikstraDirection(ref parent, Direction.down, position);
@@ -110,12 +110,13 @@ public class Djikstra : MonoBehaviour
                 {
                     pof.node = new DjikstraNode();
                     pof.node.coord = newPosition;
+                    pof.node.coord.z = -4;
                     pof.node.setState(tileData.sprite.name);
+                    djikstraNodes.Add(pof.node);
                     createDjikstraNodes(ref pof.node, newPosition);
                 }
                 pof.distance = (int)Vector3Int.Distance(parent.coord, newPosition);
                 parent.neighbours.Add(pof);
-                Debug.Log(newPosition);
             }
 
         }
@@ -141,4 +142,84 @@ public class Djikstra : MonoBehaviour
     {
         return spriteName.Contains("Road");
     }
+
+    public List<DjikstraNode> getPath(Vector3Int start, State objective)
+    {
+        List<DjikstraNode> returnList = new List<DjikstraNode>();
+        /*DjikstraNode first = new DjikstraNode();
+        bool exists = false;
+        foreach (DjikstraNode node in djikstraNodes)
+        {
+            if (node.coord == start)
+            {
+                exists = true;
+                first = node;
+                break;
+            }
+        }
+        if (!exists || objective == State.none) return returnList;
+
+        List<PointAdded> pathFound = new List<PointAdded>();
+        List<PointAdded> visited = new List<PointAdded>();
+
+        PointAdded firstPoint = new PointAdded();
+        firstPoint.end = first;
+        firstPoint.start = first;
+        firstPoint.distance = 0;
+        visited.Add(firstPoint);
+
+        while (pathFound[pathFound.Count-1].end.state != objective)
+        {
+            PointAdded nextPoint = new PointAdded();
+            nextPoint.distance = int.MaxValue;
+            for (int i = 0; i < visited.Count; i++)
+            {
+                foreach (InterestPoint neighbour in visited[i].end.neighbours)
+                {
+                    bool alreadyVisited = false;
+                    foreach (PointAdded visitedPoint in visited)
+                    {
+                        if (visitedPoint.end.coord == neighbour.node.coord)
+                        {
+                            alreadyVisited = true;
+                            break;
+                        }
+                    }
+                    if (alreadyVisited) continue;
+                    if (visited[i].distance + neighbour.distance < nextPoint.distance)
+                    {
+                        nextPoint.end = neighbour.node;
+                        nextPoint.start = visited[i].end;
+                        nextPoint.distance = visited[i].distance + neighbour.distance;
+                    }
+                }
+            }
+            if (nextPoint.distance == int.MaxValue) return returnList;
+            pathFound.Add(nextPoint);
+        }
+        
+        Vector3Int goal = visited[visited.Count-1].end.coord;
+        while (returnList[0].coord != start)
+        {
+            foreach (PointAdded visitedPoint in pathFound)
+            {
+                if (visitedPoint.end.coord == goal)
+                {
+                    Debug.Log(goal);
+                    returnList.Insert(0, visitedPoint.end);
+                    goal = visitedPoint.start.coord;
+                    break;
+                }
+            }
+        }
+*/
+        return returnList;
+    }
+}
+
+public class PointAdded
+{
+    public DjikstraNode end;
+    public DjikstraNode start;
+    public int distance;
 }
