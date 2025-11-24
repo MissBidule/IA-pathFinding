@@ -1,8 +1,6 @@
 using UnityEngine;
 using System.Collections.Generic;
 
-public enum State {none, Village, Forest, Mine, Rest};
-
 public class DjikstraNode
 {
     public State state = State.none;

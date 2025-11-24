@@ -30,11 +30,6 @@ public class Djikstra : MonoBehaviour
         //we stay in 2D
         min.z = 0;
         max.z = 0;
-        //int xValue = Mathf.Abs(max.x - min.x);
-        //int yValue = Mathf.Abs(max.y - min.y);
-        //Vector3Int[] positions = new Vector3Int[xValue * yValue];
-        //TileBase[] tiles = new TileBase[xValue * yValue];
-        //int count = roads.GetTilesRangeNonAlloc(min, max, positions, tiles);
         if (roads.GetTile(start) == null) return;
 
         TileData tileData = new TileData();
@@ -59,6 +54,7 @@ public class Djikstra : MonoBehaviour
     {
         int x = 0;
         int y = 0;
+        position.z = 0;
         switch (dir)
         {
             case Direction.left : 
@@ -76,30 +72,30 @@ public class Djikstra : MonoBehaviour
             default:
                 break;
         }
-        Vector3Int newPosition = position;
+        Vector3Int nextPosition = position;
         int amplitude = x != 0 ? max.x - min.x : max.y - min.y;
         for (int i = 1; i <= amplitude; i ++)
         {
             //check if exists
-            newPosition.x = position.x + i * x;
-            newPosition.y = position.y + i * y;
-            if (roads.GetTile(newPosition) == null) break;
+            nextPosition.x = position.x + i * x;
+            nextPosition.y = position.y + i * y;
+            if (roads.GetTile(nextPosition) == null) break;
             //check if pof || road of > 2 neighbors || if 2 is it the max ?
             TileData tileData = new TileData();
-            roads.GetTile(newPosition).GetTileData(newPosition, roads, ref tileData);
-            int neighbors = neighborCount(newPosition);
-            newPosition.x = position.x + (i + 1) * x;
-            newPosition.y = position.y + (i + 1) * y;
-            bool isMax = roads.GetTile(newPosition) == null;
+            roads.GetTile(nextPosition).GetTileData(nextPosition, roads, ref tileData);
+            int neighbors = neighborCount(nextPosition);
+            Vector3Int nextPosition2 = nextPosition;
+            nextPosition2.x += 1 * x;
+            nextPosition2.y += 1 * y;
+            bool isMax = roads.GetTile(nextPosition2) == null;
             if (!roadTile(tileData.sprite.name) || neighbors > 2 || (neighbors == 2 && isMax))
             {
+                nextPosition.z = -4;
                 InterestPoint pof = new InterestPoint();
                 bool exists = false;
-                newPosition.x = position.x + i * x;
-                newPosition.y = position.y + i * y;
                 foreach (DjikstraNode node in djikstraNodes)
                 {
-                    if (node.coord == newPosition)
+                    if (node.coord == nextPosition)
                     {
                         exists = true;
                         pof.node = node;
@@ -109,13 +105,12 @@ public class Djikstra : MonoBehaviour
                 if (!exists)
                 {
                     pof.node = new DjikstraNode();
-                    pof.node.coord = newPosition;
-                    pof.node.coord.z = -4;
+                    pof.node.coord = nextPosition;
                     pof.node.setState(tileData.sprite.name);
                     djikstraNodes.Add(pof.node);
-                    createDjikstraNodes(ref pof.node, newPosition);
+                    createDjikstraNodes(ref pof.node, nextPosition);
                 }
-                pof.distance = (int)Vector3Int.Distance(parent.coord, newPosition);
+                pof.distance = (int)Vector3Int.Distance(parent.coord, nextPosition);
                 parent.neighbours.Add(pof);
             }
 
@@ -146,7 +141,7 @@ public class Djikstra : MonoBehaviour
     public List<DjikstraNode> getPath(Vector3Int start, State objective)
     {
         List<DjikstraNode> returnList = new List<DjikstraNode>();
-        /*DjikstraNode first = new DjikstraNode();
+        DjikstraNode first = new DjikstraNode();
         bool exists = false;
         foreach (DjikstraNode node in djikstraNodes)
         {
@@ -157,7 +152,7 @@ public class Djikstra : MonoBehaviour
                 break;
             }
         }
-        if (!exists || objective == State.none) return returnList;
+        if (!exists || objective == State.none || first.state == objective) return returnList;
 
         List<PointAdded> pathFound = new List<PointAdded>();
         List<PointAdded> visited = new List<PointAdded>();
@@ -168,7 +163,7 @@ public class Djikstra : MonoBehaviour
         firstPoint.distance = 0;
         visited.Add(firstPoint);
 
-        while (pathFound[pathFound.Count-1].end.state != objective)
+        while (pathFound.Count == 0 || pathFound[pathFound.Count-1].end.state != objective)
         {
             PointAdded nextPoint = new PointAdded();
             nextPoint.distance = int.MaxValue;
@@ -196,23 +191,25 @@ public class Djikstra : MonoBehaviour
             }
             if (nextPoint.distance == int.MaxValue) return returnList;
             pathFound.Add(nextPoint);
+            visited.Add(nextPoint);
         }
         
-        Vector3Int goal = visited[visited.Count-1].end.coord;
+        Vector3Int goal = pathFound[pathFound.Count-1].start.coord;
+        returnList.Add(pathFound[pathFound.Count-1].end);
+        returnList.Insert(0, pathFound[pathFound.Count-1].start);
         while (returnList[0].coord != start)
         {
             foreach (PointAdded visitedPoint in pathFound)
             {
                 if (visitedPoint.end.coord == goal)
                 {
-                    Debug.Log(goal);
-                    returnList.Insert(0, visitedPoint.end);
+                    returnList.Insert(0, visitedPoint.start);
                     goal = visitedPoint.start.coord;
                     break;
                 }
             }
         }
-*/
+
         return returnList;
     }
 }
