@@ -55,10 +55,10 @@ public class DruidManager : MonoBehaviour
         State goal = wood ? State.Forest : State.Mine;
         foreach (GameObject druid in druids)
         {
-            if (druid.GetComponent<DjikstraBehavior>().available)
+            if (druid.GetComponent<DjikstraBehavior>().druidState == DjikstraBehavior.DruidState.available)
             {
                 druid.GetComponent<DjikstraBehavior>().myGoal = goal;
-                druid.GetComponent<DjikstraBehavior>().newGoal = true;
+                druid.GetComponent<DjikstraBehavior>().druidState = DjikstraBehavior.DruidState.newGoal;
                 if (--druisdAvailable == 0)
                 {
                     woodButton.interactable = false;
@@ -68,6 +68,19 @@ public class DruidManager : MonoBehaviour
                 break;
             }
         }
+    }
+
+    public bool isDruidAvailable(Vector3 tilePos, float waitFor)
+    {
+        foreach (GameObject druid in druids)
+        {
+            if (Vector3Int.FloorToInt(druid.transform.localPosition) == Vector3Int.FloorToInt(tilePos))
+            {
+                druid.GetComponent<DjikstraBehavior>().pauseWork(waitFor);
+                return true;
+            }
+        }
+        return false;
     }
 
     public void druidBackAtHome()
@@ -80,19 +93,19 @@ public class DruidManager : MonoBehaviour
         availables.text = druisdAvailable + " / " + druidNb;
     }
 
-    public void moreWood()
+    public void moreWood(int qty = 1)
     {
-        woodQty++;
+        woodQty += qty;
     }
 
-    public void moreIron()
+    public void moreIron(int qty = 1)
     {
-        ironQty++;
+        ironQty += qty;
     }
 
     public void pauseButton(bool pause)
     {
-        woodButton.gameObject.SetActive(pause);
-        ironButton.gameObject.SetActive(pause);
+        woodButton.gameObject.SetActive(!pause);
+        ironButton.gameObject.SetActive(!pause);
     }
 }

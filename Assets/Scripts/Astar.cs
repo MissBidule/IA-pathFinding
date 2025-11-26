@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using Unity.VisualScripting;
+using UnityEditor.ProjectWindowCallback;
 using UnityEngine;
 using UnityEngine.Tilemaps;
 
@@ -10,10 +11,19 @@ public class Astar : MonoBehaviour
     public Tilemap roads;
     public List<Sprite> woodSprites = new List<Sprite>();
     public List<Sprite> ironSprites = new List<Sprite>();
+    public List<Sprite> resourceSprites = new List<Sprite>();
     public DruidManager druidManager;
     public GameObject tileSpawner;
     public GameObject tileModel;
+    public GameObject druid;
+    public GameObject resource;
     private List<Tile> currentTiles = new List<Tile>();
+    private int gridSize = 10;
+    private float astarTimer = 5;
+    private GameObject currentDruid;
+    private GameObject currentResource;
+    private bool playing = false;
+    private State state;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -24,7 +34,7 @@ public class Astar : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetMouseButtonDown(0))
+        if (Input.GetMouseButtonDown(0) && !playing)
         {
             Vector3 mouseWorldPoint = Camera.main.ScreenToWorldPoint(Input.mousePosition);
                 
@@ -59,12 +69,25 @@ public class Astar : MonoBehaviour
                         break;
                 }
 
-                if (state == State.Forest || state == State.Mine) initAstarGrid(state);
+                if (state == State.Forest || state == State.Mine) {
+                    tpos.z = -4;
+                    if (druidManager.isDruidAvailable(tpos, astarTimer)) initAstarGrid();
+                }
             }
+        }
+        else if (playing && currentResource == null)
+        {
+            initResource();
+        }
+        else if (Input.GetMouseButtonDown(0) && currentDruid.GetComponent<AstarBehavior>().available)
+        {
+            Vector3 mouseWorldPoint = Camera.main.ScreenToWorldPoint(Input.mousePosition);
+            mouseWorldPoint.z = -1;
+            currentDruid.GetComponent<AstarBehavior>().newPath(calculateAstar(Vector3Int.FloorToInt(mouseWorldPoint)));
         }
     }
 
-    void initAstarGrid(State state)
+    void initAstarGrid()
     {
         druidManager.pauseButton(true);
         currentTiles.Clear();
@@ -72,14 +95,14 @@ public class Astar : MonoBehaviour
         GetComponent<SpriteRenderer>().sprite = state == State.Forest ? woodSprites[0] : ironSprites[0];
         GetComponent<SpriteRenderer>().enabled = true;
 
-        for (int i = -10; i  < 10; i ++)
+        for (int i = -gridSize/2; i  <= gridSize/2; i ++)
         {
-            for (int j = -10; j  < 10; j ++)
+            for (int j = -gridSize/2; j  <= gridSize/2; j ++)
             {
                 GameObject newSprite = Instantiate(tileModel, tileSpawner.transform);
-                newSprite.transform.localPosition = new Vector3(i, j, -1);
+                newSprite.transform.localPosition = new Vector3(j, i, -1);
                 Tile newTile = new Tile();
-                float randType = Random.Range(0, 1);
+                float randType = Random.Range(0.0f, 1.0f);
                 if (randType < 0.3333f)
                 {
                     newSprite.GetComponent<SpriteRenderer>().sprite = state == State.Forest ? woodSprites[1] : ironSprites[1];
@@ -96,29 +119,152 @@ public class Astar : MonoBehaviour
             }
         }
 
-        for (int i = 0; i < 10; i++)
+        for (int i = 0; i < gridSize; i++)
         {
-            int randTile = Random.Range(0, 100);
+            int randTile = Random.Range(0, currentTiles.Count);
             currentTiles[randTile].tileObject.GetComponent<SpriteRenderer>().sprite = state == State.Forest ? woodSprites[2] : ironSprites[2];
             currentTiles[randTile].tileSpeed = 0;
         }
+
+        int randSpawn = Random.Range(0, currentTiles.Count);
+        while (currentTiles[randSpawn].tileSpeed == 0) randSpawn = Random.Range(0, currentTiles.Count);
+        currentDruid = Instantiate(druid, tileSpawner.transform);
+        currentDruid.transform.localScale = druid.transform.localScale;
+        currentDruid.transform.localPosition = currentTiles[randSpawn].tileObject.transform.localPosition;
+        currentDruid.GetComponent<AstarBehavior>().myGoal = state;
+        currentDruid.SetActive(true);
+
+        initResource();
+
+        playing = true;
+
         StartCoroutine(AstarCD());
+    }
+
+    void initResource()
+    {
+        int randResource = Random.Range(0, currentTiles.Count);
+        while (currentTiles[randResource].tileSpeed == 0) randResource = Random.Range(0, currentTiles.Count);
+        currentResource = Instantiate(resource, tileSpawner.transform);
+        currentResource.transform.localScale = resource.transform.localScale;
+        currentResource.transform.localPosition = currentTiles[randResource].tileObject.transform.localPosition;
+        currentResource.GetComponent<SpriteRenderer>().sprite = state == State.Forest ? resourceSprites[0] : resourceSprites[1];
+        currentDruid.GetComponent<AstarBehavior>().resource = currentResource;
+        currentResource.SetActive(true);
     }
 
     void closeAstarGrid()
     {
+        playing = false;
         for (int i = 0; i < currentTiles.Count; i++)
         {
             Destroy(currentTiles[i].tileObject);
         }
+        Destroy(currentDruid);
+        Destroy(currentResource);
         GetComponent<SpriteRenderer>().enabled = false;
         druidManager.pauseButton(false);
     }
 
     IEnumerator AstarCD()
     {
-        yield return new WaitForSeconds(5);
+        yield return new WaitForSeconds(astarTimer);
         closeAstarGrid();
+    }
+
+    List<Vector3Int> calculateAstar(Vector3Int objective)
+    {
+        List<Vector3Int> returnList = new List<Vector3Int>();
+        int x = (int)currentDruid.transform.localPosition.x + gridSize/2;
+        int y = (int)currentDruid.transform.localPosition.y + gridSize/2;
+        if (x + y * gridSize > currentTiles.Count || x + y * gridSize < 0) return returnList;
+        Tile first = currentTiles[x + y * gridSize];
+        if (objective == Vector3Int.FloorToInt(first.tileObject.transform.localPosition) || first.tileSpeed == 0) {
+            return returnList;
+        }
+
+        List<PointIn> closedList = new List<PointIn>();
+        List<PointIn> openedList = new List<PointIn>();
+
+        PointIn firstPoint = new PointIn();
+        firstPoint.end = first;
+        firstPoint.start = first;
+        firstPoint.distance = Vector3Int.Distance(objective, Vector3Int.FloorToInt(firstPoint.end.tileObject.transform.localPosition)) + 1 * (1 - firstPoint.end.tileSpeed);
+        openedList.Add(firstPoint);
+
+        while (openedList.Count != 0)
+        {
+            float minDist = Mathf.Infinity;
+            int index = 0;
+            for (int i = 0; i < openedList.Count; i++)
+            {
+                if (openedList[i].distance < minDist)
+                {
+                    minDist = openedList[i].distance;
+                    index = i;
+                }
+            }
+
+            if (minDist == Mathf.Infinity) return returnList;
+
+            PointIn pointSelected = openedList[index];
+            closedList.Add(pointSelected);
+            openedList.RemoveAt(index);
+
+            if (pointSelected.end.tileObject.transform.localPosition != objective) {
+                for (int i = -1; i <= 1; i ++)
+                {
+                    for (int j = -1; j <= 1; j ++)
+                    {
+                        if (Mathf.Abs(i) == Mathf.Abs(j)) continue;
+
+                        bool alreadyVisited = false;
+                        int tempX = (int)pointSelected.end.tileObject.transform.localPosition.x + j;
+                        int tempY = (int)pointSelected.end.tileObject.transform.localPosition.y + i;
+                        Debug.Log(tempX + " " + tempY);
+                        if (tempX < -gridSize/2 || tempY < -gridSize/2 || tempX > gridSize/2 || tempY > gridSize/2) continue;
+                        if (currentTiles[tempX + tempY * gridSize].tileSpeed == 0) continue;
+                        /*foreach (PointIn closedPoint in closedList)
+                        {
+                            if (closedPoint.end.tileObject.transform.localPosition == currentTiles[tempX + tempY * gridSize].tileObject.transform.localPosition)
+                            {
+                                alreadyVisited = true;
+                                break;
+                            }
+                            
+                        }
+                        if (alreadyVisited) continue;
+                        
+                        PointIn neighbor = new PointIn();
+                        neighbor.start = pointSelected.end;
+                        neighbor.end = currentTiles[tempX + tempY * gridSize];
+                        neighbor.distance = Vector3Int.Distance(objective, Vector3Int.FloorToInt(neighbor.end.tileObject.transform.localPosition)) + 1 * (1-neighbor.end.tileSpeed);
+                    */}
+                }
+            }
+            else
+            {
+                openedList.Clear();
+            }
+        }
+        
+        //Vector3 goal = closedList[closedList.Count-1].start.tileObject.transform.localPosition;
+        //returnList.Add(Vector3Int.FloorToInt(closedList[closedList.Count-1].end.tileObject.transform.localPosition));
+        //returnList.Insert(0, Vector3Int.FloorToInt(closedList[closedList.Count-1].start.tileObject.transform.localPosition));
+        //while (returnList[0] != objective)
+        {
+            //foreach (PointIn closedPoint in closedList)
+            {/*
+                if (closedPoint.end.tileObject.transform.localPosition == goal)
+                {
+                    returnList.Insert(0, Vector3Int.FloorToInt(closedPoint.start.tileObject.transform.localPosition));
+                    goal = closedPoint.start.tileObject.transform.localPosition;
+                    break;
+                }*/
+            }
+        }
+
+        return returnList;
     }
 }
 
@@ -126,4 +272,11 @@ public class Tile
 {
     public GameObject tileObject;
     public float tileSpeed = 1;
+}
+
+public class PointIn
+{
+    public Tile end;
+    public Tile start;
+    public float distance;
 }

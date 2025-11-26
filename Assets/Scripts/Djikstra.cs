@@ -152,7 +152,9 @@ public class Djikstra : MonoBehaviour
                 break;
             }
         }
-        if (!exists || objective == State.none || first.state == objective) return returnList;
+        if (!exists || objective == State.none || first.state == objective) {
+            return returnList;
+        }
 
         List<PointAdded> pathFound = new List<PointAdded>();
         List<PointAdded> visited = new List<PointAdded>();
@@ -189,7 +191,9 @@ public class Djikstra : MonoBehaviour
                     }
                 }
             }
-            if (nextPoint.distance == int.MaxValue) return returnList;
+            if (nextPoint.distance == int.MaxValue) {
+                return returnList;
+            }
             pathFound.Add(nextPoint);
             visited.Add(nextPoint);
         }
