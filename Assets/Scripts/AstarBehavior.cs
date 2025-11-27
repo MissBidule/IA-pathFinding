@@ -18,7 +18,8 @@ public class AstarBehavior : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (myPath.Count != 0) {
+        if (myPath.Count != 0) Debug.Log("path");
+        /*if (myPath.Count != 0) {
             if (Vector3.Distance(transform.localPosition, myPath[0]) < 0.000001f) {
                 myPath.RemoveAt(0); 
                 return;
@@ -34,7 +35,7 @@ public class AstarBehavior : MonoBehaviour
         else
         {
             available = true;
-        }
+        }*/
     }
 
     public void newPath(List<Vector3Int> newPath)
