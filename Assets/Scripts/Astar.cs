@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using System.Linq;
 using Unity.VisualScripting;
 using UnityEditor.ProjectWindowCallback;
 using UnityEngine;
@@ -34,6 +35,7 @@ public class Astar : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        if (druidManager.buildMode) return;
         if (Input.GetMouseButtonDown(0) && !playing)
         {
             Vector3 mouseWorldPoint = Camera.main.ScreenToWorldPoint(Input.mousePosition);
@@ -49,7 +51,6 @@ public class Astar : MonoBehaviour
                 tile.GetTileData(tpos, roads, ref tileData);
 
                 if (!tileData.sprite.name.Contains("vfmr")) return;
-                State state;
                 switch (tileData.sprite.name[tileData.sprite.name.Length-1])
                 {
                     case '0' :
@@ -96,9 +97,9 @@ public class Astar : MonoBehaviour
         GetComponent<SpriteRenderer>().sprite = state == State.Forest ? woodSprites[0] : ironSprites[0];
         GetComponent<SpriteRenderer>().enabled = true;
 
-        for (int i = -gridSize/2; i  < gridSize/2; i ++)
+        for (int i = 0; i  < gridSize; i ++)
         {
-            for (int j = -gridSize/2; j  < gridSize/2; j ++)
+            for (int j = 0; j  < gridSize; j ++)
             {
                 GameObject newSprite = Instantiate(tileModel, tileSpawner.transform);
                 newSprite.transform.localPosition = new Vector3(j, i, -1);
@@ -107,14 +108,14 @@ public class Astar : MonoBehaviour
                 if (randType < 0.3333f)
                 {
                     newSprite.GetComponent<SpriteRenderer>().sprite = state == State.Forest ? woodSprites[1] : ironSprites[1];
-                    newTile.tileSpeed = 0.5f;
+                    newTile.tileSpeed = 0.25f;
                 }
                 else
                 {
                     newSprite.GetComponent<SpriteRenderer>().sprite = state == State.Forest ? woodSprites[0] : ironSprites[0];
                     newTile.tileSpeed = 1;
                 }
-                newSprite.name = "Tile" + ((j + gridSize/2) + (i + gridSize/2) * gridSize).ToString();
+                newSprite.name = "Tile" + (j + i * gridSize).ToString();
                 newSprite.SetActive(true);
                 newTile.tileObject = newSprite;
                 currentTiles.Add(newTile);
@@ -174,14 +175,12 @@ public class Astar : MonoBehaviour
         closeAstarGrid();
     }
 
-    List<Vector3Int> calculateAstar(Vector3Int objective)
+    List<Tile> calculateAstar(Vector3Int objective)
     {
-        List<Vector3Int> returnList = new List<Vector3Int>();
-        int x = (int)currentDruid.transform.localPosition.x + gridSize/2;
-        int y = (int)currentDruid.transform.localPosition.y + gridSize/2;
-        Debug.Log("!!!" + currentDruid.transform.localPosition);
-        Debug.Log(x + " " + y);
-        if (x + y * gridSize > currentTiles.Count || x + y * gridSize < 0) return returnList;
+        List<Tile> returnList = new List<Tile>();
+        int x = (int)currentDruid.transform.localPosition.x;
+        int y = (int)currentDruid.transform.localPosition.y;
+        if (x + y * gridSize >= currentTiles.Count || x + y * gridSize < 0) return returnList;
         Tile first = currentTiles[x + y * gridSize];
         if (objective == Vector3Int.FloorToInt(first.tileObject.transform.localPosition) || first.tileSpeed == 0) {
             return returnList;
@@ -223,13 +222,11 @@ public class Astar : MonoBehaviour
                         if (Mathf.Abs(i) == Mathf.Abs(j)) continue;
 
                         bool alreadyVisited = false;
-                        int tempX = (int)pointSelected.end.tileObject.transform.localPosition.x + j + gridSize/2;
-                        int tempY = (int)pointSelected.end.tileObject.transform.localPosition.y + i + gridSize/2;
-                        Debug.Log(pointSelected.end.tileObject.transform.localPosition);
-                        Debug.Log(tempX + " " + tempY);
-                        //if (tempX < -gridSize/2 || tempY < -gridSize/2 || tempX > gridSize/2 || tempY > gridSize/2) continue;
-                        //if (currentTiles[tempX + tempY * gridSize].tileSpeed == 0) continue;
-                        /*foreach (PointIn closedPoint in closedList)
+                        int tempX = (int)pointSelected.end.tileObject.transform.localPosition.x + j;
+                        int tempY = (int)pointSelected.end.tileObject.transform.localPosition.y + i;
+                        if (tempX < 0 || tempY < 0 || tempX >= gridSize || tempY >= gridSize) continue;
+                        if (currentTiles[tempX + tempY * gridSize].tileSpeed == 0) continue;
+                        foreach (PointIn closedPoint in closedList)
                         {
                             if (closedPoint.end.tileObject.transform.localPosition == currentTiles[tempX + tempY * gridSize].tileObject.transform.localPosition)
                             {
@@ -244,7 +241,8 @@ public class Astar : MonoBehaviour
                         neighbor.start = pointSelected.end;
                         neighbor.end = currentTiles[tempX + tempY * gridSize];
                         neighbor.distance = Vector3Int.Distance(objective, Vector3Int.FloorToInt(neighbor.end.tileObject.transform.localPosition)) + 1 * (1-neighbor.end.tileSpeed);
-                    */}
+                        openedList.Add(neighbor);
+                    }
                 }
             }
             else
@@ -253,22 +251,19 @@ public class Astar : MonoBehaviour
             }
         }
         
-        //Vector3 goal = closedList[closedList.Count-1].start.tileObject.transform.localPosition;
-        //returnList.Add(Vector3Int.FloorToInt(closedList[closedList.Count-1].end.tileObject.transform.localPosition));
-        //returnList[0].z = -2;
-        //returnList.Insert(0, Vector3Int.FloorToInt(closedList[closedList.Count-1].start.tileObject.transform.localPosition));
-        //returnList[0].z = -2;
-        //while (returnList[0] != objective)
+        Vector3 goal = closedList[closedList.Count-1].start.tileObject.transform.localPosition;
+        returnList.Add(closedList[closedList.Count-1].end);
+        returnList.Insert(0, closedList[closedList.Count-1].start);
+        while (new Vector3(goal.x, goal.y, -2) != currentDruid.transform.localPosition)
         {
-            //foreach (PointIn closedPoint in closedList)
-            {/*
+            foreach (PointIn closedPoint in closedList)
+            {
                 if (closedPoint.end.tileObject.transform.localPosition == goal)
                 {
-                    returnList.Insert(0, Vector3Int.FloorToInt(closedPoint.start.tileObject.transform.localPosition));
-                    returnList[0].z = -2;
+                    returnList.Insert(0, closedPoint.start);
                     goal = closedPoint.start.tileObject.transform.localPosition;
                     break;
-                }*/
+                }
             }
         }
 

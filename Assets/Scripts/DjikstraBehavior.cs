@@ -23,6 +23,10 @@ public class DjikstraBehavior : MonoBehaviour
         if (druidState == DruidState.newGoal) {
             druidState = DruidState.walk;
             myPath = algo.getPath(Vector3Int.FloorToInt(transform.localPosition), myGoal);
+            if (myPath.Count == 0) {
+                druidState = DruidState.available;
+                manager.druidBackAtHome();
+            }
         }
         else if (myPath.Count != 0 && (druidState == DruidState.walk || druidState == DruidState.pause)) {
             if (Vector3.Distance(transform.localPosition, (Vector3)myPath[0].coord) < 0.000001f) {

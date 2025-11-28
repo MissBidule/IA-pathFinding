@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 4f59def3d00749747bd817e9db7858ec
+guid: 607e62e73ca251b47bb55a235c514dc4
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4177220209166712611
-    second: Gems_0
+      213: 5293031974318352618
+    second: Crystal_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,12 +100,12 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Gems_0
+      name: Crystal_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 1
         y: 0
-        width: 16
+        width: 15
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: dd009040a588706c0800000000000000
-      internalID: -4177220209166712611
+      spriteID: ae8a7067980a47940800000000000000
+      internalID: 5293031974318352618
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Gems_0: -4177220209166712611
+      Crystal_0: 5293031974318352618
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

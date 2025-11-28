@@ -3,7 +3,7 @@ using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
-public enum State {none, Village, Forest, Mine, Rest};
+public enum State {none, Village, Forest, Mine, Rest, Destroy};
 
 public class DruidManager : MonoBehaviour
 {
@@ -16,6 +16,10 @@ public class DruidManager : MonoBehaviour
     public Button ironButton;
     public TextMeshProUGUI woodQtyTxt;
     public TextMeshProUGUI ironQtyTxt;
+    public bool buildMode = false;
+    public TextMeshProUGUI buildButton;
+    public List<GameObject> buildButtons = new List<GameObject>();
+    public Djikstra djikstra;
 
     private List<GameObject> druids = new List<GameObject>();
     private int druisdAvailable;
@@ -107,5 +111,20 @@ public class DruidManager : MonoBehaviour
     {
         woodButton.gameObject.SetActive(!pause);
         ironButton.gameObject.SetActive(!pause);
+        buildButton.gameObject.SetActive(!pause);
+    }
+
+    public void switchBuildMode()
+    {
+        buildMode = !buildMode;
+        foreach (GameObject btn in buildButtons)
+        {
+            btn.SetActive(buildMode);
+        }
+        woodButton.gameObject.SetActive(!buildMode);
+        ironButton.gameObject.SetActive(!buildMode);
+        buildButton.text = buildMode ? "CANCEL" : "BUILD";
+        if (buildMode) buildButtons[0].GetComponent<Button>().onClick.Invoke();
+        else djikstra.reload();
     }
 }
